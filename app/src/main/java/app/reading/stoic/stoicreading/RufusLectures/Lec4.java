@@ -11,6 +11,6 @@ public class Lec4 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec4);
-        setTitle("4. Should daughters receive the same training as sons?");
+        setTitle(this.getString(R.string.RufusLecturesTitle4));
     }
 }

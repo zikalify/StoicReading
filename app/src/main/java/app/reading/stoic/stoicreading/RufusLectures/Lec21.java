@@ -11,6 +11,6 @@ public class Lec21 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec21);
-        setTitle("21. On cutting the hair");
+        setTitle(this.getString(R.string.RufusLecturesTitle21));
     }
 }

@@ -11,6 +11,6 @@ public class Lec5 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec5);
-        setTitle("5. Which is more effective, theory or practice?");
+        setTitle(this.getString(R.string.RufusLecturesTitle5));
     }
 }

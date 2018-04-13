@@ -11,6 +11,6 @@ public class Lec18 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec18);
-        setTitle("18A. On food");
+        setTitle(this.getString(R.string.RufusLecturesTitle18A));
     }
 }

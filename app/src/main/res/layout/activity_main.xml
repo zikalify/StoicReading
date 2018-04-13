@@ -1,54 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:fillViewport="true"
+    android:stackFromBottom="true"
+    android:transcriptMode="alwaysScroll">
 
-    <Button
-        android:id="@+id/rufus_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignEnd="@+id/aurelius_button"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="173dp"
-        android:text="Musonius Rufus" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
-    <Button
-        android:id="@+id/aurelius_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/epictetus_button"
-        android:layout_alignParentStart="true"
-        android:layout_marginBottom="-126dp"
-        android:layout_marginStart="93dp"
-        android:text="Marcus Aurelius" />
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".MainActivity">
 
-    <Button
-        android:id="@+id/seneca_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignStart="@+id/hierocles_button"
-        android:layout_centerVertical="true"
-        android:text="Seneca" />
+            <Button
+                android:id="@+id/rufus_button"
+                android:layout_centerHorizontal="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Musonius_Rufus"
+                tools:layout_editor_absoluteX="4dp"
+                tools:layout_editor_absoluteY="5dp" />
 
-    <Button
-        android:id="@+id/hierocles_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignStart="@+id/epictetus_button"
-        android:layout_below="@+id/epictetus_button"
-        android:text="Hierocles" />
+            <Button
+                android:id="@+id/hierocles_button"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/rufus_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Hierocles"
+                tools:layout_editor_absoluteX="4dp"
+                tools:layout_editor_absoluteY="5dp" />
 
-    <Button
-        android:id="@+id/epictetus_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="122dp"
-        android:layout_marginTop="126dp"
-        android:text="Epictetus" />
+            <Button
+                android:id="@+id/aurelius_button"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/hierocles_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Marcus_Aurelius"
+                tools:layout_editor_absoluteX="4dp"
+                tools:layout_editor_absoluteY="5dp" />
 
-</RelativeLayout>
+            <Button
+                android:id="@+id/seneca_button"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/aurelius_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Seneca"
+                tools:layout_editor_absoluteX="4dp"
+                tools:layout_editor_absoluteY="5dp" />
+
+            <Button
+                android:id="@+id/epictetus_button"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/seneca_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Epictetus"
+                tools:layout_editor_absoluteX="4dp"
+                tools:layout_editor_absoluteY="5dp" />
+
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

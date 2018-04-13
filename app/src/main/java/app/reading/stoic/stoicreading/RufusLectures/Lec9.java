@@ -11,6 +11,6 @@ public class Lec9 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec9);
-        setTitle("9. That exile is not an evil.");
+        setTitle(this.getString(R.string.RufusLecturesTitle9));
     }
 }

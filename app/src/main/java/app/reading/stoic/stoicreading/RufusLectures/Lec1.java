@@ -11,6 +11,6 @@ public class Lec1 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec1);
-        setTitle("1. That there is no need of giving many proofs for one problem.");
+        setTitle(this.getString(R.string.RufusLecturesTitle1));
     }
 }

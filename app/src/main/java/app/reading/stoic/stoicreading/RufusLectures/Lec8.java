@@ -11,6 +11,6 @@ public class Lec8 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec8);
-        setTitle("8. That kings also should study philosophy.");
+        setTitle(this.getString(R.string.RufusLecturesTitle8));
     }
 }

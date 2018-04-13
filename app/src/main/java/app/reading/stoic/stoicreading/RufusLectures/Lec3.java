@@ -11,6 +11,6 @@ public class Lec3 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec3);
-        setTitle("3. That women too should study philosophy.");
+        setTitle(this.getString(R.string.RufusLecturesTitle3));
     }
 }

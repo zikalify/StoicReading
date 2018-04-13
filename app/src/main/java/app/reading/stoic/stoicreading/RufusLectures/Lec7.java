@@ -11,6 +11,6 @@ public class Lec7 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec7);
-        setTitle("7. That one should disdain hardships.");
+        setTitle(this.getString(R.string.RufusLecturesTitle7));
     }
 }

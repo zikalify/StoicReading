@@ -11,6 +11,6 @@ public class Lec11 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec11);
-        setTitle("11. What means of livelihood are appropriate for a philosopher?");
+        setTitle(this.getString(R.string.RufusLecturesTitle11));
     }
 }

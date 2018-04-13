@@ -11,6 +11,6 @@ public class Lec12 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec12);
-        setTitle("12. On sexual indulgence.");
+        setTitle(this.getString(R.string.RufusLecturesTitle12));
     }
 }

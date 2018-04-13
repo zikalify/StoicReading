@@ -11,6 +11,6 @@ public class Lec15 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec15);
-        setTitle("15. Should every child that is born be raised?");
+        setTitle(this.getString(R.string.RufusLecturesTitle15));
     }
 }

@@ -11,6 +11,6 @@ public class Lec2 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec2);
-        setTitle("2. That man is born with an inclination towards virtue.");
+        setTitle(this.getString(R.string.RufusLecturesTitle2));
     }
 }

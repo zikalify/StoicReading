@@ -11,6 +11,6 @@ public class Lec13 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec13);
-        setTitle("13A. What is the Chief End of Marriage?");
+        setTitle(this.getString(R.string.RufusLecturesTitle13A));
     }
 }

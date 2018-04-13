@@ -11,6 +11,6 @@ public class Lec14 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec14);
-        setTitle("14. Is marriage a handicap for the pursuit of philosophy?");
+        setTitle(this.getString(R.string.RufusLecturesTitle14));
     }
 }

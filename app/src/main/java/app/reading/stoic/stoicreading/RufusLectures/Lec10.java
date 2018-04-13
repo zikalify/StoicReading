@@ -11,6 +11,6 @@ public class Lec10 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lec10);
-        setTitle("10. Will the philosopher prosecute anyone for personal injury?");
+        setTitle(this.getString(R.string.RufusLecturesTitle10));
     }
 }

@@ -5,12 +5,12 @@ import android.os.Bundle;
 
 import app.reading.stoic.stoicreading.R;
 
-public class Lec1 extends AppCompatActivity {
+public class Lec16 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_lec1);
-        setTitle("1. That there is no need of giving many proofs for one problem.");
+        setContentView(R.layout.activity_lec16);
+        setTitle("16. Must one obey one's parents under all circumstances?");
     }
 }

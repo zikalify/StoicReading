@@ -21,7 +21,30 @@
         <activity android:name=".EpictetusHome" />
         <activity android:name=".AureliusHome" />
         <activity android:name=".HieroclesHome" />
-        <activity android:name=".RufusLectures.Lec1"></activity>
+        <activity android:name=".RufusLectures.Lec1" />
+        <activity android:name=".RufusLectures.LecHome" />
+        <activity android:name=".RufusLectures.Lec2" />
+        <activity android:name=".RufusLectures.Lec3" />
+        <activity android:name=".RufusLectures.Lec4" />
+        <activity android:name=".RufusLectures.Lec5" />
+        <activity android:name=".RufusLectures.Lec6" />
+        <activity android:name=".RufusLectures.Lec7" />
+        <activity android:name=".RufusLectures.Lec8" />
+        <activity android:name=".RufusLectures.Lec9" />
+        <activity android:name=".RufusLectures.Lec10" />
+        <activity android:name=".RufusLectures.Lec11" />
+        <activity android:name=".RufusLectures.Lec12" />
+        <activity android:name=".RufusLectures.Lec13" />
+        <activity android:name=".RufusLectures.Lec14" />
+        <activity android:name=".RufusLectures.Lec15" />
+        <activity android:name=".RufusLectures.Lec16" />
+        <activity android:name=".RufusLectures.Lec17" />
+        <activity android:name=".RufusLectures.Lec18" />
+        <activity android:name=".RufusLectures.Lec19" />
+        <activity android:name=".RufusLectures.Lec20" />
+        <activity android:name=".RufusLectures.Lec21" />
+        <activity android:name=".RufusLectures.Lec13B" />
+        <activity android:name=".RufusLectures.Lec18B"></activity>
     </application>
 
 </manifest>

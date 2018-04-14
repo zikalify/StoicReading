@@ -52,7 +52,20 @@
         <activity android:name=".HieroclesFragments.HieroclesFragments4" />
         <activity android:name=".HieroclesFragments.HieroclesFragments5" />
         <activity android:name=".HieroclesFragments.HieroclesFragments6" />
-        <activity android:name=".HieroclesFragments.HieroclesFragments7"></activity>
+        <activity android:name=".HieroclesFragments.HieroclesFragments7" />
+        <activity android:name=".AureliusMeditations.AureliusMedBook_1" />
+        <activity android:name=".AureliusMeditations.AureliusMedBook_2" />
+        <activity android:name=".AureliusMeditations.AureliusMedBook_3" />
+        <activity android:name=".AureliusMeditations.AureliusMedBook_4" />
+        <activity android:name=".AureliusMeditations.AureliusMedBook_5" />
+        <activity android:name=".AureliusMeditations.AureliusMedBook_6" />
+        <activity android:name=".AureliusMeditations.AureliusMedBook_7" />
+        <activity android:name=".AureliusMeditations.AureliusMedBook_8" />
+        <activity android:name=".AureliusMeditations.AureliusMedBook_9" />
+        <activity android:name=".AureliusMeditations.AureliusMedBook_10" />
+        <activity android:name=".AureliusMeditations.AureliusMedBook_11" />
+        <activity android:name=".AureliusMeditations.AureliusMedBook_12" />
+        <activity android:name=".AureliusMeditations.AureliusMedBookHome"></activity>
     </application>
 
 </manifest>

@@ -7,17 +7,18 @@
     android:layout_height="match_parent"
     android:fillViewport="true"
     android:stackFromBottom="true"
-    android:transcriptMode="alwaysScroll" >
+    android:transcriptMode="alwaysScroll">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
             xmlns:app="http://schemas.android.com/apk/res-auto"
             xmlns:tools="http://schemas.android.com/tools"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            tools:context=".RufusLectures.Lec8">
+            tools:context=".HieroclesFragments.HieroclesFragments2">
 
             <TextView
                 android:id="@+id/textView2"
@@ -29,15 +30,15 @@
                 android:layout_marginLeft="0dp"
                 android:layout_marginStart="0dp"
                 android:layout_marginTop="0dp"
-                android:padding="15dp"
-                android:text="@string/RufusLectures_Lec8"
-                android:textAppearance="@style/TextAppearance.AppCompat"
-                android:textSize="20sp"
-                app:fontFamily="sans-serif"
                 android:enabled="true"
-                android:textIsSelectable="true"
                 android:focusable="true"
-                android:longClickable="true"/>
+                android:longClickable="true"
+                android:padding="15dp"
+                android:text="@string/HieroclesFragments_2"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textIsSelectable="true"
+                android:textSize="20sp"
+                app:fontFamily="sans-serif" />
         </RelativeLayout>
     </LinearLayout>
 

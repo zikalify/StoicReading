@@ -33,7 +33,11 @@
                 android:text="@string/RufusLectures_Lec12"
                 android:textAppearance="@style/TextAppearance.AppCompat"
                 android:textSize="20sp"
-                app:fontFamily="sans-serif" />
+                app:fontFamily="sans-serif"
+                android:enabled="true"
+                android:textIsSelectable="true"
+                android:focusable="true"
+                android:longClickable="true"/>
         </RelativeLayout>
     </LinearLayout>
 

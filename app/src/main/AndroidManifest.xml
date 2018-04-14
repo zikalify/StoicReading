@@ -44,7 +44,15 @@
         <activity android:name=".RufusLectures.Lec20" />
         <activity android:name=".RufusLectures.Lec21" />
         <activity android:name=".RufusLectures.Lec13B" />
-        <activity android:name=".RufusLectures.Lec18B"></activity>
+        <activity android:name=".RufusLectures.Lec18B" />
+        <activity android:name=".HieroclesFragments.HieroclesFragmentsHome" />
+        <activity android:name=".HieroclesFragments.HieroclesFragments1" />
+        <activity android:name=".HieroclesFragments.HieroclesFragments2" />
+        <activity android:name=".HieroclesFragments.HieroclesFragments3" />
+        <activity android:name=".HieroclesFragments.HieroclesFragments4" />
+        <activity android:name=".HieroclesFragments.HieroclesFragments5" />
+        <activity android:name=".HieroclesFragments.HieroclesFragments6" />
+        <activity android:name=".HieroclesFragments.HieroclesFragments7"></activity>
     </application>
 
 </manifest>

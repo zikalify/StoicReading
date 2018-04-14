@@ -9,6 +9,6 @@ public class EpictetusHome extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_epictetus_home);
-        setTitle("Epictetus");
+        setTitle(this.getString(R.string.Epictetus));
     }
 }

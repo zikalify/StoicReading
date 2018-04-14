@@ -15,7 +15,7 @@ public class HieroclesHome extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hierocles_home);
-        setTitle("Hierocles");
+        setTitle(this.getString(R.string.Hierocles));
 
         //Call each activity when click corresponding button
         button = (Button) findViewById(R.id.hierocles_fragments_home);

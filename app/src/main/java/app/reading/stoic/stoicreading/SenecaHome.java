@@ -9,6 +9,6 @@ public class SenecaHome extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_seneca_home);
-        setTitle("Seneca");
+        setTitle(this.getString(R.string.Seneca));
     }
 }

@@ -15,7 +15,7 @@ public class RufusHome extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_rufus_home);
-        setTitle("Musonius Rufus");
+        setTitle(this.getString(R.string.Musonius_Rufus));
 
         //Call each activity when click corresponding button
         button = (Button) findViewById(R.id.rufus_lec_home);

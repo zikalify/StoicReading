@@ -15,7 +15,7 @@ public class AureliusHome extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_aurelius_home);
-        setTitle("Marcus Aurelius");
+        setTitle(this.getString(R.string.Marcus_Aurelius));
 
         //Call each activity when click corresponding button
         button = (Button) findViewById(R.id.aurelius_meditations);

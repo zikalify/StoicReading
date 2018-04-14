@@ -3,10 +3,10 @@
     <string name="action_settings">Settings</string>
 
     //Stoic philosophers names
-    <string name="Musonius_Rufus">"Musonius Rufus"</string>
+    <string name="Musonius_Rufus">"Gaius Musonius Rufus"</string>
     <string name="Hierocles">"Hierocles"</string>
     <string name="Marcus_Aurelius">"Marcus Aurelius"</string>
-    <string name="Seneca">"Seneca"</string>
+    <string name="Seneca">"Lucius Annaeus Seneca"</string>
     <string name="Epictetus">"Epictetus"</string>
 
     //Rufus Lectures string

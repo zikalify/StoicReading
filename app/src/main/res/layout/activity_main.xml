@@ -23,6 +23,7 @@
             <Button
                 android:id="@+id/rufus_button"
                 android:layout_centerHorizontal="true"
+                android:layout_below="@+id/hierocles_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/Musonius_Rufus"
@@ -32,7 +33,7 @@
             <Button
                 android:id="@+id/hierocles_button"
                 android:layout_centerHorizontal="true"
-                android:layout_below="@+id/rufus_button"
+                android:layout_below="@+id/epictetus_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/Hierocles"
@@ -42,7 +43,6 @@
             <Button
                 android:id="@+id/aurelius_button"
                 android:layout_centerHorizontal="true"
-                android:layout_below="@+id/hierocles_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/Marcus_Aurelius"
@@ -52,7 +52,7 @@
             <Button
                 android:id="@+id/seneca_button"
                 android:layout_centerHorizontal="true"
-                android:layout_below="@+id/aurelius_button"
+                android:layout_below="@+id/rufus_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/Seneca"
@@ -62,7 +62,7 @@
             <Button
                 android:id="@+id/epictetus_button"
                 android:layout_centerHorizontal="true"
-                android:layout_below="@+id/seneca_button"
+                android:layout_below="@+id/aurelius_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/Epictetus"

@@ -65,7 +65,8 @@
         <activity android:name=".AureliusMeditations.AureliusMedBook_10" />
         <activity android:name=".AureliusMeditations.AureliusMedBook_11" />
         <activity android:name=".AureliusMeditations.AureliusMedBook_12" />
-        <activity android:name=".AureliusMeditations.AureliusMedBookHome"></activity>
+        <activity android:name=".AureliusMeditations.AureliusMedBookHome" />
+        <activity android:name=".EpictetusEnchiridion.TheEnchiridion"></activity>
     </application>
 
 </manifest>

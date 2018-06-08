@@ -1,6 +1,7 @@
 package app.reading.stoic.stoicreading.AureliusMeditations;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -10,15 +11,23 @@ import app.reading.stoic.stoicreading.R;
 
 public class AureliusMedBookHome extends AppCompatActivity {
     private Button button;
+    private static final String PREFS_NAME = "prefs";
+    private static final String PREF_DARK_THEME = "dark_theme";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        SharedPreferences preferences = getSharedPreferences(PREFS_NAME, MODE_PRIVATE);
+        boolean useDarkTheme = preferences.getBoolean(PREF_DARK_THEME, false);
+
+        if (useDarkTheme) {
+            setTheme(R.style.AppThemeDark);
+        }
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_aurelius_med_book_home);
         setTitle(this.getString(R.string.AureliusMeditationsTitle));
 
         //Call each activity when click corresponding button
-        button = (Button) findViewById(R.id.aurelius_book_1);
+        button = findViewById(R.id.aurelius_book_1);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -26,7 +35,7 @@ public class AureliusMedBookHome extends AppCompatActivity {
             }
         });
 
-        button = (Button) findViewById(R.id.aurelius_book_2);
+        button = findViewById(R.id.aurelius_book_2);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -34,7 +43,7 @@ public class AureliusMedBookHome extends AppCompatActivity {
             }
         });
 
-        button = (Button) findViewById(R.id.aurelius_book_3);
+        button = findViewById(R.id.aurelius_book_3);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -42,7 +51,7 @@ public class AureliusMedBookHome extends AppCompatActivity {
             }
         });
 
-        button = (Button) findViewById(R.id.aurelius_book_4);
+        button = findViewById(R.id.aurelius_book_4);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -50,7 +59,7 @@ public class AureliusMedBookHome extends AppCompatActivity {
             }
         });
 
-        button = (Button) findViewById(R.id.aurelius_book_5);
+        button = findViewById(R.id.aurelius_book_5);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -58,7 +67,7 @@ public class AureliusMedBookHome extends AppCompatActivity {
             }
         });
 
-        button = (Button) findViewById(R.id.aurelius_book_6);
+        button = findViewById(R.id.aurelius_book_6);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -66,7 +75,7 @@ public class AureliusMedBookHome extends AppCompatActivity {
             }
         });
 
-        button = (Button) findViewById(R.id.aurelius_book_7);
+        button = findViewById(R.id.aurelius_book_7);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -74,7 +83,7 @@ public class AureliusMedBookHome extends AppCompatActivity {
             }
         });
 
-        button = (Button) findViewById(R.id.aurelius_book_8);
+        button = findViewById(R.id.aurelius_book_8);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -82,7 +91,7 @@ public class AureliusMedBookHome extends AppCompatActivity {
             }
         });
 
-        button = (Button) findViewById(R.id.aurelius_book_9);
+        button = findViewById(R.id.aurelius_book_9);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -90,7 +99,7 @@ public class AureliusMedBookHome extends AppCompatActivity {
             }
         });
 
-        button = (Button) findViewById(R.id.aurelius_book_10);
+        button = findViewById(R.id.aurelius_book_10);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -98,7 +107,7 @@ public class AureliusMedBookHome extends AppCompatActivity {
             }
         });
 
-        button = (Button) findViewById(R.id.aurelius_book_11);
+        button = findViewById(R.id.aurelius_book_11);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -106,7 +115,7 @@ public class AureliusMedBookHome extends AppCompatActivity {
             }
         });
 
-        button = (Button) findViewById(R.id.aurelius_book_12);
+        button = findViewById(R.id.aurelius_book_12);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

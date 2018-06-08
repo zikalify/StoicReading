@@ -1,6 +1,7 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Stoic Reading</string>
     <string name="action_settings">Settings</string>
+    <string name="toggle_dark_theme">"Toggle Dark Theme   "</string>
 
     //Stoic philosophers names
     <string name="Musonius_Rufus">"Gaius Musonius Rufus"</string>
@@ -462,7 +463,7 @@ What occasion, therefore, is there to say, that it is fit the man should meddle 
 16. [1] Body, soul, intelligence: to the body belong sensations, to the soul appetites, to the intelligence principles. To receive the impressions of forms by means of appearances belongs even to animals; to be pulled by the strings of desire belongs both to wild beasts and to men who have made themselves into women, and to a Phalaris and a Nero: and to have the intelligence that guides to the things which appear suitable belongs also to those who do not believe in the gods, and who betray their country, and do their impure deeds when they have shut the doors.
 
 [2] If then everything else is common to all that I have mentioned, there remains that which is peculiar to the good man, to be pleased and content with what happens, and with the thread which is spun for him; and not to defile the divinity which is planted in his breast, nor disturb it by a crowd of images, but to preserve it tranquil, following it obediently as a god, neither saying anything contrary to the truth, nor doing anything contrary to justice. And if all men refuse to believe that he lives a simple, modest, and contented life, he is neither angry with any of them, nor does he deviate from the way which leads to the end of life, to which a man ought to come pure, tranquil, ready to depart, and without any compulsion perfectly reconciled to his lot."</string>
-    <string name="AureliusBook_4">"1. That which rules within, when it is according to nature, is so affected with respect to the events which happen, that it always easily adapts itself to that which is and is presented to it. For it requires no definite material, but it moves towards its purpose, under certain conditions however; and it makes a material for itself out of that which opposes it, as fire lays hold of what falls into it, by which a small light would have been extinguished: but when the fire is strong, it soon appropriates to itself the matter which is heaped on it, and consumes it, and rises higher by means of this very material.
+    <string name="AureliusBook_4" tools:ignore="Typos">"1. That which rules within, when it is according to nature, is so affected with respect to the events which happen, that it always easily adapts itself to that which is and is presented to it. For it requires no definite material, but it moves towards its purpose, under certain conditions however; and it makes a material for itself out of that which opposes it, as fire lays hold of what falls into it, by which a small light would have been extinguished: but when the fire is strong, it soon appropriates to itself the matter which is heaped on it, and consumes it, and rises higher by means of this very material.
 
 2. Let no act be done without a purpose, nor otherwise than according to the perfect principles of art.
 

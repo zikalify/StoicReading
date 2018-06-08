@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import app.reading.stoic.stoicreading.EpictetusEnchiridion.TheEnchiridion;
+import app.reading.stoic.stoicreading.EpictetusEnchiridion.TheEnchiridionHome;
 
 public class EpictetusHome extends AppCompatActivity {
     private Button button;
@@ -38,7 +38,7 @@ public class EpictetusHome extends AppCompatActivity {
 
     //Activity call methods, called by buttons above
     public void EpictetusEnchiridion() {
-        Intent intent = new Intent(this, TheEnchiridion.class);
+        Intent intent = new Intent(this, TheEnchiridionHome.class);
         startActivity(intent);
     }
 }

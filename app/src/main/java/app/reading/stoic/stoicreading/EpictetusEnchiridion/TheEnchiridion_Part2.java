@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 import app.reading.stoic.stoicreading.R;
 
-public class TheEnchiridion extends AppCompatActivity {
+public class TheEnchiridion_Part2 extends AppCompatActivity {
     private static final String PREFS_NAME = "prefs";
     private static final String PREF_DARK_THEME = "dark_theme";
 
@@ -19,7 +19,7 @@ public class TheEnchiridion extends AppCompatActivity {
             setTheme(R.style.AppThemeDark);
         }
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_the_enchiridion);
-        setTitle(this.getString(R.string.EpictetusEnchiridionTitle));
+        setContentView(R.layout.activity_the_enchiridion_part2);
+        setTitle(this.getString(R.string.EpictetusEncTitle2));
     }
 }

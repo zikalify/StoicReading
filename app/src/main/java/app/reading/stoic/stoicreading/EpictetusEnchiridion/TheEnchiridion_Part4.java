@@ -1,4 +1,4 @@
-package app.reading.stoic.stoicreading.AureliusMeditations;
+package app.reading.stoic.stoicreading.EpictetusEnchiridion;
 
 import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 import app.reading.stoic.stoicreading.R;
 
-public class AureliusMedBook_1 extends AppCompatActivity {
+public class TheEnchiridion_Part4 extends AppCompatActivity {
     private static final String PREFS_NAME = "prefs";
     private static final String PREF_DARK_THEME = "dark_theme";
 
@@ -19,7 +19,7 @@ public class AureliusMedBook_1 extends AppCompatActivity {
             setTheme(R.style.AppThemeDark);
         }
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_aurelius_med_book_1);
-        setTitle(this.getString(R.string.AureliusMedTitle1));
+        setContentView(R.layout.activity_the_enchiridion_part4);
+        setTitle(this.getString(R.string.EpictetusEncTitle4));
     }
 }

@@ -77,6 +77,46 @@ public class MainActivity extends AppCompatActivity {
                 aureliusHome();
             }
         });
+
+        button = findViewById(R.id.zeno_button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                zenoHome();
+            }
+        });
+
+        button = findViewById(R.id.cleanthes_button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                cleanthesHome();
+            }
+        });
+
+        button = findViewById(R.id.chrysippus_button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                chrysippusHome();
+            }
+        });
+
+        button = findViewById(R.id.zenodotus_button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                zenodotusHome();
+            }
+        });
+
+        button = findViewById(R.id.aratus_button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                aratusHome();
+            }
+        });
     }
 
     //Activity call methods, called by buttons above
@@ -102,6 +142,31 @@ public class MainActivity extends AppCompatActivity {
 
     public void senecaHome() {
         Intent intent = new Intent(this, SenecaHome.class);
+        startActivity(intent);
+    }
+
+    public void zenoHome() {
+        Intent intent = new Intent(this, ZenoHome.class);
+        startActivity(intent);
+    }
+
+    public void cleanthesHome() {
+        Intent intent = new Intent(this, CleanthesHome.class);
+        startActivity(intent);
+    }
+
+    public void chrysippusHome() {
+        Intent intent = new Intent(this, ChrysippusHome.class);
+        startActivity(intent);
+    }
+
+    public void zenodotusHome() {
+        Intent intent = new Intent(this, ZenodotusHome.class);
+        startActivity(intent);
+    }
+
+    public void aratusHome() {
+        Intent intent = new Intent(this, AratusHome.class);
         startActivity(intent);
     }
 

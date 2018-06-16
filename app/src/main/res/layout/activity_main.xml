@@ -11,10 +11,10 @@
     android:transcriptMode="alwaysScroll">
 
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-            xmlns:tools="http://schemas.android.com/tools"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            tools:context=".MainActivity">
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".MainActivity">
 
         <Switch
             android:id="@+id/toggle_dark_theme"
@@ -26,57 +26,107 @@
             tools:layout_editor_absoluteX="4dp"
             tools:layout_editor_absoluteY="5dp" />
 
-            <Button
-                android:id="@+id/rufus_button"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/hierocles_button"
-                android:layout_centerHorizontal="true"
-                android:text="@string/Musonius_Rufus"
-                tools:layout_editor_absoluteX="4dp"
-                tools:layout_editor_absoluteY="5dp" />
+        <Button
+            android:id="@+id/rufus_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/hierocles_button"
+            android:layout_centerHorizontal="true"
+            android:text="@string/Musonius_Rufus"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
 
-            <Button
-                android:id="@+id/hierocles_button"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/epictetus_button"
-                android:layout_centerHorizontal="true"
-                android:text="@string/Hierocles"
-                tools:layout_editor_absoluteX="4dp"
-                tools:layout_editor_absoluteY="5dp" />
+        <Button
+            android:id="@+id/hierocles_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/epictetus_button"
+            android:layout_centerHorizontal="true"
+            android:text="@string/Hierocles"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
 
-            <Button
-                android:id="@+id/aurelius_button"
-                android:layout_marginTop="40dp"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/toggle_dark_theme"
-                android:layout_centerHorizontal="true"
-                android:text="@string/Marcus_Aurelius"
-                tools:layout_editor_absoluteX="4dp"
-                tools:layout_editor_absoluteY="5dp" />
+        <Button
+            android:id="@+id/aurelius_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/aratus_button"
+            android:layout_centerHorizontal="true"
+            android:text="@string/Marcus_Aurelius"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
 
-            <Button
-                android:id="@+id/seneca_button"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/rufus_button"
-                android:layout_centerHorizontal="true"
-                android:text="@string/Seneca"
-                tools:layout_editor_absoluteX="4dp"
-                tools:layout_editor_absoluteY="5dp" />
+        <Button
+            android:id="@+id/seneca_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rufus_button"
+            android:layout_centerHorizontal="true"
+            android:text="@string/Seneca"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
 
-            <Button
-                android:id="@+id/epictetus_button"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/aurelius_button"
-                android:layout_centerHorizontal="true"
-                android:text="@string/Epictetus"
-                tools:layout_editor_absoluteX="4dp"
-                tools:layout_editor_absoluteY="5dp" />
+        <Button
+            android:id="@+id/epictetus_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cleanthes_button"
+            android:layout_centerHorizontal="true"
+            android:text="@string/Epictetus"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
 
-        </RelativeLayout>
+        <Button
+            android:id="@+id/zeno_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_button"
+            android:layout_centerHorizontal="true"
+            android:text="@string/Zeno"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/cleanthes_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/chrysippus_button"
+            android:layout_centerHorizontal="true"
+            android:text="@string/Cleanthes"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/chrysippus_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/aurelius_button"
+            android:layout_centerHorizontal="true"
+            android:text="@string/Chrysippus"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/zenodotus_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/zeno_button"
+            android:layout_centerHorizontal="true"
+            android:text="@string/Zenodotus"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/aratus_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/toggle_dark_theme"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp"
+            android:text="@string/Aratus"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+    </RelativeLayout>
 
 </ScrollView>

@@ -7,9 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import app.reading.stoic.stoicreading.SenecaOfProvidence.SenecaOfProvidenceHome;
+import app.reading.stoic.stoicreading.ChrysippusQuotations.ChrysippusQuotations;
 
-public class SenecaHome extends AppCompatActivity {
+public class ChrysippusHome extends AppCompatActivity {
     private Button button;
     private static final String PREFS_NAME = "prefs";
     private static final String PREF_DARK_THEME = "dark_theme";
@@ -23,22 +23,22 @@ public class SenecaHome extends AppCompatActivity {
             setTheme(R.style.AppThemeDark);
         }
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_seneca_home);
-        setTitle(this.getString(R.string.Seneca));
+        setContentView(R.layout.activity_chrysippus_home);
+        setTitle(this.getString(R.string.Chrysippus));
 
         //Call each activity when click corresponding button
-        button = findViewById(R.id.seneca_of_providence);
+        button = findViewById(R.id.chrysippus_quotations);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                SenecaOfProvidenceHome();
+                ChrysippusQuotations();
             }
         });
     }
 
     //Activity call methods, called by buttons above
-    public void SenecaOfProvidenceHome() {
-        Intent intent = new Intent(this, SenecaOfProvidenceHome.class);
+    public void ChrysippusQuotations() {
+        Intent intent = new Intent(this, ChrysippusQuotations.class);
         startActivity(intent);
     }
 }

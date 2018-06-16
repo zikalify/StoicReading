@@ -13,14 +13,14 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:context=".SenecaHome">
+        tools:context=".ZenoHome">
 
         <Button
-            android:id="@+id/seneca_of_providence"
+            android:id="@+id/zeno_quotations"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:text="@string/SenecaOfProvidenceTitle"
+            android:text="@string/ZenoQuotationsTitle"
             tools:layout_editor_absoluteX="4dp"
             tools:layout_editor_absoluteY="5dp" />
 

@@ -8,23 +8,21 @@
     android:stackFromBottom="true"
     android:transcriptMode="alwaysScroll">
 
-
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:context=".SenecaHome">
+        tools:context=".AratusHome">
 
         <Button
-            android:id="@+id/seneca_of_providence"
+            android:id="@+id/aratus_phaenomena_home"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:text="@string/SenecaOfProvidenceTitle"
+            android:text="@string/AratusPhaenomenaTitle"
             tools:layout_editor_absoluteX="4dp"
             tools:layout_editor_absoluteY="5dp" />
 
     </RelativeLayout>
-
 
 </ScrollView>

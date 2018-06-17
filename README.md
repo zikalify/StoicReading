@@ -1,6 +1,13 @@
+Stoic Reading
+=============
+
 Thanks for taking an interest in this project. The plan is to expand this readme with installation instructions across Android and desktop.
 
 To install this app on Android you'll first need to go to Settings > Security > and enable Unknown Sources.
+
+[<img src="https://f-droid.org/badge/get-it-on.png"
+      alt="Get it on F-Droid"
+      height="80">](https://f-droid.org/packages/app.reading.stoic.stoicreading/)
 
     Read all the classic Stoic texts.
 

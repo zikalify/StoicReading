@@ -126,7 +126,7 @@
         <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_027" />
         <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_028" />
         <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_029" />
-        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_030"></activity>
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_030" />
     </application>
 
 </manifest>

@@ -315,6 +315,306 @@
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="33dp" />
 
+        <Button
+            android:id="@+id/seneca_letter_031"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_030"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters031"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_032"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_031"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters032"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_033"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_032"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters033"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_034"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_033"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters034"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_035"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_034"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters035"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_036"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_035"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters036"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_037"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_036"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters037"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_038"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_037"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters038"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_039"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_038"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters039"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_040"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_039"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters040"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_041"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_040"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters041"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_042"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_041"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters042"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_043"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_042"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters043"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_044"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_043"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters044"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_045"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_044"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters045"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_046"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_045"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters046"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_047"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_046"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters047"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_048"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_047"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters048"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_049"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_048"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters049"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_050"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_049"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters050"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_051"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_050"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters051"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_052"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_051"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters052"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_053"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_052"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters053"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_054"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_053"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters054"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_055"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_054"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters055"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_056"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_055"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters056"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_057"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_056"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters057"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_058"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_057"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters058"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_059"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_058"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters059"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/seneca_letter_060"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_letter_059"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tSenecaLetters060"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
 
     </RelativeLayout>
 

@@ -268,6 +268,246 @@ public class SenecaMoralLettersLuciliusHome extends AppCompatActivity {
             }
         });
 
+        button = findViewById(R.id.seneca_letter_031);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter031();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_032);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter032();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_033);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter033();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_034);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter034();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_035);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter035();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_036);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter036();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_037);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter037();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_038);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter038();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_039);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter039();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_040);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter040();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_041);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter041();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_042);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter042();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_043);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter043();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_044);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter044();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_045);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter045();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_046);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter046();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_047);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter047();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_048);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter048();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_049);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter049();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_050);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter050();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_051);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter051();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_052);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter052();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_053);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter053();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_054);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter054();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_055);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter055();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_056);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter056();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_057);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter057();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_058);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter058();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_059);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter059();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_060);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter060();
+            }
+        });
+
     }
 
     //Activity call methods, called by buttons above
@@ -418,6 +658,156 @@ public class SenecaMoralLettersLuciliusHome extends AppCompatActivity {
 
     public void SenecaLetter030() {
         Intent intent = new Intent(this, SenecaLetter_030.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter031() {
+        Intent intent = new Intent(this, SenecaLetter_031.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter032() {
+        Intent intent = new Intent(this, SenecaLetter_032.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter033() {
+        Intent intent = new Intent(this, SenecaLetter_033.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter034() {
+        Intent intent = new Intent(this, SenecaLetter_034.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter035() {
+        Intent intent = new Intent(this, SenecaLetter_035.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter036() {
+        Intent intent = new Intent(this, SenecaLetter_036.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter037() {
+        Intent intent = new Intent(this, SenecaLetter_037.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter038() {
+        Intent intent = new Intent(this, SenecaLetter_038.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter039() {
+        Intent intent = new Intent(this, SenecaLetter_039.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter040() {
+        Intent intent = new Intent(this, SenecaLetter_040.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter041() {
+        Intent intent = new Intent(this, SenecaLetter_041.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter042() {
+        Intent intent = new Intent(this, SenecaLetter_042.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter043() {
+        Intent intent = new Intent(this, SenecaLetter_043.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter044() {
+        Intent intent = new Intent(this, SenecaLetter_044.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter045() {
+        Intent intent = new Intent(this, SenecaLetter_045.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter046() {
+        Intent intent = new Intent(this, SenecaLetter_046.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter047() {
+        Intent intent = new Intent(this, SenecaLetter_047.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter048() {
+        Intent intent = new Intent(this, SenecaLetter_048.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter049() {
+        Intent intent = new Intent(this, SenecaLetter_049.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter050() {
+        Intent intent = new Intent(this, SenecaLetter_050.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter051() {
+        Intent intent = new Intent(this, SenecaLetter_051.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter052() {
+        Intent intent = new Intent(this, SenecaLetter_052.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter053() {
+        Intent intent = new Intent(this, SenecaLetter_053.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter054() {
+        Intent intent = new Intent(this, SenecaLetter_054.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter055() {
+        Intent intent = new Intent(this, SenecaLetter_055.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter056() {
+        Intent intent = new Intent(this, SenecaLetter_056.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter057() {
+        Intent intent = new Intent(this, SenecaLetter_057.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter058() {
+        Intent intent = new Intent(this, SenecaLetter_058.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter059() {
+        Intent intent = new Intent(this, SenecaLetter_059.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter060() {
+        Intent intent = new Intent(this, SenecaLetter_060.class);
         startActivity(intent);
     }
 }

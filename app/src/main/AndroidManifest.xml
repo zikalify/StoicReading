@@ -127,6 +127,36 @@
         <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_028" />
         <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_029" />
         <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_030" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_060" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_031" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_032" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_033" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_034" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_035" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_036" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_037" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_038" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_039" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_040" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_041" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_042" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_059" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_043" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_044" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_045" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_046" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_047" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_049" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_048" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_050" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_051" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_052" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_053" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_054" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_055" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_056" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_057" />
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_058"></activity>
     </application>
 
 </manifest>

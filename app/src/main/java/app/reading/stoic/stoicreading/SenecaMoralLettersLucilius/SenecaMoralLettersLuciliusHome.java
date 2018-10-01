@@ -764,6 +764,262 @@ public class SenecaMoralLettersLuciliusHome extends AppCompatActivity {
             }
         });
 
+        button = findViewById(R.id.seneca_letter_093);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter093();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_094);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter094();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_095);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter095();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_096);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter096();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_097);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter097();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_098);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter098();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_099);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter099();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_100);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter100();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_101);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter101();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_102);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter102();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_103);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter103();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_104);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter104();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_105);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter105();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_106);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter106();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_107);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter107();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_108);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter108();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_109);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter109();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_110);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter110();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_111);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter111();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_112);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter112();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_113);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter113();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_114);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter114();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_115);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter115();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_116);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter116();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_117);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter117();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_118);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter118();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_119);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter119();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_120);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter120();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_121);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter121();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_122);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter122();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_123);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter123();
+            }
+        });
+
+        button = findViewById(R.id.seneca_letter_124);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaLetter124();
+            }
+        });
+
     }
 
     //Activity call methods, called by buttons above
@@ -1224,6 +1480,166 @@ public class SenecaMoralLettersLuciliusHome extends AppCompatActivity {
 
     public void SenecaLetter092() {
         Intent intent = new Intent(this, SenecaLetter_092.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter093() {
+        Intent intent = new Intent(this, SenecaLetter_093.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter094() {
+        Intent intent = new Intent(this, SenecaLetter_094.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter095() {
+        Intent intent = new Intent(this, SenecaLetter_095.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter096() {
+        Intent intent = new Intent(this, SenecaLetter_096.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter097() {
+        Intent intent = new Intent(this, SenecaLetter_097.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter098() {
+        Intent intent = new Intent(this, SenecaLetter_098.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter099() {
+        Intent intent = new Intent(this, SenecaLetter_099.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter100() {
+        Intent intent = new Intent(this, SenecaLetter_100.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter101() {
+        Intent intent = new Intent(this, SenecaLetter_101.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter102() {
+        Intent intent = new Intent(this, SenecaLetter_102.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter103() {
+        Intent intent = new Intent(this, SenecaLetter_103.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter104() {
+        Intent intent = new Intent(this, SenecaLetter_104.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter105() {
+        Intent intent = new Intent(this, SenecaLetter_105.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter106() {
+        Intent intent = new Intent(this, SenecaLetter_106.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter107() {
+        Intent intent = new Intent(this, SenecaLetter_107.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter108() {
+        Intent intent = new Intent(this, SenecaLetter_108.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter109() {
+        Intent intent = new Intent(this, SenecaLetter_109.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter110() {
+        Intent intent = new Intent(this, SenecaLetter_110.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter111() {
+        Intent intent = new Intent(this, SenecaLetter_111.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter112() {
+        Intent intent = new Intent(this, SenecaLetter_112.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter113() {
+        Intent intent = new Intent(this, SenecaLetter_113.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter114() {
+        Intent intent = new Intent(this, SenecaLetter_114.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter115() {
+        Intent intent = new Intent(this, SenecaLetter_115.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter116() {
+        Intent intent = new Intent(this, SenecaLetter_116.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter117() {
+        Intent intent = new Intent(this, SenecaLetter_117.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter118() {
+        Intent intent = new Intent(this, SenecaLetter_118.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter119() {
+        Intent intent = new Intent(this, SenecaLetter_119.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter120() {
+        Intent intent = new Intent(this, SenecaLetter_120.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter121() {
+        Intent intent = new Intent(this, SenecaLetter_121.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter122() {
+        Intent intent = new Intent(this, SenecaLetter_122.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter123() {
+        Intent intent = new Intent(this, SenecaLetter_123.class);
+        startActivity(intent);
+    }
+
+    public void SenecaLetter124() {
+        Intent intent = new Intent(this, SenecaLetter_124.class);
         startActivity(intent);
     }
 }

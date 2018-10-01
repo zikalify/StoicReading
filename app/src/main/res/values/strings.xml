@@ -14,6 +14,7 @@
     <string name="Chrysippus">"Chrysippus of Soli"</string>
     <string name="Zenodotus">"Zenodotus"</string>
     <string name="Aratus">"Aratus"</string>
+    <string name="Arius_Didymus">"Arius Didymus"</string>
 
     //Rufus Lectures string
     <string name="RufusLecTitle">"Lectures"</string>
@@ -37,6 +38,13 @@
     <string name="ZenodotusEpitaphTitle">"Epitaph to Zeno of Citium"</string>
     //Aratus Phaenomena
     <string name="AratusPhaenomenaTitle">"Phaenomena"</string>
+    //Arius Didymus Epitome
+    <string name="AriusDidymusEpitomeTitle">"Epitome"</string>
+
+    /Didymus Epitome Titles
+    <string name="DidymusEpitome1">"On God"</string>
+    <string name="DidymusEpitome2">"On the universe"</string>
+    <string name="DidymusEpitome3">"On the soul"</string>
 
     //Phaenomena Titles
     <string name="AratusPhaenomenaChapter1">"Introduction"</string>
@@ -240,6 +248,53 @@
     <string name="tSenecaLetters122">"Letter 122. On darkness as a veil for wickedness"</string>
     <string name="tSenecaLetters123">"Letter 123. On the conflict between pleasure and virtue"</string>
     <string name="tSenecaLetters124">"Letter 124. On the true good as attained by reason"</string>
+
+    //Didymus Epitome
+    <string name="DidymusGod">"The whole ordered world (κόσμος) with all its parts they call god, and say that he is one alone, and finite, and living, and eternal, and god: for all bodies are contained in him, and in him there is no vacuum. For the name order (κόσμος) is applied to the quality of all substance as well as to that which has an arrangement of like kind consequent on the ordering (διακόσμηνσιν).
+
+Wherefore according to the former rendering they say that the world is eternal, but as to its orderly arrangement created and subject to change at infinite periods past and future.
+
+And the quality of all being is an eternal world and god; the name world (κόσμος) also means the system compounded of heaven, and the air, and earth, and sea, and the natures contained in them; and again the name world means the dwelling-place of gods and men, and of all things made for their sake.
+
+For in the same way as the name city has two meanings, the dwelling-place, and the system resulting from the combination of residents and citizens, so also the world is, as it were, a city composed of gods and men, in which the gods hold the rule, and the men are subject.
+
+There is, however, a community between them, because they partake of reason, which is nature's law: and for their sakes all other things have been made. From which things it follows that we must suppose that the god who administers the whole takes thought for mankind, being beneficent, and kind, and friendly to; man, and just, and possessed of all virtues.
+
+For this reason indeed the world is also called Zeus, since he is the cause of our life (ζῆν): and inasmuch as from eternity he administers all things unchangeably by connected (εἰρομένῳ) reason, he is also called Fate (εἱμαρμένην): and Adrasteia, because nothing can escape him (ἀποδιδράσκειν) and Providence, because, he arranges things severally for good.
+
+Cleanthes would have the sun to be the ruling power of the world, because it is the greatest of the heavenly bodies, and contributes most to the administration of the whole by making the day and the year and the other seasons.
+
+Some, however, of the sect thought that the earth was the ruling power of the world. But Chrysippus thought it was the ether, the clearest and purest as being most mobile of all things, and carrying round the whole course of the world."</string>
+    <string name="DidymusUniverse">"But the oldest of this sect are of opinion that all things are changed into ether, when at certain very long periods all are resolved into an ethereal fire.
+
+…
+
+But from this it is manifest that Chrysippus has not accepted this confusion in reference to substance (for that was impossible), but only that which was meant as equivalent to change. For the term destruction is not properly understood of the great destruction of the world which takes place in long periods by those who hold the doctrine of the dissolution of the universe into fire, which they call conflagration, but they use the term destruction as equivalent to change in the course of nature.
+
+For it is held by the Stoic philosophers that the universal substance changes into fire, as into a seed, and coming back again, from this completes its organization, such as it was before. And this is the doctrine which was accepted by the first and oldest leaders of the sect, Zeno, and Cleanthes, and Chrysippus. For the Zeno [of Tarsus] who was the disciple and successor of Chrysippus in the School is said to have doubted about the conflagration of the universe.
+
+The common reason having advanced so far, and a common nature having become greater and fuller, and having at last dried up all things and absorbed them into itself, finds itself in the universal substance, having gone back to the condition first mentioned, and to that resurrection which makes the Great Year, in which takes place the restitution from itself alone to itself again.
+
+And when it has returned, because of an arrangement such as that from which it began to make a similar organization, it according to reason follows the same course again, so that such periods go on from eternity and never cease. For it is not possible for all things to have a cause of their beginning, nor of that which administers them. For under things created there must lie a substance of a nature to receive all the changes, and the power that out of it created them. For as there is in our case a certain kind of creative nature, there must of necessity be something of the same kind in the world also, something uncreated, for there cannot be a beginning of creation in the case of this nature: and in the same way as it is uncreated, it is also impossible for it to be destroyed, either by itself, or by anything external that would destroy it."</string>
+    <string name="DidymusSoul">"The seed, says Zeno, which man emits is breath combined with moisture, a portion and fragment of soul, and a blending of the parents' seed, and a concrete mixture of the various parts of the soul. For this, having the same laws as the universe, when emitted into the womb is caught up by another breath, and made a portion of the female's soul and grows into one with it, and being there stirred and kindled by it grows in secret, continually receiving additions to the moisture and increasing of itself.
+
+…
+
+With regard to the soul, Cleanthes, in setting forth the doctrines of Zeno for comparison with the other physicists, says that Zeno calls the soul an exhalation endowed with sensation, just as Heraclitus does. For wishing to make it clear that there is a perpetual production of intelligent souls by exhalation, he compared them to rivers, speaking as follows: \"Though men step into the same rivers, the waters that from time to time flow over them are different\": and souls likewise are exhaled from moisture.
+
+So then Zeno, like Heraclitus, represents the soul as an exhalation. And he says that it is sensitive for the reason that the ruling part is capable of being impressed through the senses from real and substantial objects, and receiving their impressions. For these are special properties of soul.
+
+…
+
+And they say that there is a soul in the universe, which they call ether, and air surrounding the laud and sea, and exhalations from them; and that to this soul are attached all the other souls, both those in animals, and those in the surrounding air; for the souls of the dead still continue.
+
+Some say that the soul of the universe is eternal, but that the others at death are absorbed into union with it: and that every soul has in it a certain ruling faculty, which is life, and sensation, and appetite.
+
+…
+
+They say that the soul is created and perishable, but does not perish immediately when freed from the body, but abides for some time by itself; the soul of the good until the resolution of all things into fire, but the soul of the foolish for certain periods of time.
+
+But the continued existence of souls they thus describe, that we ourselves on becoming souls continue to exist, having been separated from the body and changed into the smaller substance of the soul. But the souls of the foolish and of irrational animals perish together with their bodies."</string>
 
     //Aratus' Phaenomena
     <string name="AratusPhaenomena1">"From Zeus let us begin; him do we mortals never leave unnamed; full of Zeus are all the streets and all the market-places of men; full is the sea and the havens thereof; always we all have need of Zeus. For we are also his offspring; and he in his kindness unto men giveth favourable signs and wakeneth the people to work, reminding them of livelihood. He tells what time the soil is best for the labour of the ox and for the mattock, and what time the seasons are favourable both for the planting of trees and for casting all manner of seeds. For himself it was who set the signs in heaven, and marked out the constellations, and for the year devised what stars chiefly should give to men right signs of the seasons, to the end that all things might grow unfailingly. Wherefore him do men ever worship first and last. Hail, O Father, mighty marvel, mighty blessing unto men. Hail to thee and to the Elder Race! Hail, ye Muses, right kindly, every one! But for me, too, in answer to my prayer direct all my lay, even as is meet, to tell the stars."</string>

@@ -117,6 +117,14 @@ public class MainActivity extends AppCompatActivity {
                 aratusHome();
             }
         });
+
+        button = findViewById(R.id.didymus_button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                didymusHome();
+            }
+        });
     }
 
     //Activity call methods, called by buttons above
@@ -167,6 +175,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void aratusHome() {
         Intent intent = new Intent(this, AratusHome.class);
+        startActivity(intent);
+    }
+
+    public void didymusHome() {
+        Intent intent = new Intent(this, DidymusHome.class);
         startActivity(intent);
     }
 

@@ -70,7 +70,7 @@
             android:id="@+id/epictetus_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/cleanthes_button"
+            android:layout_below="@+id/didymus_button"
             android:layout_centerHorizontal="true"
             android:text="@string/Epictetus"
             tools:layout_editor_absoluteX="4dp"
@@ -124,6 +124,16 @@
             android:layout_centerHorizontal="true"
             android:layout_marginTop="40dp"
             android:text="@string/Aratus"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/didymus_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cleanthes_button"
+            android:layout_centerHorizontal="true"
+            android:text="@string/Arius_Didymus"
             tools:layout_editor_absoluteX="4dp"
             tools:layout_editor_absoluteY="5dp" />
 

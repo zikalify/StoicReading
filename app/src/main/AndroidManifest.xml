@@ -220,7 +220,12 @@
         <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_118" />
         <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_119" />
         <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_121" />
-        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_120"></activity>
+        <activity android:name=".SenecaMoralLettersLucilius.SenecaLetter_120" />
+        <activity android:name=".DidymusHome" />
+        <activity android:name=".DidymusEpitome.EpitomeHome" />
+        <activity android:name=".DidymusEpitome.EpitomeGod" />
+        <activity android:name=".DidymusEpitome.EpitomeUniverse" />
+        <activity android:name=".DidymusEpitome.EpitomeSoul"></activity>
     </application>
 
 </manifest>

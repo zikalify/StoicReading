@@ -9,49 +9,49 @@ Text sources are all public domain to the best of my knowledge:
 
 Aratus:
 
-Phenomena https://web.archive.org/web/20180325010613/http://www.theoi.com/Text/AratusPhaenomena.html
+• Phenomena https://web.archive.org/web/20180325010613/http://www.theoi.com/Text/AratusPhaenomena.html
 
 Marcus Aurelius:
 
-Meditations https://web.archive.org/web/20180926203619/https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus
+• Meditations https://web.archive.org/web/20180926203619/https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus
 
 Chrysippus of Soli:
 
-Quotes https://web.archive.org/web/20180123191958/https://en.wikiquote.org/wiki/Chrysippus
+• Quotations https://web.archive.org/web/20180123191958/https://en.wikiquote.org/wiki/Chrysippus
 
 Cleanthes of Assos:
 
-Hymn to Zeus https://web.archive.org/web/20150919034926/https://en.wikisource.org/wiki/Hymn_to_Zeus
+• Hymn to Zeus https://web.archive.org/web/20150919034926/https://en.wikisource.org/wiki/Hymn_to_Zeus
 
 Arius Didymus:
 
-Epitome extracts from http://www.tertullian.org/fathers/eusebius_pe_15_book15.htm
+• Epitome extracts from http://www.tertullian.org/fathers/eusebius_pe_15_book15.htm
 
 Epictetus:
 
-Enchiridion https://en.wikisource.org/wiki/Encheiridion_of_Epictetus_(George_Long)
+• Enchiridion https://en.wikisource.org/wiki/Encheiridion_of_Epictetus_(George_Long)
 
 Hierocles:
 
-Fragments https://web.archive.org/web/20170928132203/https://en.wikisource.org/wiki/Author:Hierocles
+• Fragments https://web.archive.org/web/20170928132203/https://en.wikisource.org/wiki/Author:Hierocles
 
 Gaius Musonius Rufus:
 
-Lectures https://web.archive.org/web/20161114035357/https://sites.google.com/site/thestoiclife/the_teachers/musonius-rufus
+• Lectures https://web.archive.org/web/20161114035357/https://sites.google.com/site/thestoiclife/the_teachers/musonius-rufus
 
 Lucius Annaeus Seneca:
 
-Letters https://web.archive.org/web/20180918125311/https://en.wikisource.org/wiki/Moral_letters_to_Lucilius
+• Letters https://web.archive.org/web/20180918125311/https://en.wikisource.org/wiki/Moral_letters_to_Lucilius
 
-Of Providence https://web.archive.org/web/20160505220819/https://en.wikisource.org/wiki/Of_Providence
+• Of Providence https://web.archive.org/web/20160505220819/https://en.wikisource.org/wiki/Of_Providence
 
 Zeno of Citium:
 
-Quotes https://web.archive.org/web/20180907122901/https://en.wikiquote.org/wiki/Zeno_of_Citium
+• Quotations https://web.archive.org/web/20180907122901/https://en.wikiquote.org/wiki/Zeno_of_Citium
 
 Zenodotus:
 
-Epitaph https://archive.org/details/livesandopinion00laergoog/page/n282
+• Epitaph https://archive.org/details/livesandopinion00laergoog/page/n282
 
 [<img src="https://f-droid.org/badge/get-it-on.png"
       alt="Get it on F-Droid"

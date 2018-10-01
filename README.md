@@ -36,7 +36,7 @@ Letters https://web.archive.org/web/20180918125311/https://en.wikisource.org/wik
 Of Providence https://web.archive.org/web/20160505220819/https://en.wikisource.org/wiki/Of_Providence
 
 Zeno of Citium:
-Quotes https://web.archive.org/web/20180907122901/https://en.wikiquote.org/wiki/Zeno_of_Citium
+\nQuotes https://web.archive.org/web/20180907122901/https://en.wikiquote.org/wiki/Zeno_of_Citium
 
 Zenodotus:
 Epitaph https://archive.org/details/livesandopinion00laergoog/page/n282

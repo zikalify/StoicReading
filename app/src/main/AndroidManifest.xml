@@ -225,7 +225,9 @@
         <activity android:name=".DidymusEpitome.EpitomeHome" />
         <activity android:name=".DidymusEpitome.EpitomeGod" />
         <activity android:name=".DidymusEpitome.EpitomeUniverse" />
-        <activity android:name=".DidymusEpitome.EpitomeSoul"></activity>
+        <activity android:name=".DidymusEpitome.EpitomeSoul" />
+        <activity android:name=".PosidoniusQuotations.PosidoniusQuotations" />
+        <activity android:name=".PosidoniusHome"></activity>
     </application>
 
 </manifest>

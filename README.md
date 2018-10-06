@@ -35,6 +35,10 @@ Hierocles:
 
 • Fragments https://web.archive.org/web/20170928132203/https://en.wikisource.org/wiki/Author:Hierocles
 
+Posidonius:
+
+• Quotations https://web.archive.org/web/20180123190349/https://en.wikiquote.org/wiki/Posidonius
+
 Gaius Musonius Rufus:
 
 • Lectures https://web.archive.org/web/20161114035357/https://sites.google.com/site/thestoiclife/the_teachers/musonius-rufus

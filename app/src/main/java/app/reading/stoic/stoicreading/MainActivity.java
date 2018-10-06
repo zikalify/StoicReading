@@ -125,6 +125,14 @@ public class MainActivity extends AppCompatActivity {
                 didymusHome();
             }
         });
+
+        button = findViewById(R.id.posidonius_button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                posidoniusHome();
+            }
+        });
     }
 
     //Activity call methods, called by buttons above
@@ -180,6 +188,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void didymusHome() {
         Intent intent = new Intent(this, DidymusHome.class);
+        startActivity(intent);
+    }
+
+    public void posidoniusHome() {
+        Intent intent = new Intent(this, PosidoniusHome.class);
         startActivity(intent);
     }
 

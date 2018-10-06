@@ -15,6 +15,7 @@
     <string name="Zenodotus">"Zenodotus"</string>
     <string name="Aratus">"Aratus"</string>
     <string name="Arius_Didymus">"Arius Didymus"</string>
+    <string name="Posidonius">"Posidonius"</string>
 
     //Rufus Lectures string
     <string name="RufusLecTitle">"Lectures"</string>
@@ -40,6 +41,8 @@
     <string name="AratusPhaenomenaTitle">"Phaenomena"</string>
     //Arius Didymus Epitome
     <string name="AriusDidymusEpitomeTitle">"Epitome"</string>
+    //Posidonius Quotations string
+    <string name="PosidoniusQuotationsTitle">"Quotations"</string>
 
     /Didymus Epitome Titles
     <string name="DidymusEpitome1">"On God"</string>
@@ -248,6 +251,9 @@
     <string name="tSenecaLetters122">"Letter 122. On darkness as a veil for wickedness"</string>
     <string name="tSenecaLetters123">"Letter 123. On the conflict between pleasure and virtue"</string>
     <string name="tSenecaLetters124">"Letter 124. On the true good as attained by reason"</string>
+
+    //Posidonius quotations
+    <string name="PosidoniusQuotations">"Riches are a cause of evil, not because, of themselves, they do any evil, but because they goad men on so that they are ready to do evil."</string>
 
     //Didymus Epitome
     <string name="DidymusGod">"The whole ordered world (κόσμος) with all its parts they call god, and say that he is one alone, and finite, and living, and eternal, and god: for all bodies are contained in him, and in him there is no vacuum. For the name order (κόσμος) is applied to the quality of all substance as well as to that which has an arrangement of like kind consequent on the ordering (διακόσμηνσιν).

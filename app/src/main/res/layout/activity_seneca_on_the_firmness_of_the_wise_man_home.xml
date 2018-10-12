@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:stackFromBottom="true"
+    android:transcriptMode="alwaysScroll">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".SenecaOnTheFirmnessOfTheWiseMan.SenecaOnTheFirmnessOfTheWiseManHome">
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle1"
+                tools:layout_editor_absoluteX="4dp"
+                tools:layout_editor_absoluteY="5dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_1"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle2"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_2"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle3"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_3"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle4"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_4"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle5"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_5"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle6"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_6"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle7"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_7"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle8"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_8"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle9"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_9"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle10"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_10"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle11"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_11"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle12"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_12"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle13"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_13"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle14"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_14"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle15"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_15"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle16"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_16"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle17"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_17"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle18"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_firmness_of_the_wise_man_19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man_18"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheFirmnessOfTheWiseManTitle19"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</ScrollView>

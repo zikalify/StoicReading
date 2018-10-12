@@ -49,6 +49,10 @@ Lucius Annaeus Seneca:
 
 • Of Providence https://web.archive.org/web/20160505220819/https://en.wikisource.org/wiki/Of_Providence
 
+• On the Firmness of the Wise Man https://web.archive.org/web/20171230011225/https://en.wikisource.org/wiki/On_the_Firmness_of_the_Wise_Man
+
+• On the Shortness of Life https://web.archive.org/web/20170115062839/https://en.wikisource.org/wiki/On_the_shortness_of_life
+
 Zeno of Citium:
 
 • Quotations https://web.archive.org/web/20180907122901/https://en.wikiquote.org/wiki/Zeno_of_Citium

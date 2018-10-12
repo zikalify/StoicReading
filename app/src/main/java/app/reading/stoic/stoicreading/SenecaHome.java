@@ -9,6 +9,8 @@ import android.widget.Button;
 
 import app.reading.stoic.stoicreading.SenecaMoralLettersLucilius.SenecaMoralLettersLuciliusHome;
 import app.reading.stoic.stoicreading.SenecaOfProvidence.SenecaOfProvidenceHome;
+import app.reading.stoic.stoicreading.SenecaOnTheFirmnessOfTheWiseMan.SenecaOnTheFirmnessOfTheWiseManHome;
+import app.reading.stoic.stoicreading.SenecaOnTheShortnessOfLife.SenecaOnTheShortnessOfLifeHome;
 
 public class SenecaHome extends AppCompatActivity {
     private Button button;
@@ -36,6 +38,22 @@ public class SenecaHome extends AppCompatActivity {
             }
         });
 
+        button = findViewById(R.id.seneca_on_the_firmness_of_the_wise_man);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaOnTheFirmnessOfTheWiseManHome();
+            }
+        });
+
+        button = findViewById(R.id.seneca_on_the_shortness_of_life);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SenecaOnTheShortnessOfLifeHome();
+            }
+        });
+
         button = findViewById(R.id.seneca_moral_letters_lucilius);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -48,6 +66,16 @@ public class SenecaHome extends AppCompatActivity {
     //Activity call methods, called by buttons above
     public void SenecaOfProvidenceHome() {
         Intent intent = new Intent(this, SenecaOfProvidenceHome.class);
+        startActivity(intent);
+    }
+
+    public void SenecaOnTheFirmnessOfTheWiseManHome() {
+        Intent intent = new Intent(this, SenecaOnTheFirmnessOfTheWiseManHome.class);
+        startActivity(intent);
+    }
+
+    public void SenecaOnTheShortnessOfLifeHome() {
+        Intent intent = new Intent(this, SenecaOnTheShortnessOfLifeHome.class);
         startActivity(intent);
     }
 

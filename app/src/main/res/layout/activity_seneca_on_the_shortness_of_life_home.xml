@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:stackFromBottom="true"
+    android:transcriptMode="alwaysScroll">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".SenecaOnTheShortnessOfLife.SenecaOnTheShortnessOfLifeHome">
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle1"
+                tools:layout_editor_absoluteX="4dp"
+                tools:layout_editor_absoluteY="5dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_1"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle2"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_2"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle3"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_3"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle4"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_4"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle5"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_5"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle6"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_6"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle7"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_7"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle8"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_8"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle9"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_9"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle10"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_10"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle11"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_11"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle12"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_12"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle13"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_13"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle14"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_14"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle15"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_15"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle16"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_16"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle17"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_17"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle18"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_18"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle19"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/seneca_on_the_shortness_of_life_chapter_20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_19"
+                android:layout_centerHorizontal="true"
+                android:text="@string/SenecaOnTheShortnessOfLifeTitle20"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</ScrollView>

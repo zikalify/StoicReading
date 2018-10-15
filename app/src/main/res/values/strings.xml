@@ -25,12 +25,18 @@
     <string name="AureliusMeditationsTitle">"The Meditations"</string>
     //Epictetus The Enchiridion string
     <string name="EpictetusEnchiridionTitle">"The Enchiridion"</string>
+    //Epictetus Discourses strings
+    <string name="EpictetusDiscoursesTitle">"Discourses"</string>
+    <string name="EpictetusDiscoursesBookOne">"Book 1"</string>
+    <string name="EpictetusDiscoursesBookTwo">"Book 2"</string>
+    <string name="EpictetusDiscoursesBookThree">"Book 3"</string>
+    <string name="EpictetusDiscoursesBookFour">"Book 4"</string>
     //Seneca Of Providence string
     <string name="SenecaOfProvidenceTitle">"Of Providence"</string>
     //Seneca On the shortness of life string
     <string name="SenecaOnTheShortnessOfLifeTitle">"On the Shortness of Life"</string>
-    //Seneca On the Firmness of the Wise Person
-    <string name="SenecaOnTheFirmnessOfTheWiseManTitle">"On the Firmness of the Wise Person"</string>
+    //Seneca On the Firmness of the Wise Man
+    <string name="SenecaOnTheFirmnessOfTheWiseManTitle">"On the Firmness of the Wise Man"</string>
     //Seneca Moral letters to Lucilius string
     <string name="SenecaMoralLettersToLuciliusTitle">"Moral letters to Lucilius"</string>
     //Zeno Quotations string
@@ -48,7 +54,110 @@
     //Posidonius Quotations string
     <string name="PosidoniusQuotationsTitle">"Quotations"</string>
 
-    /Didymus Epitome Titles
+    //Epictetus Discourses Book 1 Titles
+    <string name="EpictetusDiscoursesBookOne1">"1. Of the things which are under our control and not under our control."</string>
+    <string name="EpictetusDiscoursesBookOne2">"2. How may a man preserve his proper character upon every occasion?"</string>
+    <string name="EpictetusDiscoursesBookOne3">"3. From the thesis that God is the Father of mankind, how may one proceed to the consequences?"</string>
+    <string name="EpictetusDiscoursesBookOne4">"4. Of progress."</string>
+    <string name="EpictetusDiscoursesBookOne5">"5. Against the Academics."</string>
+    <string name="EpictetusDiscoursesBookOne6">"6. Of providence."</string>
+    <string name="EpictetusDiscoursesBookOne7">"7. Of the use of equivocal premisses, hypothetical arguments, and the like."</string>
+    <string name="EpictetusDiscoursesBookOne8">"8. That the reasoning faculties, in the case of the uneducated, are not free from error."</string>
+    <string name="EpictetusDiscoursesBookOne9">"9. How from the thesis that we are akin to God may one proceed to the consequence?"</string>
+    <string name="EpictetusDiscoursesBookOne10">"10. To those who have set their hearts upon preferment at Rome."</string>
+    <string name="EpictetusDiscoursesBookOne11">"11. Of family affection."</string>
+    <string name="EpictetusDiscoursesBookOne12">"12. Of contentment."</string>
+    <string name="EpictetusDiscoursesBookOne13">"13. How may each several thing be done acceptably to the gods?"</string>
+    <string name="EpictetusDiscoursesBookOne14">"14. That the Deity oversees all men."</string>
+    <string name="EpictetusDiscoursesBookOne15">"15. What does philosophy profess?"</string>
+    <string name="EpictetusDiscoursesBookOne16">"16. Of providence."</string>
+    <string name="EpictetusDiscoursesBookOne17">"17. That the art of reasoning is indispensable."</string>
+    <string name="EpictetusDiscoursesBookOne18">"18. That we ought not to be angry with the erring."</string>
+    <string name="EpictetusDiscoursesBookOne19">"19. How ought we to bear ourselves towards tyrants?"</string>
+    <string name="EpictetusDiscoursesBookOne20">"20. How does the reasoning faculty contemplate itself?"</string>
+    <string name="EpictetusDiscoursesBookOne21">"21. To those who would be admired."</string>
+    <string name="EpictetusDiscoursesBookOne22">"22. Of preconceptions."</string>
+    <string name="EpictetusDiscoursesBookOne23">"23. In answer to Epicurus."</string>
+    <string name="EpictetusDiscoursesBookOne24">"24. How should we struggle against difficulties?"</string>
+    <string name="EpictetusDiscoursesBookOne25">"25. Upon the same theme."</string>
+    <string name="EpictetusDiscoursesBookOne26">"26. What is the rule of life?"</string>
+    <string name="EpictetusDiscoursesBookOne27">"27. In how many ways do the external impressions arise, and what aids should we have ready at hand to meet them?"</string>
+    <string name="EpictetusDiscoursesBookOne28">"28. That we ought not to be angry with men; and what are the little things and the great among men?"</string>
+    <string name="EpictetusDiscoursesBookOne29">"29. Of steadfastness."</string>
+    <string name="EpictetusDiscoursesBookOne30">"30. What aid ought we have at hand in difficulties?"</string>
+
+    //Epictetus Discourses Book 2 Titles
+    <string name="EpictetusDiscoursesBookTwo1">"1. That confidence does not conflict with caution."</string>
+    <string name="EpictetusDiscoursesBookTwo2">"2. On tranquillity."</string>
+    <string name="EpictetusDiscoursesBookTwo3">"3. To those who recommend persons to the philosophers."</string>
+    <string name="EpictetusDiscoursesBookTwo4">"4. To the man who had once been caught in adultery."</string>
+    <string name="EpictetusDiscoursesBookTwo5">"5. How are magnanimity and carefulness compatible?"</string>
+    <string name="EpictetusDiscoursesBookTwo6">"6. Of indifference in things."</string>
+    <string name="EpictetusDiscoursesBookTwo7">"7. How should one employ divination?"</string>
+    <string name="EpictetusDiscoursesBookTwo8">"8. What is the true nature of the good?"</string>
+    <string name="EpictetusDiscoursesBookTwo9">"9. That although we are unable to fulfil the profession of a man we adopt that of a philosopher."</string>
+    <string name="EpictetusDiscoursesBookTwo10">"10. How from the designation that he bears is it possible to discover a man's duties?"</string>
+    <string name="EpictetusDiscoursesBookTwo11">"11. What is the beginning of philosophy?"</string>
+    <string name="EpictetusDiscoursesBookTwo12">"12. Upon the art of argumentation."</string>
+    <string name="EpictetusDiscoursesBookTwo13">"13. Of anxiety."</string>
+    <string name="EpictetusDiscoursesBookTwo14">"14. To Naso."</string>
+    <string name="EpictetusDiscoursesBookTwo15">"15. To those who cling obstinately to the judgements which they have once formed."</string>
+    <string name="EpictetusDiscoursesBookTwo16">"16. That we do not practise the application of our judgements about things good and evil."</string>
+    <string name="EpictetusDiscoursesBookTwo17">"17. How ought we adjust our preconceptions to individual instances?"</string>
+    <string name="EpictetusDiscoursesBookTwo18">"18. How must we struggle against our external impressions?"</string>
+    <string name="EpictetusDiscoursesBookTwo19">"19. To those who take up the teachings of the philosophers only to talk about them?"</string>
+    <string name="EpictetusDiscoursesBookTwo20">"20. Against Epicureans and Academics."</string>
+    <string name="EpictetusDiscoursesBookTwo21">"21. Of inconsistency."</string>
+    <string name="EpictetusDiscoursesBookTwo22">"22. Of friendship."</string>
+    <string name="EpictetusDiscoursesBookTwo23">"23. Of the faculty of expression."</string>
+    <string name="EpictetusDiscoursesBookTwo24">"24. To one of those whom he did not deem worthy."</string>
+    <string name="EpictetusDiscoursesBookTwo25">"25. How is logic necessary?"</string>
+    <string name="EpictetusDiscoursesBookTwo26">"26. What is the distinctive characteristic of error?"</string>
+
+    //Epictetus Discourses Book 3 Titles
+    <string name="EpictetusDiscoursesBookThree1">"1. Of personal adornment."</string>
+    <string name="EpictetusDiscoursesBookThree2">"2. The fields of study in which the man who expects to make progress will have to go into training; and that we neglect what is most important."</string>
+    <string name="EpictetusDiscoursesBookThree3">"3. What is the subject-matter with which the good man has to deal; and what should be the chief object of our training?"</string>
+    <string name="EpictetusDiscoursesBookThree4">"4. To the man who took sides, in an undignified manner, while in a theatre."</string>
+    <string name="EpictetusDiscoursesBookThree5">"5. To those who leave school because of illness."</string>
+    <string name="EpictetusDiscoursesBookThree6">"6. Some scattered sayings."</string>
+    <string name="EpictetusDiscoursesBookThree7">"7. A conversation with the Imperial Bailiff of the Free Cities, who was an Epicurean."</string>
+    <string name="EpictetusDiscoursesBookThree8">"8. How ought we to exercise ourselves to deal with the impressions of our senses?"</string>
+    <string name="EpictetusDiscoursesBookThree9">"9. To a certain rhetorician who was going to Rome for a law-suit."</string>
+    <string name="EpictetusDiscoursesBookThree10">"10. How ought we to bear our illnesses?"</string>
+    <string name="EpictetusDiscoursesBookThree11">"11. Some scattered sayings."</string>
+    <string name="EpictetusDiscoursesBookThree12">"12. Of training."</string>
+    <string name="EpictetusDiscoursesBookThree13">"13. The meaning of a forlorn state, and the kind of person a forlorn man is."</string>
+    <string name="EpictetusDiscoursesBookThree14">"14. Some scattered sayings."</string>
+    <string name="EpictetusDiscoursesBookThree15">"15. That we ought to approach each separate thing with circumspection."</string>
+    <string name="EpictetusDiscoursesBookThree16">"16. That one should enter cautiously into social intercourse."</string>
+    <string name="EpictetusDiscoursesBookThree17">"17. Of Providence."</string>
+    <string name="EpictetusDiscoursesBookThree18">"18. That we ought not to allow any news to disturb us."</string>
+    <string name="EpictetusDiscoursesBookThree19">"19. What is the position of the layman, and what that of the philosopher?"</string>
+    <string name="EpictetusDiscoursesBookThree20">"20. That it is possible to derive advantage from everything external."</string>
+    <string name="EpictetusDiscoursesBookThree21">"21. To those who enter light heartedly upon the profession of lecturing."</string>
+    <string name="EpictetusDiscoursesBookThree22">"22. On the calling of a Cynic."</string>
+    <string name="EpictetusDiscoursesBookThree23">"23. To those who read and discuss for the purpose of display."</string>
+    <string name="EpictetusDiscoursesBookThree24">"24. That we ought not to yearn for the things which are not under our control."</string>
+    <string name="EpictetusDiscoursesBookThree25">"25. To those who fail to achieve their purposes."</string>
+    <string name="EpictetusDiscoursesBookThree26">"26. To those who fear want."</string>
+
+    //Epictetus Discourses Book 4 Titles
+    <string name="EpictetusDiscoursesBookFour1">"1. Of freedom."</string>
+    <string name="EpictetusDiscoursesBookFour2">"2. Of social intercourse."</string>
+    <string name="EpictetusDiscoursesBookFour3">"3. What things should be exchanged for what things?"</string>
+    <string name="EpictetusDiscoursesBookFour4">"4. To those who have set their hearts upon living in peace."</string>
+    <string name="EpictetusDiscoursesBookFour5">"5. Against the contentious and brutal."</string>
+    <string name="EpictetusDiscoursesBookFour6">"6. To those who are vexed at being pitied."</string>
+    <string name="EpictetusDiscoursesBookFour7">"7. Of freedom from fear."</string>
+    <string name="EpictetusDiscoursesBookFour8">"8. To those who hastily assume the guise of the philosophers."</string>
+    <string name="EpictetusDiscoursesBookFour9">"9. To the man who had become shameless."</string>
+    <string name="EpictetusDiscoursesBookFour10">"10. What ought we to despise and on what place a high value?"</string>
+    <string name="EpictetusDiscoursesBookFour11">"11. Of cleanliness."</string>
+    <string name="EpictetusDiscoursesBookFour12">"12. Of attention."</string>
+    <string name="EpictetusDiscoursesBookFour13">"13. To those who lightly talk about their own affairs."</string>
+
+    //Didymus Epitome Titles
     <string name="DidymusEpitome1">"On God"</string>
     <string name="DidymusEpitome2">"On the universe"</string>
     <string name="DidymusEpitome3">"On the soul"</string>
@@ -147,7 +256,7 @@
     <string name="SenecaOnTheShortnessOfLifeTitle19">"Chapter 19"</string>
     <string name="SenecaOnTheShortnessOfLifeTitle20">"Chapter 20"</string>
 
-    //Seneca On the Firmness of the Wise Person
+    //Seneca On the Firmness of the Wise Man
     <string name="SenecaOnTheFirmnessOfTheWiseManTitle1">"Chapter 1"</string>
     <string name="SenecaOnTheFirmnessOfTheWiseManTitle2">"Chapter 2"</string>
     <string name="SenecaOnTheFirmnessOfTheWiseManTitle3">"Chapter 3"</string>

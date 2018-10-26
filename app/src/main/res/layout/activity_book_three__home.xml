@@ -1,9 +1,283 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".EpictetusDiscourses.BookThree.BookThree_Home">
+    android:fillViewport="true"
+    android:stackFromBottom="true"
+    android:transcriptMode="alwaysScroll">
 
-</android.support.constraint.ConstraintLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".EpictetusDiscourses.BookThree.BookThree_Home">
+
+            <Button
+                android:id="@+id/BookThree_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree1Title"
+                tools:layout_editor_absoluteX="4dp"
+                tools:layout_editor_absoluteY="5dp" />
+
+            <Button
+                android:id="@+id/BookThree_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_1"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree2Title"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/BookThree_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_2"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree3Title"
+                tools:layout_editor_absoluteX="189dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <Button
+                android:id="@+id/BookThree_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_3"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree4Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="74dp" />
+
+            <Button
+                android:id="@+id/BookThree_5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_4"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree5Title"
+                tools:layout_editor_absoluteX="119dp"
+                tools:layout_editor_absoluteY="74dp" />
+
+            <Button
+                android:id="@+id/BookThree_6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_5"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree6Title"
+                tools:layout_editor_absoluteX="219dp"
+                tools:layout_editor_absoluteY="74dp" />
+
+            <Button
+                android:id="@+id/BookThree_7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_6"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree7Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_7"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree8Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_8"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree9Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_9"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree10Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_10"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree11Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_11"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree12Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_12"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree13Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_13"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree14Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_14"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree15Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_15"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree16Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_16"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree17Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_17"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree18Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_18"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree19Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_19"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree20Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <Button
+                android:id="@+id/BookThree_21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_20"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree21Title"
+                tools:layout_editor_absoluteX="4dp"
+                tools:layout_editor_absoluteY="5dp" />
+
+            <Button
+                android:id="@+id/BookThree_22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_21"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree22Title"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
+
+            <Button
+                android:id="@+id/BookThree_23"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_22"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree23Title"
+                tools:layout_editor_absoluteX="189dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <Button
+                android:id="@+id/BookThree_24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_23"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree24Title"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="74dp" />
+
+            <Button
+                android:id="@+id/BookThree_25"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_24"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree25Title"
+                tools:layout_editor_absoluteX="119dp"
+                tools:layout_editor_absoluteY="74dp" />
+
+            <Button
+                android:id="@+id/BookThree_26"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/BookThree_25"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesBookThree26Title"
+                tools:layout_editor_absoluteX="219dp"
+                tools:layout_editor_absoluteY="74dp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</ScrollView>

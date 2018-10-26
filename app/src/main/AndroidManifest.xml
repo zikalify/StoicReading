@@ -342,7 +342,33 @@
         <activity android:name=".EpictetusDiscourses.BookTwo.BookTwo_23" />
         <activity android:name=".EpictetusDiscourses.BookTwo.BookTwo_24" />
         <activity android:name=".EpictetusDiscourses.BookTwo.BookTwo_25" />
-        <activity android:name=".EpictetusDiscourses.BookTwo.BookTwo_26"></activity>
+        <activity android:name=".EpictetusDiscourses.BookTwo.BookTwo_26" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_1" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_2" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_3" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_4" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_5" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_6" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_7" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_26" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_8" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_9" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_10" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_11" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_12" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_13" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_14" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_15" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_16" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_17" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_18" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_19" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_20" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_21" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_22" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_23" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_24" />
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_25"></activity>
     </application>
 
 </manifest>

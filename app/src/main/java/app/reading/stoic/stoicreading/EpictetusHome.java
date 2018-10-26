@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import app.reading.stoic.stoicreading.EpictetusDiscourses.DiscoursesHome;
 import app.reading.stoic.stoicreading.EpictetusEnchiridion.TheEnchiridionHome;
 
 public class EpictetusHome extends AppCompatActivity {
@@ -34,11 +35,24 @@ public class EpictetusHome extends AppCompatActivity {
                 EpictetusEnchiridion();
             }
         });
+
+        button = findViewById(R.id.epictetus_discourses);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                EpictetusDiscourses();
+            }
+        });
     }
 
     //Activity call methods, called by buttons above
     public void EpictetusEnchiridion() {
         Intent intent = new Intent(this, TheEnchiridionHome.class);
+        startActivity(intent);
+    }
+
+    public void EpictetusDiscourses() {
+        Intent intent = new Intent(this, DiscoursesHome.class);
         startActivity(intent);
     }
 }

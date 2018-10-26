@@ -23,10 +23,20 @@
                 android:id="@+id/epictetus_enchiridion"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@+id/epictetus_discourses"
                 android:layout_centerHorizontal="true"
                 android:text="@string/EpictetusEnchiridionTitle"
                 tools:layout_editor_absoluteX="4dp"
                 tools:layout_editor_absoluteY="5dp" />
+
+            <Button
+                android:id="@+id/epictetus_discourses"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="@string/EpictetusDiscoursesTitle"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="33dp" />
 
         </RelativeLayout>
     </LinearLayout>

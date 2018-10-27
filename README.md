@@ -29,6 +29,8 @@ Arius Didymus:
 
 Epictetus:
 
+• Discourses https://en.wikisource.org/wiki/Epictetus,_the_Discourses_as_reported_by_Arrian,_the_Manual,_and_Fragments
+
 • Enchiridion https://en.wikisource.org/wiki/Encheiridion_of_Epictetus_(George_Long)
 
 Hierocles:

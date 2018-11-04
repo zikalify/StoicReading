@@ -41,6 +41,8 @@ Posidonius:
 
 • Quotations https://web.archive.org/web/20180123190349/https://en.wikiquote.org/wiki/Posidonius
 
+• Several quotes from Seneca's letters
+
 Gaius Musonius Rufus:
 
 • Lectures https://web.archive.org/web/20161114035357/https://sites.google.com/site/thestoiclife/the_teachers/musonius-rufus
@@ -58,6 +60,8 @@ Lucius Annaeus Seneca:
 Zeno of Citium:
 
 • Quotations https://web.archive.org/web/20180907122901/https://en.wikiquote.org/wiki/Zeno_of_Citium
+
+• Several quotes from Seneca's letters
 
 Zenodotus:
 

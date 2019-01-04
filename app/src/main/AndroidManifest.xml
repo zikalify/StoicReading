@@ -368,7 +368,13 @@
         <activity android:name=".EpictetusDiscourses.BookThree.BookThree_22" />
         <activity android:name=".EpictetusDiscourses.BookThree.BookThree_23" />
         <activity android:name=".EpictetusDiscourses.BookThree.BookThree_24" />
-        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_25"></activity>
+        <activity android:name=".EpictetusDiscourses.BookThree.BookThree_25" />
+        <activity android:name=".CleanthesQuotations.CleanthesQuotations" />
+        <activity android:name=".PanaetiusHome" />
+        <activity android:name=".PanaetiusQuotations.PanaetiusQuotations" />
+        <activity android:name=".AttalusHome" />
+        <activity android:name=".AttalusOnRiches.AttalusOnRiches" />
+        <activity android:name=".AttalusQuotations.AttalusQuotations"></activity>
     </application>
 
 </manifest>

@@ -7,10 +7,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import app.reading.stoic.stoicreading.CleanthesHymntoZeus.CleanthesHymntoZeus;
-import app.reading.stoic.stoicreading.CleanthesQuotations.CleanthesQuotations;
+import app.reading.stoic.stoicreading.AttalusOnRiches.AttalusOnRiches;
+import app.reading.stoic.stoicreading.AttalusQuotations.AttalusQuotations;
 
-public class CleanthesHome extends AppCompatActivity {
+public class AttalusHome extends AppCompatActivity {
     private Button button;
     private static final String PREFS_NAME = "prefs";
     private static final String PREF_DARK_THEME = "dark_theme";
@@ -24,35 +24,35 @@ public class CleanthesHome extends AppCompatActivity {
             setTheme(R.style.AppThemeDark);
         }
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_cleanthes_home);
-        setTitle(this.getString(R.string.Cleanthes));
+        setContentView(R.layout.activity_attalus_home);
+        setTitle(this.getString(R.string.Attalus));
 
         //Call each activity when click corresponding button
-        button = findViewById(R.id.cleanthes_hymn_to_zeus);
+        button = findViewById(R.id.attalus_on_riches);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                CleanthesHymntoZeus();
+                AttalusOnRiches();
             }
         });
 
-        button = findViewById(R.id.cleanthes_quotations);
+        button = findViewById(R.id.attalus_quotations);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                CleanthesQuotations();
+                AttalusQuotations();
             }
         });
     }
 
     //Activity call methods, called by buttons above
-    public void CleanthesHymntoZeus() {
-        Intent intent = new Intent(this, CleanthesHymntoZeus.class);
+    public void AttalusOnRiches() {
+        Intent intent = new Intent(this, AttalusOnRiches.class);
         startActivity(intent);
     }
 
-    public void CleanthesQuotations() {
-        Intent intent = new Intent(this, CleanthesQuotations.class);
+    public void AttalusQuotations() {
+        Intent intent = new Intent(this, AttalusQuotations.class);
         startActivity(intent);
     }
 }

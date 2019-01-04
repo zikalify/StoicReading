@@ -38,6 +38,10 @@ Hierocles:
 
 • Fragments https://web.archive.org/web/20170928132203/https://en.wikisource.org/wiki/Author:Hierocles
 
+Panaetius:
+
+• A quote from Seneca's letters
+
 Posidonius:
 
 • Quotations https://web.archive.org/web/20180123190349/https://en.wikiquote.org/wiki/Posidonius - https://archive.org/details/stoicandepicurea00colluoft/

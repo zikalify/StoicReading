@@ -16,6 +16,8 @@
     <string name="Aratus">"Aratus"</string>
     <string name="Arius_Didymus">"Arius Didymus"</string>
     <string name="Posidonius">"Posidonius"</string>
+    <string name="Panaetius">"Panaetius of Rhodes"</string>
+    <string name="Attalus">"Attalus"</string>
 
     //Rufus Lectures string
     <string name="RufusLecTitle">"Lectures"</string>
@@ -57,6 +59,12 @@
     <string name="AriusDidymusEpitomeTitle">"Epitome"</string>
     //Posidonius Quotations string
     <string name="PosidoniusQuotationsTitle">"Quotations"</string>
+    //Panaetius Quotations title
+    <string name="PanaetiusQuotationsTitle">"Quotations"</string>
+    //Attalus Quotations title
+    <string name="AttalusQuotationsTitle">"Quotations"</string>
+    //Panaetius On Riches
+    <string name="AttalusOnRichesTitle">"On Riches"</string>
 
     //Epictetus Discourses Book 1 Titles
     <string name="EpictetusDiscoursesBookOne1Title">"1. Of the things which are under our control and not under our control."</string>
@@ -440,6 +448,25 @@
     <string name="tSenecaLetters123">"Letter 123. On the conflict between pleasure and virtue"</string>
     <string name="tSenecaLetters124">"Letter 124. On the true good as attained by reason"</string>
 
+    //Panaetius quotations
+    <string name="PanaetiusQuotations">"As to the wise man, we shall see later; but you and I, who are as yet far removed from wisdom, should not trust ourselves to fall into a state that is disordered, uncontrolled, enslaved to another, contemptible to itself. If our love be not spurned, we are excited by its kindness; if it be scorned, we are kindled by our pride. An easily won love hurts us as much as one which is difficult to win; we are captured by that which is compliant, and we struggle with that which is hard. Therefore, knowing our weakness, let us remain quiet. Let us not expose this unstable spirit to the temptations of drink, or beauty, or flattery, or anything that coaxes and allures."</string>
+
+    //Attalus quotations
+    <string name="AttalusQuotations">"It is more pleasant to make than to keep a friend, as it is more pleasant to the artist to paint than to have finished painting.
+
+The remembrance of lost friends is pleasant in the same way that certain fruits have an agreeably acid taste, or as in extremely old wines it is their very bitterness that pleases us. Indeed, after a certain lapse of time, every thought that gave pain is quenched, and the pleasure comes to us unalloyed. To think of friends who are alive and well is like enjoying a meal of cakes and honey; the recollection of friends who have passed away gives a pleasure that is not without a touch of bitterness. Yet who will deny that even these things, which are bitter and contain an element of sourness, do serve to arouse the stomach?
+
+I should prefer that Fortune keep me in her camp rather than in the lap of luxury. If I am tortured, but bear it bravely, all is well; if I die, but die bravely, it is also well.
+
+Did you ever see a dog snapping with wide-open jaws at bits of bread or meat which his master tosses to him? Whatever he catches, he straightway swallows whole, and always opens his jaws in the hope of something more. So it is with ourselves; we stand expectant, and whatever Fortune has thrown to us we forthwith bolt, without any real pleasure, and then stand alert and frantic for something else to snatch.
+
+Evil herself drinks the largest portion of her own poison."</string>
+
+    //Attalus On Riches
+    <string name="AttalusOnRiches">"Riches long deceived me. I used to be dazed when I caught some gleam of them here and there. I used to think that their hidden influence matched their visible show. But once, at a certain elaborate entertainment, I saw embossed work in silver and gold equalling the wealth of a whole city, and colours and tapestry devised to match objects which surpassed the value of gold or of silver – brought not only from beyond our own borders, but from beyond the borders of our enemies; on one side were slave-boys notable for their training and beauty, on the other were throngs of slave-women, and all the other resources that a prosperous and mighty empire could offer after reviewing its possessions. What else is this, I said to myself, than a stirring-up of man's cravings, which are in themselves provocative of lust? What is the meaning of all this display of money? Did we gather merely to learn what greed was? For my own part I left the place with less craving than I had when I entered. I came to despise riches, not because of their uselessness, but because of their pettiness. Have you noticed how, inside a few hours, that programme, however slow-moving and carefully arranged, was over and done? Has a business filled up this whole life of ours, which could not fill up a whole day?
+
+I had another thought also: the riches seemed to me to be as useless to the possessors as they were to the onlookers. Accordingly, I say to myself, whenever a show of that sort dazzles my eyes, whenever I see a splendid palace with a well-groomed corps of attendants and beautiful bearers carrying a litter: Why wonder? Why gape in astonishment? It is all show; such things are displayed, not possessed; while they please they pass away. Turn thyself rather to the true riches. Learn to be content with little, and cry out with courage and with greatness of soul: 'We have water, we have porridge; let us compete in happiness with Jupiter himself.' And why not, I pray thee, make this challenge even without porridge and water? For it is base to make the happy life depend upon silver and gold, and just as base to make it depend upon water and porridge. 'But,' some will say, 'what could I do without such things?' Do you ask what is the cure for want? It is to make hunger satisfy hunger; for, all else being equal, what difference is there in the smallness or the largeness of the things that force you to be a slave? What matter how little it is that Fortune can refuse to you? Your very porridge and water can fall under another's jurisdiction; and besides, freedom comes, not to him over whom Fortune has slight power, but to him over whom she has no power at all. This is what I mean: you must crave nothing, if you would vie with Jupiter; for Jupiter craves nothing."</string>
+
     //Posidonius quotations
     <string name="PosidoniusQuotations">"Riches are a cause of evil, not because, of themselves, they do any evil, but because they goad men on so that they are ready to do evil.
 
@@ -451,10 +478,16 @@ When men were scattered over the earth, protected by eaves or by the dug-out she
 
 There are never any occasions when you need think yourself safe because you wield the weapons of Fortune; fight with your own! Fortune does not furnish arms against herself; hence men equipped against their foes are unarmed against Fortune herself.
 
-[The end of action is] to live in contemplation of the reality and order of the universe, promoting it to the best of our power, and never led astray by the irrational part of the soul."</string>
+[The end of action is] to live in contemplation of the reality and order of the universe, promoting it to the best of our power, and never led astray by the irrational part of the soul.
+
+I do not think that Plato's Laws should have the preambles added to them. For a law should be brief, in order that the uninitiated may grasp it all the more easily. It should be a voice, as it were, sent down from heaven; it should command, not discuss. Nothing seems to me more dull or more foolish than a law with a preamble. Warn me, tell me what you wish me to do; I am not learning but obeying."</string>
 
     //Cleanthes quotations
-    <string name="CleanthesQuotations">"Man walks in wickedness all his life or, at any rate, for the greater part of it. If he ever attains to virtue, it is late and at the very sunset of his days."</string>
+    <string name="CleanthesQuotations">"Man walks in wickedness all his life or, at any rate, for the greater part of it. If he ever attains to virtue, it is late and at the very sunset of his days.
+
+Ignorant men differ from beasts only in their figure.
+
+As our breath produces a louder sound when it passes through the long and narrow opening of the trumpet and escapes by a hole which widens at the end, even so the fettering rules of poetry clarify our meaning."</string>
 
     //Didymus Epitome
     <string name="DidymusGod">"The whole ordered world (κόσμος) with all its parts they call god, and say that he is one alone, and finite, and living, and eternal, and god: for all bodies are contained in him, and in him there is no vacuum. For the name order (κόσμος) is applied to the quality of all substance as well as to that which has an arrangement of like kind consequent on the ordering (διακόσμηνσιν).

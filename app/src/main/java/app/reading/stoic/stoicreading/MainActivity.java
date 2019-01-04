@@ -133,6 +133,22 @@ public class MainActivity extends AppCompatActivity {
                 posidoniusHome();
             }
         });
+
+        button = findViewById(R.id.panaetius_button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                panaetiusHome();
+            }
+        });
+
+        button = findViewById(R.id.attalus_button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                attalusHome();
+            }
+        });
     }
 
     //Activity call methods, called by buttons above
@@ -193,6 +209,16 @@ public class MainActivity extends AppCompatActivity {
 
     public void posidoniusHome() {
         Intent intent = new Intent(this, PosidoniusHome.class);
+        startActivity(intent);
+    }
+
+    public void panaetiusHome() {
+        Intent intent = new Intent(this, PanaetiusHome.class);
+        startActivity(intent);
+    }
+
+    public void attalusHome() {
+        Intent intent = new Intent(this, AttalusHome.class);
         startActivity(intent);
     }
 

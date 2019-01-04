@@ -14,7 +14,7 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:context=".CleanthesHymntoZeus.CleanthesHymntoZeus">
+        tools:context=".AttalusQuotations.AttalusQuotations">
 
         <TextView
             android:id="@+id/textView2"
@@ -30,7 +30,7 @@
             android:focusable="true"
             android:longClickable="true"
             android:padding="15dp"
-            android:text="@string/CleanthesHymntoZeus"
+            android:text="@string/AttalusQuotations"
             android:textAppearance="@style/TextAppearance.AppCompat"
             android:textIsSelectable="true"
             android:textSize="20sp"

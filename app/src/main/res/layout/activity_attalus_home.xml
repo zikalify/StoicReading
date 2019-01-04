@@ -13,24 +13,24 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:context=".CleanthesHome">
+        tools:context=".AttalusHome">
 
         <Button
-            android:id="@+id/cleanthes_hymn_to_zeus"
+            android:id="@+id/attalus_on_riches"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:text="@string/CleanthesHymntoZeusTitle"
+            android:text="@string/AttalusOnRichesTitle"
             tools:layout_editor_absoluteX="4dp"
             tools:layout_editor_absoluteY="5dp" />
 
         <Button
-            android:id="@+id/cleanthes_quotations"
+            android:id="@+id/attalus_quotations"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/cleanthes_hymn_to_zeus"
+            android:layout_below="@+id/attalus_on_riches"
             android:layout_centerHorizontal="true"
-            android:text="@string/CleanthesQuotationsTitle"
+            android:text="@string/AttalusQuotationsTitle"
             tools:layout_editor_absoluteX="4dp"
             tools:layout_editor_absoluteY="5dp" />
 

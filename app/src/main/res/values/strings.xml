@@ -45,6 +45,8 @@
     <string name="ZenoQuotationsTitle">"Quotations"</string>
     //Cleanthes Hymn to Zeus
     <string name="CleanthesHymntoZeusTitle">"Hymn to Zeus"</string>
+    //Cleanthes Quotations title
+    <string name="CleanthesQuotationsTitle">"Quotations"</string>
     //Chrysippus Quotations string
     <string name="ChrysippusQuotationsTitle">"Quotations"</string>
     //Zenodotus Epitaph to Zeno of Citium
@@ -447,7 +449,12 @@ Things which bestow upon the soul no greatness or confidence or freedom from car
 
 When men were scattered over the earth, protected by eaves or by the dug-out shelter of a cliff or by the trunk of a hollow tree, it was philosophy that taught them to build houses.
 
-There are never any occasions when you need think yourself safe because you wield the weapons of Fortune; fight with your own! Fortune does not furnish arms against herself; hence men equipped against their foes are unarmed against Fortune herself."</string>
+There are never any occasions when you need think yourself safe because you wield the weapons of Fortune; fight with your own! Fortune does not furnish arms against herself; hence men equipped against their foes are unarmed against Fortune herself.
+
+[The end of action is] to live in contemplation of the reality and order of the universe, promoting it to the best of our power, and never led astray by the irrational part of the soul."</string>
+
+    //Cleanthes quotations
+    <string name="CleanthesQuotations">"Man walks in wickedness all his life or, at any rate, for the greater part of it. If he ever attains to virtue, it is late and at the very sunset of his days."</string>
 
     //Didymus Epitome
     <string name="DidymusGod">"The whole ordered world (κόσμος) with all its parts they call god, and say that he is one alone, and finite, and living, and eternal, and god: for all bodies are contained in him, and in him there is no vacuum. For the name order (κόσμος) is applied to the quality of all substance as well as to that which has an arrangement of like kind consequent on the ordering (διακόσμηνσιν).
@@ -707,7 +714,17 @@ THE END"</string>
     <string name="ZenodotusEpitaph">"You made contentment the chief rule of life,\n\nDespising haughty wealth, O God-like Zenon.\n\nWith solemn look, and hoary brow serene,\n\nYou taught a manly doctrine; and didst found\n\nBy your deep wisdom, a great novel school,\n\nChaste parent of unfearing liberty.\n\nAnd if your country was Phoenicia,\n\nWhy need we grieve, from that land Cadmus came,\n\nWho gave to Greece her written books of wisdom."</string>
 
     //Chrysippus quotations
-    <string name="ChrysippusQuotations">"Living virtuously is equal to living in accordance with one's experience of the actual course of nature.\n\nWise people are in want of nothing, and yet need many things. On the other hand, nothing is needed by fools, for they do not understand how to use anything, but are in want of everything.\n\nHe who is running a race ought to endeavor and strive to the utmost of his ability to come off victor; but it is utterly wrong for him to trip up his competitor, or to push him aside. So in life it is not unfair for one to seek for himself what may accrue to his benefit; but it is not right to take it from another.\n\nIf I had followed the multitude, I should not have studied philosophy.\n\nThe universe itself is God and the universal outpouring of its soul.\n\nWe should infer in the case of a beautiful dwelling-place that it was built for its owners and not for mice; we ought, therefore, in the same way to regard the universe as the dwelling-place of the gods.\n\n\As long as the consequences are not clear to me, I cleave ever to what is better adapted to secure those things that are in accordance with nature; for God himself has created me with the faculty of choosing things. But if I really knew that it was ordained for me to be ill at this present moment, I would even seek illness: for the foot also, if it had a mind, would seek to be covered with mud."</string>
+    <string name="ChrysippusQuotations">"Living virtuously is equal to living in accordance with one's experience of the actual course of nature.\n\nWise people are in want of nothing, and yet need many things. On the other hand, nothing is needed by fools, for they do not understand how to use anything, but are in want of everything.\n\nHe who is running a race ought to endeavor and strive to the utmost of his ability to come off victor; but it is utterly wrong for him to trip up his competitor, or to push him aside. So in life it is not unfair for one to seek for himself what may accrue to his benefit; but it is not right to take it from another.\n\nIf I had followed the multitude, I should not have studied philosophy.\n\nThe universe itself is God and the universal outpouring of its soul.\n\nWe should infer in the case of a beautiful dwelling-place that it was built for its owners and not for mice; we ought, therefore, in the same way to regard the universe as the dwelling-place of the gods.\n\n\As long as the consequences are not clear to me, I cleave ever to what is better adapted to secure those things that are in accordance with nature; for God himself has created me with the faculty of choosing things. But if I really knew that it was ordained for me to be ill at this present moment, I would even seek illness: for the foot also, if it had a mind, would seek to be covered with mud.
+
+Vice cannot be removed, nor is it well that it should be removed.
+
+It is the height of absurdity to suppose that goods could have existed without evils. For, since goods are the contraries of evils, both must of necessity coexist in mutual opposition; indeed, of any pair of contraries neither can exist without the other. How could justice be known apart from injustice? What is justice, in fact, but the negation of injustice? Or how could courage be understood except by its opposition to cowardice? Or temperance apart from intemperance? Or wisdom apart from folly? Nay, why do not these foolish people go on to wish for truth to exist apart from falsehood? Goods and evils, good fortune and evil fortune, pain and pleasure are just as inseparable from one another as are truth and falsehood. For these are pairs, in which each member is bound to the other with opposing fronts, in Plato's phrase: if you take away the one, you take away both.
+
+Vice is determined in relation to the rest of the accidents. For it also in some sort comes into being according to the law of nature and is not, so to say, wholly unprofitable to the universe at large; for without it there would be no goodness.
+
+As comedies have in them ludicrous verses which, though bad in themselves, nevertheless lend a certain grace to the whole play, so, while in and for itself vice is to be blamed, it is not without its utility to the rest.
+
+The dearest thing to every animal is its own constitution and its consciousness thereof."</string>
 
     //Cleanthes Hymn to Zeus
     <string name="CleanthesHymntoZeus">"Most glorious of Immortals, mighty God,

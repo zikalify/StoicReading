@@ -22,7 +22,7 @@ Chrysippus of Soli:
 Cleanthes of Assos:
 
 • Hymn to Zeus https://web.archive.org/web/20150919034926/https://en.wikisource.org/wiki/Hymn_to_Zeus
-• Quotations https://archive.org/details/stoicandepicurea00colluoft/
+• Quotations https://archive.org/details/stoicandepicurea00colluoft/ - https://archive.org/details/selectproverbsa00wadegoog
 
 Arius Didymus:
 

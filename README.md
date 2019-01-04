@@ -17,11 +17,12 @@ Marcus Aurelius:
 
 Chrysippus of Soli:
 
-• Quotations https://web.archive.org/web/20180123191958/https://en.wikiquote.org/wiki/Chrysippus
+• Quotations https://web.archive.org/web/20180123191958/https://en.wikiquote.org/wiki/Chrysippus - https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII - https://archive.org/details/stoicandepicurea00colluoft/
 
 Cleanthes of Assos:
 
 • Hymn to Zeus https://web.archive.org/web/20150919034926/https://en.wikisource.org/wiki/Hymn_to_Zeus
+• Quotations https://archive.org/details/stoicandepicurea00colluoft/
 
 Arius Didymus:
 
@@ -39,7 +40,7 @@ Hierocles:
 
 Posidonius:
 
-• Quotations https://web.archive.org/web/20180123190349/https://en.wikiquote.org/wiki/Posidonius
+• Quotations https://web.archive.org/web/20180123190349/https://en.wikiquote.org/wiki/Posidonius - https://archive.org/details/stoicandepicurea00colluoft/
 
 • Several quotes from Seneca's letters
 

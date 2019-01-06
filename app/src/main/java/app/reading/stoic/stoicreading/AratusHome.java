@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import app.reading.stoic.stoicreading.AratusPhaenomena.AratusPhaenomenaHome;
+import app.reading.stoic.stoicreading.AratusPhenomena.AratusPhenomenaHome;
 
 public class AratusHome extends AppCompatActivity {
     private Button button;
@@ -27,18 +27,18 @@ public class AratusHome extends AppCompatActivity {
         setTitle(this.getString(R.string.Aratus));
 
         //Call each activity when click corresponding button
-        button = findViewById(R.id.aratus_phaenomena_home);
+        button = findViewById(R.id.aratus_phenomena_home);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                AratusPhaenomenaHome();
+                AratusPhenomenaHome();
             }
         });
     }
 
     //Activity call methods, called by buttons above
-    public void AratusPhaenomenaHome() {
-        Intent intent = new Intent(this, AratusPhaenomenaHome.class);
+    public void AratusPhenomenaHome() {
+        Intent intent = new Intent(this, AratusPhenomenaHome.class);
         startActivity(intent);
     }
 }

@@ -53,8 +53,8 @@
     <string name="ChrysippusQuotationsTitle">"Quotations"</string>
     //Zenodotus Epitaph to Zeno of Citium
     <string name="ZenodotusEpitaphTitle">"Epitaph to Zeno of Citium"</string>
-    //Aratus Phaenomena
-    <string name="AratusPhaenomenaTitle">"Phaenomena"</string>
+    //Aratus Phenomena
+    <string name="AratusPhenomenaTitle">"Phenomena"</string>
     //Arius Didymus Epitome
     <string name="AriusDidymusEpitomeTitle">"Epitome"</string>
     //Posidonius Quotations string
@@ -174,14 +174,9 @@
     <string name="DidymusEpitome2">"On the universe"</string>
     <string name="DidymusEpitome3">"On the soul"</string>
 
-    //Phaenomena Titles
-    <string name="AratusPhaenomenaChapter1">"Introduction"</string>
-    <string name="AratusPhaenomenaChapter2">"A) Constellations north of the Ecliptic"</string>
-    <string name="AratusPhaenomenaChapter3">"B) Constellations south of the Ecliptic"</string>
-    <string name="AratusPhaenomenaChapter4">"C) The five planets"</string>
-    <string name="AratusPhaenomenaChapter5">"D) Circles of the celestial sphere"</string>
-    <string name="AratusPhaenomenaChapter6">"E) The Zodiac risings"</string>
-    <string name="AratusPhaenomenaChapter7">"F) The weather signs"</string>
+    //Phenomena Titles
+    <string name="AratusPhenomenaChapter1">"Part 1 (Lines 0 - 370)"</string>
+    <string name="AratusPhenomenaChapter2">"Part 2 (Lines 371 - 821)"</string>
 
     //Enchiridion Titles
     <string name="EpictetusEncTitle1">"Ch. 1–21. What is up to us and not, and how to deal with external things."</string>
@@ -536,212 +531,828 @@ They say that the soul is created and perishable, but does not perish immediatel
 
 But the continued existence of souls they thus describe, that we ourselves on becoming souls continue to exist, having been separated from the body and changed into the smaller substance of the soul. But the souls of the foolish and of irrational animals perish together with their bodies."</string>
 
-    //Aratus' Phaenomena
-    <string name="AratusPhaenomena1">"From Zeus let us begin; him do we mortals never leave unnamed; full of Zeus are all the streets and all the market-places of men; full is the sea and the havens thereof; always we all have need of Zeus. For we are also his offspring; and he in his kindness unto men giveth favourable signs and wakeneth the people to work, reminding them of livelihood. He tells what time the soil is best for the labour of the ox and for the mattock, and what time the seasons are favourable both for the planting of trees and for casting all manner of seeds. For himself it was who set the signs in heaven, and marked out the constellations, and for the year devised what stars chiefly should give to men right signs of the seasons, to the end that all things might grow unfailingly. Wherefore him do men ever worship first and last. Hail, O Father, mighty marvel, mighty blessing unto men. Hail to thee and to the Elder Race! Hail, ye Muses, right kindly, every one! But for me, too, in answer to my prayer direct all my lay, even as is meet, to tell the stars."</string>
-
-    <string name="AratusPhaenomena2">"They, all alike, many though they be and other star in other path, are drawn across the heavens always through all time continually. But the Axis shifts not a whit, but unchanging is for ever fixed, and in the midsts it holds the earth in equipoise, and wheels the heaven itself around.
-
-On either side the Axis ends in two Poles, but thereof the one is not seen, whereas the other faces us in the north high above the ocean. Encompassing it two Bears [Ursa Major and Minor] wheel together – wherefore they are also called the Wains. Now they ever hold their heads each toward the flank of the other, and are borne along always shoulder-wise, turned alternate on their shoulders. If, indeed, the tale be true, from Crete they by the will of mighty Zeus entered up into heaven, for that when in olden days he played as a child in fragrant Dicton, near the hill of Ida, they set him in a cave and nurtured him for the space of a year, what time the Dictaean Curetes were deceiving Cronus. Now the one men call by name Cynosura and the other Helice. It is by Helice that the Achaeans on the sea divine which way to steer their ships, but in the other the Phoenicians put their trust when they cross the sea. But Helice, appearing large at earliest night, is bright and easy to mark; but the other is small, yet better for sailors: for in a smaller orbit wheel all her stars. By her guidance, then, the men of Sidon steer the straightest course.
-
-Between them, as it were the branch of a river, circles in wondrous way the Dragon [Draco], winding infinite around and about; on either side of his coil are borne along the Bears, that shun evermore the blue sea. Now towards the one he stretches the end of his tail, but with the coil he intercepts the Lesser Bear. The tip of his tail ends by the head of Helice, but in the coil Cynosura has her head. For his coiled circles past her very head and comes near her feet, but again, turning back, runs upward. Not one lone star shines on his head, but on his brows are two stars lit, and two in his eyes, and one beneath is set upon the chin-point of the dread monster. Aslant is his head, and he seems most like as if he were nodding to the tip of the tail of Helice; his mouth and right temple straight confront the end of her tail. That head wheels near where the limits of setting and rising blend.
-
-Right there in its orbit wheels a Phantom form, like to a man that strives at a task. That sign no man knows how to read clearly, nor what task he is bent, but men simply call him On His Knees [Engonasin]. Now that Phantom, that toils on his knees, seems to sit on bended knee, and from both his shoulders his hands are upraised and stretch, one this way, one that, a fathom's length. Over the middle of the head of the crooked Dragon, he has the tip of his right foot.
-
-Here too that Crown [Corona], which glorious Dionysus set to be memorial of the dead Ariadne, wheels beneath the back of the toil-spent Phantom.
-
-To the Phantom's back the Crown is near, but by his head mark near at hand the head of Ophiuchus, and then from it you can trace the starlit Ophiuchus himself: so brightly set beneath his head appear his gleaming shoulders. They would be clear to mark even at the midmonth moon, but his hands are not at all so bright; for faint runs the gleam of stars along on this side and on that. Yet they too can be seen, for they are not feeble. Both firmly clutch the Serpent, which encircles the waist of Ophiuchus, but he, stedfast with both his feet well set, tramples a huge monster, even the Scorpion, standing upright on his eye and breast. Now the Serpent is wreathed about his two hands – a little above his right hand, but in many folds high above his left.
-
-Toward the Crown leans the Serpent's jaw, but beneath his coiling form seek thou for the mighty Claws [Libra]; they are scant of light and nowise brilliant.
-
-Behind Helice, like to one that drives, is borne along Arctophylax whom men also call Boötes, since he seems to lay hand on the wain-like Bear. Very bright is he all; but beneath his belt wheels a star, bright beyond the others, Arcturus himself.
-
-Beneath both feet of Boötes mark the Maiden [Virgo], who in her hands bears the gleaming Ear of Corn [Spica]. Whether she be daughter of Astraeus, who, men say, was of old the father of the stars, or child of other sire, untroubled be her course! But another tale is current among men, how of old she dwelt on earth and met men face to face, nor ever disdained in olden time the tribes of men and women, but mingling with them took her seat, immortal though she was. Her men called Justice; but she assembling the elders, it might be in the market-place or in the wide-wayed streets, uttered her voice, ever urging on them judgements kinder to the people. Not yet in that age had men knowledge of hateful strife, or carping contention, or din of battle, but a simple life they lived. Far from them was the cruel sea and not yet from afar did ships bring their livelihood, but the oxen and the plough and Justice herself, queen of the peoples, giver of things just, abundantly supplied their every need. Even so long as the earth still nurtured the Golden Race, she had her dwelling on earth. But with the Silver Race only a little and no longer with utter readiness did she mingle, for that she yearned for the ways of the men of old. Yet in that Silver Age was she still upon the earth; but from the echoing hills at eventide she came alone, nor spake to any man in gentle words. But when she had filled the great heights with gathering crowds, then would she with threats rebuke their evil ways, and declare that never more at their prayer would she reveal her face to man. “Behold what manner of race the fathers of the Golden Age left behind them! Far meaner than themselves! But ye will breed a viler progeny! Verily wars and cruel bloodshed shall be unto men and grievous woe shall be laid upon them.” Even so she spake and sought the hills and left the people all gazing towards her still. But when they, too, were dead, and when, more ruinous than they which went before, the Race of Bronze was born, who were the first to forge the sword of the highwayman, and the first to eat of the flesh of the ploughing-ox, then verily did Justice loathe that race of men and fly heavenward and took up that abode, where even now in the night time the Maiden is seen of men, established near to far-seen Boötes.
-
-Above both her shoulders at her right wing wheels a star, whereof the name is the Vintager [Vindemiator] – of such size and with such brightness set, as the star that shines beneath the tail of the Great Bear. For dread is the Bear and dread stars are near her. Seeing them thou needest not further conjecture what stars beyond them model all her form. Such stars are borne along, beautiful and great, one in front of her forefeet, and one beneath her hind knees. But all singly one here, one there, are wheeled along without a name.
-
-Beneath the head of Helice are the Twins [Gemini]; beneath her waist is the Crab [Cancer]; beneath her hind feet the Lion [Leo] brightly shines. There is the Sun's hottest summer path. Then the fields are seen bereft of corn-ears, when first the Sun comes together with the Lion. Then the roaring Etesian winds fall swooping on the vasty deep, and voyaging is no longer seasonable for oars. Then let broad-beamed ships be my choice, and let steersmen hold the helm into the wind.
-
-But if it be thy wish to mark Charioteer [Auriga] and his stars, and if the fame has come to thee of the Goat [Capella] herself and the Kids, who often on the darkening deep have seen men storm-tossed, thou wilt find him in all his might, leaning forward at the left hand of the Twins. Over against him wheels the top of Helice's head, but on his left shoulder is set the holy Goat, that, as legend tells, gave the breast to Zeus. Her the interpreters of Zeus call the Olenian Goat. Large is she and bright, but there at the wrist of the Charioteer faintly gleam the Kids.
-
-At the feet of Charioteer seek for the crouching horned Bull [Taurus]. Very lifelike are his signs; so clear defined his head: not by other sign would one mark the head of an ox, since in such wise those very stars, wheeling on either side, fashion it. Oft-spoken is their name and not all unheard-of are the Hyades. Broadcast are they on the forehead of the Bull. One star occupies the tip of his left horn and the right foot of the Charioteer, who is close by. Together they are carried in their course, but ever earlier is the Bull than the Charioteer to set beneath the West, albeit they fare together at their rising.
-
-Nor all unnamed shall rest he hapless family of Iasid Cepheus. For their name, too has come unto heaven, for that they were near akin to Zeus. Cepheus himself is set behind the Bear Cynosura, like to one that stretches out both his hands. From her tail-tip to both his feet stretches a measure equal to that from foot to foot. But a little aside from his belt look to find the first coil of the mighty Dragon.
-
-Eastward his hapless wife, Cassiepeia, gleaming when by night the moon is full, wheels with her scanty stars. For few and alternate stars adorn her, which expressly mark her form with lines of light. Like the key of a twofold door barred within, wherewith men striking shoot back the bolts, so singly set shine her stars. But from her shoulders so faint she stretches a fathom's length. Thou would'st say she was sorrowing over her daughter.
-
-For there, too, wheels that woeful form of Andromeda, enstarred beneath her mother. Thou hast not to wait for a night, I ween, whereon to see her more distinct! So bright is her head and so clearly marked are both the shoulders, the tips of her feet and all her belt. Yet even there she is racked, with arms stretched far apart, and even in Heaven bonds are her portion. Uplifted and outspread there for all time are those hands of hers.
-
-Beneath her head is spread the huge Horse [Pegasus], touching her with his lower belly. One common star gleams on the Horse's navel and the crown of her head. Three other separate stars, large and bright, at equal distance set on flank and shoulders, trace a square upon the Horse. His head is not so brightly marked, nor his neck, though it be long. But the farthest star on his blazing nostril could fitly rival the former four, that invest him with such splendour. Nor is he four-footed. Parted at the navel, with only half a body, wheels in heaven the sacred Horse. He it was, men say, that brought down from lofty Helicon the bright water of bounteous Hippocrene. For not yet on Helicon's summit trickled the fountain's springs, but the Horse smote it and straightway the gushing water was shed abroad at the stamp of his forefoot, and herdsmen were the first to call that stream the fountain of the Horse. From the rock the water wells and never shalt thou see it far from the men of Thespiae; but the Horse himself circles in the heaven of Zeus and is there for thee to behold.
-
-There too are the most swift courses of the Ram [Aries], who, pursued through the longest circuit, runs not a whit slower than the Bear Cynosura – himself weak and starless as on a moonlit night, but yet by the belt of Andromeda thou canst trace him out. For a little below her is he set. Midway he treads the mighty heavens, where wheel the tips of the Scorpion's Claws and the Belt of Orion.
-
-There is also another sign, fashioned near, below Andromeda, Deltoton [Triangulum], drawn with three sides, whereof two appear equal but the third is less, yet very easy to find, for beyond many is it endowed with stars. Southward a little from Deltoton are the stars of the Ram.
-
-Still father in front of the Ram and still in the vestibule of the South are the Fishes [Pisces]. Ever one is higher than the other, and louder hears the fresh rush of the North wind. From both there stretch, as it were, chains, whereby their tails on either side are joined. The meeting chains are knit by a single beautiful and great star, which is called the Knot of Tails. Let the left shoulder of Andromeda be thy guide to the northern Fish, for it is very near.
-
-Her two feet will guide thee to her bridegroom, Perseus, over whose shoulder they are for ever carried. But he moves in the North a taller form than the others. His right hand is stretched toward the throne of the mother of his bride, and, as if pursuing that which lies before his feet, he greatly strides, dust-stained, in the heaven of Zeus.
-
-Near his left thigh move the Pleiades, all in a cluster, but small is the space that holds them and singly they dimly shine. Seven are they in the songs of men, albeit only six are visible to the eyes. Yet not a star, I ween, has perished from the sky unmarked since the earliest memory of man, but even so the tale is told. Those seven are called by name Halcyone, Merope, Celaeno, Electra, Sterope, Taygete, and queenly Maia. Small and dim are they all alike, but widely famed they wheel in heaven at morn and eventide, by the will of Zeus, who bade them tell of the beginning of Summer and Winter and of the coming of the ploughing-time.
-
-Yonder, too, is the tiny Tortoise, which, while still beside his cradle, Hermes pierced for stings and bade it be called the Lyre [Lyra]: and he brought it into heaven and set it in front of the unknown Phantom. That Croucher on his Knees comes near the Lyre with his left knee, but the top of the Bird's head wheels on the other side, and between the Bird's head and the Phantom's knee is enstarred the Lyre.
-
-For verily in heaven there is outspread a glittering Bird [Cygnus]. Wreathed in mist is the Bird, but yet the parts above him are rough with stars, not very large, yet not obscure. Like a bird in joyous flight, with fair weather it glides to the west, with the tip of its right wing outstretched towards the right hand of Cepheus, and by its left wing is hung in the heavens the prancing Horse.
-
-Round the prancing Horse range the two Fishes. By the Horse's head is stretched the right hand of Hydrochoüs [Aquarius]. He is behind Aegoceros [Capricorn], who is set in front and further down, where the mighty Sun turns. In that month use not the open sea lest thou be engulfed in the waves. Neither in the dawn canst thou accomplish a far journey, for fast to evening sped the dawns; nor at night amid they fears will the dawn draw earlier near, though loud and instant be thy cry. Grievous then is the crashing swoop of the South winds when the Sun joins Aegoceros, and then is the frost from heaven hard on the benumbed sailor. Not but that throughout the year's length the sea ever grows dark beneath the keels, and, like to diving seagulls, we often sit, spying out the deep from our ship with faces turned to the shore; but ever farther back the shores are swept by the waves and only a thin plank staves off Death.
-
-But even in the previous month, storm-tossed sea, when the Sun scorches the Bow and the Wielder of the Bow [Saggitarius], trust no longer in the night but put to shore in the evening. Of that season and that month let the rising of Scorpion at the close of night be a sign to thee. For verily his great Bow does the Bowman draw close by the Scorpion's sting, and a little in front stands the Scorpion [Scorpio] at his rising, but the Archer rises right after him. Then, too, at the close of night Cynosura's head runs very high, but Orion just before the dawn wholly sets and Cepheus from hand to waist.
-
-Further up there is another Arrow [Sagitta] shot – alone without a bow. By it is the Bird [Cygnus] outspread nearer the North, but hard at hand another bird tosses in storm, of smaller size but cruel in its rising from the sea when the night is waning, and men call it the Eagle (Storm-bird) [Aquila].
-
-Over Aegoceros floats the Dolphin [Delphinus] with few bright stars and body wreathed in mist, but four brilliants adorn him, set side by side in pairs."</string>
-
-    <string name="AratusPhaenomena3">"Now these constellations lie between the North and the Sun's wandering path [the ecliptic], but others many in number rise beneath between the South and the Sun's course.
-
-Aslant beneath the fore-body of the Bull is set the great Orion. Let none who pass him spread out on high on a cloudless night imagine that, gazing on the heavens, one shall see other stars more fair.
-
-Such a guardian, too, beneath his towering back is seen to stand on his hind legs, the Dog [Canis Major] starenwrought, yet not clearly marked in all his form, but right by his belly he shows dark. The tip of his terrible jaw is marked by a star that keenest of all blazes with a searing flame and him men call Seirius. When he rises with the Sun, no longer do the trees deceive him by the feeble freshness of their leaves. For easily with his keen glance he pierces their ranks, and to some he gives strength but of other s he blights the bark utterly. Of him too at this setting are we aware, but the other stars of the Dog are set round with fainter light to mark his legs.
-
-Beneath both feet of Orion is the Hare [Lepus] pursued continually through all time, while Seirius behind for ever borne as in pursuit. Close behind he rises and as he sets he eyes the setting Hare.
-
-Beside the tail of the Great Dog the ship Argo is hauled stern-foremost. For not hers is the proper course of a ship in motion, but she is borne backwards, reversed even as real ships, when already the sailors turn the stern to the land as they enter the haven, and every one back-paddles the ship, but she rushing sternward lays hold of the shore. Even so is the Argo of Jason borne along stern-foremost. Partly in mist is she borne along, and starless from her prow even to the mast, but the hull is wholly wreathed in light. Loosed is her Rudder and is set beneath the hind feet of the Dog, as he runs in front.
-
-Andromeda, though she cowers a good way off, is pressed by the rush of the mighty Monster of the Sea [Cetus]. For her path lies under the blast of Thracian Boreas, but the South wind drives against her, beneath the Ram and the Pair of Fishes, the hateful Monster, Cetus, set as he is a little above the Starry River.
-
-For alone are those poor remains of Eridanus, River of many tears, also borne beneath the feet of the Gods. He winds beneath Orion's left foot, but the Shackles, wherewith the Fishes' tails are held, reach form their tails and join together, and behind the neck of Cetus they mingle their path and fare together. They end in a single star of Cetus, set where meet his spine and head.
-
-Other stars, mean in size and feeble in splendour, wheel between the Rudder of Argo and Cetus, and beneath the grey Hare's sides they are set without a name. For they are not set like the limbs of a fashioned figure, such as, many in number, fare in order along their constant paths, as the years are fulfilled – stars, which someone of the men that are no more noted and marked how to group in figures and call all by a single name. For it had passed his skill to know each single star or name them one by one. Many are they on every hand and of many the magnitudes and colours are the same, while all go circling round. Wherefore he deemed fit to group the stars in companies, so that in order, set each by other, they might form figures. Hence the constellations got their names, and now no longer does any star rise a marvel from beneath the horizon. Now the other stars are grouped in clear figures and brightly shine, but those beneath the hunted Hare are all clad in mist and nameless in their course.
-
-Below Aegoceros before the blasts of the South Wind swims a Fish, facing Cetus, alone and part from the former Fishes; and him men call the Southern Fish [Piscis Australis].
-
-Other stars, sparsely set beneath Hydrochoüs [Aquarius], hang on high between Cetus in the heavens and the Fish, dim and nameless, and near them on the right hand of bright Hydrochoüs, like some sprinkled drops of water lightly shed on this side and on that, other stars wheel bright-eyed though weak. But among them are borne two of more lustrous form, not far apart and yet not near: one beneath both feet of Hydrochoüs, a goodly star and bright, the other beneath the tail of dark-blue Cetus. This cluster as a whole men call The Water. But others low beneath the forefeet of the Archer (Centaur) [Centaurus], a tuned in a circled ring, go wheeling round the sky.
-
-Below the fiery sting of the dread monster, Scorpion, and near the South is hung the Altar [Ara]. Brief is the space thou wilt behold it above the horizon: for it rises over against Arcturus. High runs the path of Arcturus, but sooner passes the Altar to the western sea. But the Altar even beyond aught else hath ancient Night, weeping the woe of men, set to be a mighty sing of storm at sea. For ships in trouble pain her heart, and other signs in other quarters she kindles in sorrow for mariners, storm-buffeted at sea. Wherefore I bid thee pray, when in the open sea, that that constellation wrapt in clouds appear not amidst the others in the heavens, herself unclouded and resplendent above with billowing clouds, as often it is beset when the autumn wind drives them back. For often Night herself reveals this sign, also, for the South Wind in her kindness to toiling sailors. If they heed her favouring signs and quickly lighten their craft and set all in order, on a sudden lo! their task is easier: but if from on high a dread gust of wind smite their ship, all unforeseen, and throw in turmoil all the sails, sometimes they make their voyage all beneath the waves, but at other times, if they win by their prayers Zeus to their aid, and the might of the north wind pass in lightning, after much toil they yet again see each other on the ship. But at this sign fear the South Wind, until thou see'st the North Wind come with lightning. But if the shoulder of Centaur is as far from the western as from the eastern sea, and a faint mist veils it, while behind Night kindles like signs of storm upon the gleaming Altar, thou must not look for the South, but bethink thee of an East Wind.
-
-The constellation of Centaur [Centaurus] thou wilt find beneath two others. For part in human form lies beneath Scorpio, but the rest, a horse's trunk and tail, are beneath the Claws. He ever seems to stretch his right hand towards the round Altar, but though his hand is drawn and firmly grasped another sign – the Beast [Fera], for so men of old have named it.
-
-Another constellation trails beyond, which men call the Hydra. Like a living creature it winds afar its coiling form. Its head comes beneath the middle of the Crab, its coil beneath the body of the Lion, and its tail hangs above the Centaur himself. Midway on its coiling form is set the Crater, and at the tip the figure of a Raven [Corvus] that seems to peck at the coil.
-
-There, too, by the Hydra beneath the Twins brightly shines Procyon.
-
-All these constellations thou canst mark as the seasons pass, each returning at its appointed time: for all are unchangingly and firmly fixed in the heavens to be the ornaments of the passing night."</string>
-
-    <string name="AratusPhaenomena4">"But of quite a different class are those five other orbs, that intermingle with them and wheel wandering on every side of the twelve figures of the Zodiac. No longer with the others as they guide couldst thou mark where lies the path of those, since all pursue a shifty course, and long are the periods of their revolution and far distant lies the goal of their conjunction. When I come to them my daring fails, but mine be the power to tell of the orbits of the Fixed Stars and Signs in heaven."</string>
-
-    <string name="AratusPhaenomena5">"These orbits lie like rings, four in number, chief in interest and in profit, if thou wouldst mark the measures of the waning and the waxing of the Seasons. On all are set beacon lights, many in number, all every way closely penned together. The circles are immovable, and fitted each to other, but in size two are matched with two.
-
-If ever on a clear night, when Night in the heavens shows to men all her stars in their brightness and no star is borne faintly gleaming at the mid-month moon, but they all sharply pierce the darkness – if in such an hour wonder rises in thy heart to mark on every side the heaven cleft by a broad belt, or if someone at they side point out that circle set with brilliants – that is what men call the Milky Way. A match for it in colour thou wilt find no circle wheel, but in size two of the four belts as large, but the other two are far inferior.
-
-Of the lesser circles one [Tropic of Cancer] is night to Boreas at his coming, and on it are borne both the heads of the Twins and the knees of the stedfast Charioteer, and above him are the left shoulder and shin of Perseus. It crosses Andromeda's right arm above the elbow. Above it is set her palm, nearer the north, and southward leans her elbow. The hoofs of the Horse, the head and neck of the Bird and Ophiuchus' bright shoulders wheel along this circle in their course. The Maiden is borne a little to the South and does not touch the Belt, but on it are the Lion and the Crab, Thereon are they both established side by side, but the circle cuts the Lion beneath the breast and belly lengthwise to the loins, and the Crab it cuts clean through by the shell where thou canst see him most clearly cut, as he stands upright with his eyes on either side of the Belt. The circle is divided, as well as may be, into eight parts, whereof five in the daytime wheel on high above the earth and three beneath the horizon. In it is the Turning-point of the Sun in summer [solstice]. This circle is set round the Crab in the North.
-
-But there is another circle [Tropic of Capricorn] to match in the South. It cuts through the middle of Aegoceros, the feet of Hydrochoüs, and the tail of the sea-monster, Cetus, and on it is the Hare. It claims no great share of the Dog, but only the space that he occupies with his feet. In it is Argo and the mighty back of the Centaur, the sting of Scorpio, and the Bow of the bright Archer. This circle the sun passes last as he is southward borne from the bright north, and here is the Turning-point of the sun in winter. Three parts of eight of his course are above and five below the horizon.
-
-Between the Tropics a Belt [the Equator], peer of the grey Milky Way, undergirds the earth with imaginary line bisects the sphere. In it the days are equal to the nights both at the waning of the summer and the waxing of the spring [the Equinoxes]. The sign appointed for it is the Ram and the knees of the Bull – the Ram being borne lengthwise through it, but of the Bull just the visible bend of the knees. In it are the Belt of the well-starred Orion and the coil of the gleaming Hydra: in it, too, the dim-lit Crater and the Crow and the scanty-starred Claws and the knees of Ophiuchus are borne. But it has no share in the Eagle, but near it flies the mighty messenger of Zeus. Facing the Eagle wheel the head and neck of the Horse.
-
-These three Belts [Tropics of Cancer, Tropic of Capricorn, and the Equator] are parallel, and at right angles to the Axis which they surround and which is the centre of them all, but the fourth [the Ecliptic] aslant is fixed athwart the Tropics: they on opposite sides of the Equator support it at either limit, but the Equator bisects it. Not otherwise would a man skilled in the handicraft of Athena join the whirling Belts, wheeling them all around, so many and so great like rings, just as the Belts in the heavens, clasped by the transverse circle, hasten from dawn to night throughout all time. The three Belts rise and set all parallel but ever single and the same is the pint where in due order each rises or sets at East or West. But the fourth circle passes over as much water of ocean as rolls between the rising Aegoceros, and the rising of the Crab: as much as it occupies in rising, so much it occupies in setting. As long as is the ray cast to heaven from the glance of the eye, six times as long a line would subtend this Belt. Each ray, measured of equal length, intercepts the two constellations. This circle is called the Belt of the Zodiac.
-
-In it is the Crab; after the Crab the Lion and beneath him the Maiden; after the Maiden the Claws and the Scorpion himself and the Archer and Aegoceros, and after Aegoceros Hydrochoüs. Beneath him are enstarred the Two Fishes and after them the Ram and next the Bull and the Twins. In them, twelve in all, has the sun his course as he leads on the whole year, and as he fares around this belt, all the fruitful seasons have their growth.
-
-Half this Belt is set below the hollow of the horizon, and half is above the earth. Every night six constellations of this circle's twelve set and as many rise; as long is each night ever stretched as half the belt rises above the earth from the fall of night."</string>
-
-    <string name="AratusPhaenomena6">"Not useless were it for one who seeks the signs of coming day to mark when each sign of the Zodiac rises. For ever with one of them the sun himself rises. One could best search out those constellations by looking on themselves, but if they be dark with clouds or rise hidden behind a hill, get thee fixed signs for their coming. Ocean himself will give thee signs at either horn – the East or the West – in the many constellations that wheel about him, when from below he sends forth each rising sign.
-
-Not very faint are the wheeling constellations that are set about Ocean at East and West, when the Crab [Cancer] rises, some setting in the West and other rising in the East. The Crown sets and the Southern Fish as far as its back. Half the setting Crown is visible in the sky but half already sinks beneath the verge. Of Engonasin, backward turned, the waist is still visible but his upper parts are borne in night. The rise of the Crab brings down from knee to shoulder the wretches Ophiuchus and Ophis to the neck. No longer great on both sides of the horizon is Arctophylax but only the lesser portion is visible, while the greater part is wrapt in night. For with four signs of the Zodiac Boötes sets and is received in the bosom of ocean; and when he is sated with the light he takes till past midnight in the loosing of this oxen, in the season when he sets with the sinking sun. Those nights are named after his late setting. So these stars are setting, but another, facing them, no dim star, even Orion with glittering belt and shining shoulders and trusting in the might of his sword, and bringing all the River, rises from the other horn, the East.
-
-At the coming of the Lion [Leo] those constellations wholly set, which were setting when the Crab rose, and with them sets the Eagle. But the Phantom On His Knees winks all save knee and left foot beneath the stormy ocean. Up rises the Hydra's head and the bright-eyed Hare and Procyon and the forefeet of the flaming dog.
-
-Not few, either, are the constellations which the Maiden [Virgo] at her rising sends beneath the verge of the earth. Then set the Cyllenian Lyre, the Dolphin and the shapely Arrow. With them the wing-tips of the Bird up to her very tail and the farthest reaches of the River are overshadowed. The head of the Horse sets, sets too his neck. The Hydra rises higher as far as Crater, and before her the Dog brings up his hind feet, dragging behind him the stern of Argo of many stars. And she rises above earth, cleft right at the mast, just when the whole of the Maiden has risen.
-
-Nor can the rising Claws [Libra], though faintly shining, pass unremarked, when at a bound the mighty sign of Boötes rises, jeweled with Arcturus. Aloft is risen all of Argo, but the Hydra, shed as she is afar over the heavens, will lack her tail. The Claws bring only the right leg as far as the thigh of that Phantom that is ever On his Knees, ever crouching by the Lyre – that Phantom, unknown among the figures of the heavens, whom we often see both rise and set on the selfsame night. Of him only the leg is visible at the rising of both the Claws: he himself head-downward on the other side awaits the rising Scorpion and the Drawer of the Bow. For they bring him: Scorpion brings his waist and all aforesaid; the Bow his left hand and head. Even so in three portions is he all brought up piecemeal above the horizon. Half the Crown and the tip of the Centaur's tail are upraised with the rising Claws. Then is the Horse setting after his vanished head, and dragged below is the tail-tip of the Bird, already set. The head of Andromeda is setting and against her is brought by the misty South the mighty terror, Cetus, but over against him in the North Cepheus with mighty hand upraised warns him back. Cetus, neck downward, sets to his neck, and Cepheus with head and hand and shoulder.
-
-The winding River will straightway sink in fair flowing ocean at the coming of Scorpion [Scorpio], whose rising puts to flight even the mighty Orion. Thy pardon, Artemis, we crave! There is a tale told by the men of old, who said that stout Orion laid hands upon her robe, what time in Chios he was smiting with his strong club all manner of beasts, as a service of the hunt to that King Oenopion. But she forthwith rent in twain the surrounding hills of the island and roused up against him another kind of beast – even the Scorpion, who proving mightier wounded him, mighty though he was, and slew him, for that he had vexed Artemis. Wherefore, too, men say that at the rising of the Scorpion in the East Orion flees at the Western verge. Nor does what was left of Andromeda and of Cetus fail to mark his rise but in full career they too flee. In that hour the belt of Cepheus grazes earth as he dips his upper parts in the sea, but the rest he may not – his feet and knees and loins, for the Bears themselves forbid. The hapless Cassiepeia herself too hastes after the figure of her child. No longer in seemly wise does she shine upon her throne, feet and knees withal, but she headlong plunges like a diver, parted at the knees; for not scatheless was she to rival Doris and Panope. So she is borne towards the West, but other signs in the East the vault of heaven brings from below, the remaining half of the Crown and the tail of the Hydra, and uplifts the body and head of the Centaur and the Beast that the Centaur holds in his right hand. But the fore-feet of the Centaur-Knight await the rising of the Bow.
-
-At the coming of the Bow [Saggitarius] up rises the coil of the Serpent and the body of Ophiuchus. Their heads the rising of the Scorpion himself brings and raises even the hands of Ophiuchus and the foremost coil of the star-bespangled Serpent. Then emerge from below some parts of Engonasin, who ever rises feet-foremost, to wit, his legs, wiast, all his breast, his shoulder with his right hand; but his other hand and his head arise with the rising Bow and the Archer. With them the Lyre of Hermes and Cepheus to his breast drive up from the Eastern Ocean, what time all the rays of the mighty Dog are sinking and all of Orion setting, yea, all the Hare, which the Dog pursues in an unending race. But not yet depart the Kids of the Charioteer and the Arm-borne (Olenian) Goat; by his great hand they shine, and are eminent beyond all his other limbs in raising storms, when they fare with the sun.
-
-His head, hand and waist set at the rising of Aegoceros [Capricorn]; from waist to foot he sets at the rising of the Archer. Nor do Perseus and the end of the stern of jeweled Argo remain on high, but Perseus sets all save his knee and right foot and Argo is gone save her curved stern. She sinks wholly at the rising of Aegoceros, when Procyon sets too, and there rise the Bird and the Eagle and the gems of the winged Arrow and the sacred Altar, that is established in the South.
-
-When Hydrochoüs [Aquarius] is just risen, up wheel the feet and head of the Horse. But opposite the Horse starry Night draws the Centaur, tail-first, beneath the horizon, but cannot yet engulf his head and his broad shoulders, breast and all. But she sinks beneath the verge the coiling neck and all the brow of the gleaming Hydra.
-
-Yet many a coil of the Hydra remains, but Night engulfs her wholly with the Centaur, when the Fishes [Pisces] rise; with the Fishes the Fish which is placed beneath azure Aegoceros rises – not completely but par awaits another sign of the Zodiac. So the weary hands and knees and shoulders of Andromeda are parted – stretched some below and others above the horizon, when the Two Fishes are newly risen from the ocean. Her right side the Fishes bring, but the left the rising Ram. When the latter rises, the Altar is seen setting in the West, while in the East may be seen rising as much as the head and shoulders of Perseus.
-
-As to his belt itself disputed might it be whether it rises as the Ram ceases to rise or at the rising of the Bull [Taurus], with whom he rises wholly. Nor lags behind the Charioteer at the rising of the Bull, for close are set their courses. But not with that sign does he rise completely, but the Twins bring him wholly up. The Kids and the sole of the Charioteer's left foot and the Goat herself journey with the Bull, what time the neck and tail of Cetus, leviathan of the sky, rise from below. Now Arctophylax is beginning to set with the first of those four constellations of the Zodiac that see him sink wholly, save his never setting left hand that rises by the Great Bear.
-
-Let Ophiuchus setting from both feet even to his knees be a sign of the rising of the Twins in the East. Then no longer is aught of Cetus beneath the verge, but thou shalt see him all. Then, too, can the sailor on the open sea mark the first bend of the River rising from the deep, as he watches for Orion himself to see if he might give him any hint of the measure of the night or of his voyage. For on every hand signs in multitude to the gods reveal to man."</string>
-
-    <string name="AratusPhaenomena7">"Markest thou not? Whenever the Moon with slender horns shines forth in the West, she tells of a new month beginning: when first her rays are shed abroad just enough to cast a shadow, she is going to the fourth day: with orb half complete she proclaims eight days: with full face the mid-day of the month; and ever with varying phase she tells the date of the dawn that comes round.
-
-Those twelve signs of the Zodiac are sufficient to tell the limits of the night. But they to mark the great year – the season to plough and sow the fallow field and the season to plant the tree – are already revealed of Zeus and set on every side. Yea, and on the sea, too, many a sailor has marked the coming of the stormy tempest, remembering either dread Arcturus or other stars that draw from ocean in the morning twilight or that he first fall of night. For verily through them all the Sun passes in yearly course, as he drives his mighty furrow, and now to one, now to another he draws near, now as he rises and anon as he sets, and ever another star looks upon another morn.
-
-This thou too knowest, for celebrated by all now are the nineteen cycles [the nineteen year cycle of Meton] of the bright Sun – thou knowest all the stars wheeled aloft by Night from Orion's belt to the last of Orion and his bold hound, the stars of Poseidon, the stars of Zeus, which, if marked, display fit signs of the seasons. Wherefore to them give careful heed and if ever they trust is in a ship, be it thine to watch what signs in the heavens are labouring under stormy winds or squall at sea. Small is the trouble and thousandfold the reward of his heedfulness who ever takes care. First he himself is safer, and well, too, he profits another by his warning, when a storm is rushing near.
-
-For oft, too, beneath a calm night the sailor shortens sail for fear of the morning sea. Sometimes the storm comes on the third day, sometimes on the fifth, but sometimes the evil comes all unforeseen. For not yet do we mortals know all from Zeus, but much still remains hidden, whereof, what he will, even hereafter will he reveal; for openly he aids the race of men, manifesting himself on every side and showing signs on every hand. Some messages the Moon will convey with orb half-full as she waxes or wanes, others when full: others the Sun by warnings at dawn and again at the edge of night, and other hints from other source can be drawn for day and night.
-
-Scan first the horns on either side the Moon. For with varying hue from time to time the evening paints her and of different shape are her horns at different times as the Moon is waxing – one form on the third day and other on the fourth. From them thou canst learn touching the month that is begun. If she is slender and clear about the third day, she heralds calm: if slender and very ruddy, wind; but if thick and with blunted horns she show but a feeble light on the third and fourth night, her beams are blunted by the South wind or imminent rain. If on the third night neither horn nod forward or lean backward, if vertical they curve their tips on either side, winds from the West will follow that night. But if still with vertical crescent she bring the fourth day too, she gives warning of gathering storm. If her upper horn nod forward, expect thou the North wind, but if it lean backward, the South. But when on the third day a complete halo, blushing red, encircles her, she foretells storm and, the fierier her blush, the fiercer the tempest.
-
-Scan her when full and when half-formed on either side of full, as she waxes from or wanes again to crescent form, and from her hue forecast each month. When quite bright her hue, forecast fair weather; when ruddy, expect the rushing wind; when dark stained with spots, look out for rain. But not for every day is appointed a separate sign, but the signs of the third and fourth day betoken the weather up to the half Moon; those of the half Moon up to full Moon; and in turn the signs of the full Moon up to the waning half Moon; the signs of the half Moon are followed by those of the fourth day from the end of the waning month, and they in their turn by those of the third day of the new month. But if halos encircle all the Moon, set triple or double about her or only single – with the single ring, expect wind or calm; when the ring is broken, wind; when faint and fading, calm; two rings girding the Moon forebode storm; a triple halo would bring a greater storm, and greater still, if black, and more furious still, if the rings are broken. Such warnings for the month thou canst learn from the Moon.
-
-To the Sun's march at East and West give heed. His hints give even more pertinent warning both at setting, and when he comes from below the verge. May not his orb, whenever thou desirest a fair day, be variegated when first his arrows strike the earth, and may he wear no mark at all but shine stainless altogether. If again thus all pure he be in the hour when the oxen are loosed, and set cloudless in the evening with gentle beam, he will still be at the coming dawn attended with fair weather. But not so, when he rises with seemingly hollow disk, nor when his beams part to strike or North or South, while his centre is bright. But then in truth he journeys either through rain or through wind.
-
-Scan closely, if his beams allow thee, the Sun himself, for scanning him is best, to see if either some blush run over him, as often he shows a blush or here or there, when he fares through trailing clouds, or if haply he is darkened. Let the dark stain be sign to thee of coming rain, and every blush be sign of wind. But if he is draped both black and red at once, he will bring rain and will strain beneath the wind. But if the rays of the rising or setting Sun converge and crowd on one spot, or if he go from night to dawn, or from dawn to night, closely beset with clouds, those days will run in company with rushing rain. Nor be thou heedless of rain, what time before him rises a thin mist, after which the Sun himself ascends with scanty beams. But when a broad belt of mist seems to melt and widen before the rising Sun and anon narrows to less, fair will be his course, and fair too, if in the season of winter his hue wax wan at eventide. But for tomorrow's rain face the setting Sun and scan the clouds. If a darkening cloud the beams that wheel between the Sun and it part to either side of the cloud, thou shalt still need shelter for the dawn. But if without a cloud he dip in the western ocean, and as he is sinking, or still when he is gone, the clouds stand near him blushing red, neither on the morrow nor in the night needst thou be over-fearful of rain. But fear the coming rain when on a sudden the Sun's rays seem to thin and pale – just as they often fade when the Moon overshadows them, what time she stands straight between the earth and Sun; nor are the fields unwetted on that day, when before the dawn, as the Sun delays to shine, reddish clouds appear here or there. Be not heedless either of wind or rain to come, when, while the Sun is still below the verge, his precursor beams shine shadowy in the dawn. The more those beams are borne in shadow, the surer the sign they give of rain, but if but faint the dusk that veils his beams, like a soft mist of vapour, that veil of dusk portends wind. Nor are dark halos near the Sun signs of fair weather: when nearer the Sun and dark without relief, they portend greater storms: if there are two rings, they will herald tempests fiercer still.
-
-Mark as the Sun is rising or setting, whether the clouds, called parhelia, blush (on South or North or both), nor make the observation in careless mood. For when on both sides at once those clouds gird the Sun, low down upon the horizon, there is no lingering of the storm that comes from Zeus. But if only one shine purple to the North, form the North will it bring the blast; if in the South, from the South; or down pour the pattering raindrops.
-
-With even greater care mark those signals when in the West, for from the West the warnings are given ever with equal and unfailing certainty.
-
-Watch, too, the Manger. Like a faint mist in the North it plays the guide beneath Cancer. Around it are borne two faintly gleaming stars, not far apart nor very near but distant to the view a cubit's length, one on the North, while the other looks towards the South. They are called the Asses [in the constellation Cancer], and between them is the Manger. On a sudden, when all the sky is clear, the Manger wholly disappears, while the stars that go on either side seem nearer drawn to one another: not slight then is the storm with which the fields are deluged. If the Manger darken and both stars remain unaltered, they herald rain. But if the Ass to the North of the Manger shine feebly through a faint mist, while the Southern Ass is gleaming bright, expect wind from the South: but if in turn the Southern Ass is cloudy and the Northern bright, watch for the North wind.
-
-A sign of wind be the swelling sea, the far sounding beach, the sea-crags when in calm they echo, and the moaning of the mountain crests.
-
-When, too, the heron in disordered flight comes landward from he sea with many a scream, he is precursor of the gale at sea. Anon, too, the stormy petrels when the flit in calm, move in companies to face the coming winds. Oft before a gale the wild ducks or sea-wheeling gulls beat their wings on the shore, or a cloud is lengthwise resting on the mountain peaks. Marked, too, ere now as sign of wind have been the withered petals, the down of the white thistle, when they abundant float, some in front and others behind, on the surface of the silent sea.
-
-From the quarter whence come the peals of summer thunder and the lightning flash, thence expect the onset of the gale. When through the dark night shooting stars fly thick and their track behind is white, except a wind coming in the same path. If other shooting stars confront them and others from other quarters dart, then be on they guard for winds from every quarter – winds, which beyond all else are hard to judge, and blow beyond man's power to predict.
-
-But when from East and South the lightnings flash, and again from the West and anon from the North, verily then the sailor on the sea fears to be caught at once by the waves beneath and the rain from heaven. For such lightnings herald rain. Often before the coming rain fleece-like clouds appear or a double rainbow girds the wide sky or some star is rings with darkening halo.
-
-Often the birds of lake or sea insatiably dive and plunge in the water, or around the mere for long the swallows dart, smiting with their breasts the rippling water, or more hapless tribes, a boon to watersnakes, the fathers of the tadpoles croak from the lake itself, or from the lonely tree-frog drones his matin lay, or by jutting bank the chattering crow stalks on the dry land before the coming storm, or it may be dips from head to shoulder in the river, or even dives completely, or hoarsely cawing ruffles it beside the water.
-
-And ere now before rain from the sky, the oxen gazing heavenward have been seen to sniff the air, and the ants from their hollow nests bring up in haste all their eggs, and in swarms the centipedes are seen to climb the walls, and wandering forth crawl those worms that men call dark earth's intestines (earthworms). Tame fowl with father Chanticleer well preen their plumes and cluck aloud with voices like noise of water dripping upon water.
-
-Ere now, too, the generations of crows and tribes of jackdaws have been a sign of rain to come from Zeus, when they appear in flocks and screech like hawks. Crows, too, imitate with their note the heavy splash of clashing rain, or after twice croaking deeply they raise a loud whirring with frequent flapping of their wings, and ducks of the homestead and jackdaws which haunt the roof seek cover under the eaves and clap their wings, or seaward flies the heron with shrill screams.
-
-Slight not aught of these things when on thy guard for rain, and heed the warning, if beyond their wont the midges sting and are fain for blood, or if on a misty night snuff gather on the nozzle of the lamp, or if in winter's season the flame of the lamp now rise steadily and anon sparks fly fast from it, like light bubbles, or if on the light itself there dart quivering rays, or if in height of summer the island birds are borne in crowding companies. Be not heedless of the pot or tripod on the fire, if many sparks encircle it, nor heedless when in the ashes of blazing coal there gleam spots like millet seed, but scan those too when seeking signs of rain.
-
-But if a misty cloud be stretched along the base of a high hill, while the upper peaks shine clear, very bright will be the sky. Fair weather, too, shalt thou have, when by the sea-verge is seen a cloud low on the ground, never reaching a height, but penned there like a flat reef of rock.
-
-Seek in clam for signs of storms, and in storm for signs of calm. Scan well the Manger, whereby wheels the Crab, when first it is freed of every covering cloud. For its clearing marks the waning tempest.
-
-Take for sign of storm abating the steady-burning flame of the lamp, the gentle hooting of the owl at night, and the crow if with gentle varying note she caw at eventide, and the rooks, when singly they utter two lonely notes followed by frequent rapid screams, and when in fuller company they bethink them of the roost, full of voice. One would think them glad, seeing how they caw now in shrill screams, now with frequent flight around the foliage of the tree, now on the tree, whereon they roost, and anon they wheel and clap their wings. Cranes, too, before a gentle clam will wing their way steadily onward in one track, all in company, and in fair weather will be borne in no disordered flight.
-
-But when the clear light from the stars is dimmed, though no thronging clouds veil, nor other darkness hide nor Moon obscure, but the stars on a sudden thus causelessly wax wan, hold that no more for sign of calm but look for storm. Foul weather, too, will come, when of the clouds some are stationary, but others passing by and others following after.
-
-Sure signs of storm are geese hastening with many a cackle to their food, the nine-generation crow cawing at night, the jackdaw chattering late, the chaffinch piping in the dawn, waterfowl all fleeing inward from the sea, the wren or the robin retreating into hollow clefts, and tribes of jackdaws returning late to roost from dry feeding-grounds. When the furious tempest is imminent, the tawny bees go not far afield to cull wax, but wheel hard by their honey and their stores, nor do cranes on high in long lines wing their steady onward course, but wheel and double in their flight. Look, too, for foul weather, when in windless clam airy gossamers are flying, and when the rays of the lamp are wan and flickering, or when in fair weather fire and torches are hard to kindle. Why recount all the warning hints that come to men? The unsightly clotting of the ash is sign of snow: the ring of spots like millet seed around the blazing wick of the lamp betokens snow; but sign of hail are live coals, when they outward brightly shine, but in their centre appears, as it were, a hazy mist within the glowing fire.
-
-Nor are holm-oaks, laden with acorns, and the dark mastich untried. With frequent glance on every side the miller ever peers, anxious lest the summer slip from his hand. Holm-oaks with moderate crops of frequent acorns will tell of heavy storm to come. Pray that they may not be exceedingly heavy laden, but only that far from drought the cornfields flourish even as they. Thrice the mastich buds and thrice wax ripe its berries. Each crop in turn brings a sign for the sowing. For men divide the sowing season into three – early, middle, late. The first crop of mastich heralds the first of grain; the second the middle; the latest the last of all. The richest crop that the teaming mastich bears will hint of the wealthiest harvest from the plough: the meanest crop foretells scanty grain, and average mastich heralds average corn. Likewise the stalk of the squill flowers thrice to give hint of corresponding harvest. All the hints the farmer marked in the mastich crop, the same he learns from the white blossom of the squill.
-
-But when in autumn frequent swarms of wasps crowd on every side, one can foretell the winter-storm to come even before the Pleiads are westering, swift and sudden as thee eddy wherein the wasps are wheeling. Sows and ewes and she-goats, when after mating with the male they mate again, equally with wasps foretell heavy storm. When she-goats and ewes and sows mate late in the season, the poor man rejoices, because their mating reveals to him that is thinly clad the coming of an open winter.
-
-In seasonable flight of thronging cranes rejoices the seasonable farmer: in untimely flight the untimely ploughman. For ever so the winters follow the cranes: early winters, when their flight is early and in flocks: when they fly late and not in flocks, but over a longer period in small bands, the later farming benefits by the delay of winter.
-
-If oxen and sheep after the heavy-laden Autumn dig the ground and stretch their heads to face the North wind, verily the Pleiads at their setting will bring a stormy winter. Pray that their digging be not excessive, for then is the winter exceedingly severe and a foe both to tree and tilth. May deep snow clothe the mighty fields, veiling the tender shoot, not yet separate nor tall, so that the anxious husbandman may rejoice in well-being.
-
-May the stars above shine ever with due brightness; and may no comets, one nor two nor more, appear! for many comets herald a season of drought.
-
-Nor on the mainland does the husbandman rejoice at the coming of summer to see trooping flocks of birds, when from the islands they alight upon his fields, but exceeding dread is his for the harvest, lest vexed by drought it come with empty ears and chaff. But the goat-herd rejoices even in the birds, when they come in moderate flocks with promise of a season of plenteous milk. For thus do we poor, changeful mortals win in divers ways our livelihood, and all are ready to mark the warnings at their feet and adopt them for the moment.
-
-Sheep warn the shepherd of coming storm when they rush to pasture in haste beyond their wont, but some behind the flock, now rams, now lambs, sport by the way with butting horns, when some here, some there, they bound aloft, the sillier young with four feet off the ground, the horned elders with two, or when the shepherd moves an unwilling flock, though it be evening when he drives them to their pens, while ever and anon they pluck the grass, through urged by many a stone.
-
-From oxen too the ploughman and neat-herd learn of the stirring of the storm. When oxen lick with their tongue around the hooves of their fore-feet or in their stalls stretch themselves on their right side, the old ploughman expects the sowing to be delayed. When with ceaseless lowing the kine collect as they wend at eventide to their stalls, the heifers reluctant to leave the meadow pastureland give warning that anon they will not feed in stormless weather. Not fair weather do the goats betide when greedy for prickly holm-oak, and the sows rage furiously over their bedding.
-
-When a solitary wolf howls loud, or when, as if he sought for shelter, recking little of farmer men, he descends to the cultivated lands near to men to seek a lair there, expect a storm when the third dawn comes round. So, too, by the previous signs thou canst forecast the winds or storm or rain to come on the self-same day or on the morrow or it may be on the third morn.
-
-Mice, too, as sign of storm, whenever with louder squeaking than their wont they gamboled and seemed to dance in fair weather, were not unmarked by the weather-seers of old. Nor were dogs. The dog with both his paws digs when he suspects the coming of a storm, and then too those mice turn prophets. And landward comes the crab, when the storm is about to burst.
-
-Mice in the daytime toss straw and are fain to build a nest when Zeus shows signs of rain.
-
-Make light of none of these warnings. Good rule it is to look for sign confirming sign. When two point the same way, forecast with hope; when three, with confidence. Thou canst always add the signs of the passing season, comparing whether at rising or at setting of a start the day dawn such as the calendar would herald. It would profit much to mark the last four days of the old and first four of the new month. They hold the terms of the meeting months, when the sky on eight nights is deceptive beyond its wont for lack of the bright-eyed moon.
-
-Study all the signs together throughout the year and never shall thy forecast of the weather be a random guess.
-
-THE END"</string>
+    //Aratus' Phenomena
+    <string name="AratusPhenomena1">"Let us begin from Jove. Let every mortal raise
+His grateful voice to tune Jove's endless praise.
+Jove fills the heaven—the earth—the sea—the air:
+We feel his spirit moving here and every where.
+And we his offspring are. He ever good
+Daily provides for man his daily food.
+Ordains the seasons by his signs on high,
+Studding with gems of light the azure canopy.
+What time with plough or spade to break the soil,
+That plenteous store may bless the reaper's toil,
+What time to plant and prune the vine he shows,
+And hangs the purple cluster on its boughs.
+To Him—the First—the Last—all homage yield:
+Our Father—Wonderful—our Help—our Shield.
+
+⁠Next hail, harmonious Muses, and inspire
+Some portion of your own celestial fire,
+Not adverse to a daring Poet's flight,
+Who scours on fancy's wings the realms of light.
+
+⁠These diamond orbs their various circles trace,
+And run incessantly their daily race.
+Round a fix’d axis roll the starry skies:
+Earth, even balanc'd, in the centre lies.
+One pole far south is hid from mortal eye,
+One o'er our northern ocean rises high:
+
+⁠Round this The Bears, with head to head reverse,
+And back to back, pursue their endless course.
+With mortals once they dwelt; if truth belong
+To old tradition, and the Poet's song.
+When saved by craft from Saturn's bloody hand
+Jove's mother bare him to the Cretan strand,
+There Helice and Cynosyra fair
+Foster'd the babe with all a mother's care.
+The Corybantes beat their cymbals near,
+Deafening his cries to Saturn's watchful ear.
+Grateful his foster-dames, the Poets say,
+Jove plac'd in heaven to run their glorious way.
+Pleasing to sight is Helice's bright team,
+And Grecian sailors hail her guiding beam,
+When toss'd by adverse winds and tempest black
+Mid wintry seas their dubious course they track.
+But hardier sons of Tyre, who love to brave
+The unknown monsters of th’ Atlantic wave,
+By Cynosyra's surer guidance steer,
+And safe return to wife and children dear.
+
+⁠Betwixt the Bears, like foaming river's tide,
+The horrid Dragon twists his scaly hide.
+To distant Helice his tail extends,
+In glittering folds round Cynosyra bends.
+Swoln is his neck—eyes charg’d with sparkling fire
+His crested head illume. As if in ire
+To Helice he turns his foaming jaw,
+And darts his tongue barb’d with a blazing star.
+His head upon the arctic wave he lays,
+Where blend the western with the eastern rays.
+Around the pole he swims, but never laves
+His fiery limbs in ocean’s cooling waves.
+
+⁠A Labouring Man next rises to our sight:
+But what his task—or who this honour’d wight—
+No Poet tells. Upon his knee he bends,
+And hence his name Engonasin descends.
+He lifts his suppliant arms, and dares to rest
+His right foot on the scaly Dragon's crest.
+
+⁠Near shines that diamond Crown, which Bacchus made
+For faithful Ariadne, when betray'd
+By ingrate Theseus, left to grief and shame
+Th' enamour'd God consol'd the widow’d dame.
+
+⁠A head of splendour Serpentarius rears:
+As crystal clear his shoulder broad appears,
+And rivals jealous Cynthia's silver light,
+When in full power she rules the wintry night.
+His feet stamp Scorpio down—enormous beast—
+Crushing the monster's eye, and plaited breast.
+With outstretch'd arms he holds the serpent's coils:
+His limbs it folds within its scaly toils.
+With his right hand its writhing tail he grasps,
+Its swelling neck his left securely clasps.
+The reptile rears its crested head on high,
+Reaching the seven-starr'd crown in northern sky.
+
+⁠Beneath its coils the giant Claws are found:
+Few are their stars—for splendour unrenown'd.
+
+⁠Hard on the traces of the greater Bear
+Presses Bootes in his swift career.
+'Mong many gems more brilliant than the rest
+Arcturus glows upon his belted waist.
+Through the long day he drives the Arctic Wain,
+And sinks reluctant in the western main.
+
+⁠Rising beneath Bootes' feet admire
+That beauteous form in maidenly attire.
+In her left hand a golden spike she bears:
+Glitter with sparkling gems her yellow hairs.
+Art thou, fair Virgin, daughter of that fam'd
+Immortal sage of old, Astræus nam'd,
+With skilful hand who mapp'd the starry sky,
+Plumbing its dark abyss with Philosophic eye?
+Or art thou, Goddess, she of heavenly birth,
+Who condescended once to dwell on earth,
+Astræa call'd, in fabled days of old—
+Alas! for ever gone—the Poet's age of gold?
+Then Justice rul'd supreme, man's only guide:
+No fraud—no violence—no strife—no pride.
+No sailor ventur'd then to distant clime,
+And brought back foreign wealth and foreign crime.
+All tended then the flock, or till'd the soil,
+And milk and fruit repaid their easy toil.
+All happy—equal, as the Poets sing,
+No fierce seditious mob—no tyrant king—
+But soon these days of innocence were gone:
+In his sire's place arose a viler son
+Of silver race. Then to the mountain's glen
+Scar'd and offended from the haunts of men
+Fair Justice fled. Yet still at times were seen
+Her angel figure, and her godlike mien.
+But when she view'd the crowded city's throng—
+\"The proud man's contumely—the poor man's wrong—\"
+Vex’d was her righteous soul. \"Mortals, farewell,
+\"Farewell,\" she said, \"no more with man I dwell.
+\"Ye of your sires a vile degenerate race,
+\"Your offspring you their fathers will disgrace.
+\"War soon will desolate these fruitful lands—
+\"A brother's blood will stain a brother's hands.
+\"Rising to view I see a ghastly train—
+\"Revenge—Oppression—Woe—Despair—and Pain.\"
+She said; and hastening to the mountain's height
+Fled far away from mortal's longing sight.
+These men soon pass'd away, and in their place
+Far viler sons arose—the brazen race—
+They first the stubborn ore obedient made,
+And forg'd—unhallow'd skill—the murderous blade.
+The patient ox, long wont to till the soil,
+To tread the corn, and share his master's toil,
+Dragg'd from his stall—poor harmless slaughter'd beast—
+Gave to his cruel lord a bloody feast.
+Justice was shock'd—the blood-stain’d earth she flies—
+Jove bade her welcome to her native skies;
+And near Bootes take her honour'd place,
+Where men might still adore her angel face.
+Sparkle her golden wings with crystal light—
+One gem they bear superlatively bright:
+It rolls beneath the tail, and may compare
+With the fam'd stars that deck the greater Bear.
+One gem upon her snow-white shoulder shines:
+One clasps the silken girdle of her loins:
+One decks her bending knee; and in her hand
+Glitters her golden spike like fiery brand.
+Many less brilliant stars, by name unknown,
+Spangle her vestments, and her forehead crown.
+
+⁠The Twins, beneath the muzzle of the Bear,
+Parted on earth, but join'd for ever here,
+Together shine:
+⁠Her middle part below,
+The stars in Cancer few, and faintly glow:
+
+⁠'Neath her hind feet, as rushing on his prey,
+The lordly Lion greets the God of day,
+When out of Cancer, in his torrid car
+Borne high, he shoots his arrows from afar,
+Scorching the empty fields, and thirsty plain:
+Secures the barn the harvest's golden grain.
+Then murmur first with hollow sound and deep—
+Portentous warning—soon o'er ocean sweep
+Th’ Etesian winds. Black Neptune's bosom heaves:
+He frowns at first, and curbs his restless waves.
+But soon joins headlong in the desperate fray,
+Careering madly on the foaming spray.
+Give me a vessel broad, if doom'd to brave
+These wild winds’ fury, and the warring wave.
+
+⁠Next the broad back and sinewy limbs appear
+Of fam'd Auriga—dauntless charioteer—
+Who lash'd the untam’d coursers to the yoke,
+And scour'd the dusty plain with fervid spoke.
+Now round the pole he holds his swift career,
+While presses on his track the greater Bear.
+Far in the north his giant form begins,
+Reaching athwart the sky the distant Twins.
+The sacred Goat upon his shoulder rests—
+To infant Jove she gave a mother's breasts,
+Kind foster-nurse! Grateful he plac'd her here,
+And bade her Kids their mother's honour share.
+Capella's course admiring landsmen trace,
+But sailors hate her inauspicious face.
+
+⁠Beneath Auriga, turning to the east,
+The Tyrian Bull, Europa's treacherous beast,
+His golden horns and snowy neck displays:
+Rivals his splendid head Apollo's rays.
+Glows his red eye with Aldebaran's fire—
+With sparkling gems his brow the Hyads tire.
+Auriga and the Bull together meet—
+Touches his star-tipp'd horn the hero's feet.
+The beast before him to the west descends—
+Together with him from the east ascends.
+
+⁠Unhappy Cepheus, though of race divine!
+From Jove himself descends the royal line,
+And not unmindful of his noble birth
+To heaven Jove rais'd him from this lower earth.
+Above the lesser Bear his form is seen—
+Measures her tail the space his feet between.
+Near to the studded girdle of his waist
+Lies the huge coil of Draco's speckled breast.
+
+⁠Near and before him rolls divinely fair
+Proud Cassiopeia in her stately chair.
+Few gems, though bright, the mournful matron grace;
+Nor can she rival Cythia's beauteous face.
+When the bifolding door the warder bars,
+His crooked key depict her glittering stars.
+She seems to wail the judgments, which betide
+Her daughter, victim of a mother's pride.
+
+⁠Near, young Andromeda, more splendid far,
+Though grief and fear the maiden's beauty mar.
+Her garland'd head—her shoulders bare admire
+Her diamond sandall'd feet—her rich attire—
+She still in heaven her captive form retains;
+And on her wrists still hang the galling chains.
+
+⁠Close and above her head the wondrous steed
+With hoof and wing exerts a double speed.
+So close they meet, one brilliant star they share,
+His body it adorns—and decks her hair.
+His side and shoulder with three others grac'd,
+As if by art at equal distance plac'd—
+Splendid and large. Obscure his ample chest—
+Black his long neck—and black his flowing crest.
+But on his nostril glows a living fire—
+Snorting he seems to stamp with rage and ire.
+No quadruped this horse; for lost to sight
+Vanish his hinder parts in darkest night.
+Once, as they say, on Helicon was seen
+Starting from rocky cleft sweet Hippocrene;
+When with his hoof he struck the sounding rock,
+And earth, obedient to the magic shock,
+Pour'd forth her copious stream. And hence the name
+Of Hippocrene—and hence its lasting fame.
+Still flows the cooling fount in Thespian grove—
+Treads Pegasus th' elysian fields of Jove.
+
+⁠While slow the stars of Cynosyra roll,
+Creeping in narrow circle round the pole;
+The furious Ram pursues a swift career
+Through the wide centre of the crystal sphere.
+No splendid gems his golden fleece adorn—
+Two dimly glitter on his crooked horn.
+If you would find him in the crowded skies,
+Beneath Andromeda's bright belt he lies.
+On the same path he round the heaven is borne,
+As Scorpio's claws, and fam'd Orion's zone.
+
+⁠Deltoton next—another sign—is given,
+Which marks the place of Aries in the heaven.
+Three stars the form of a Triangle trace—
+Two equal sides upon a shorter base.
+Southward of this, declining to the west,
+Behold his ample horns and shaggy breast.
+
+⁠Where the equator cuts the zodiac line,
+On the blue vault the glittering Fishes shine.
+Though far apart a diamond-studded chain,
+Clasping their silvery tails, unites the twain.
+The Northern one more bright is seen to glide
+Beneath th' uplifted arm, and near the side
+Of fair Andromeda.
+
+⁠Her anxious eyes
+Gleam bright with hope: beneath her Perseus flies,
+Her brave deliverer—mighty son of Jove—
+His giant strides the blue vault climb, and move
+A cloud of dust in heaven: his falchion bare
+Reaches his honour’d step-dame's golden chair.
+
+⁠Near his left knee the Pleiads next are roll'd,
+Like seven pure brilliants set in ring of gold.
+Though each one small, their splendour all combine
+To form one gem, and gloriously they shine.
+Their number seven, though some men fondly say,
+And Poets feign, that one has pass'd away.
+Alcyone—Celœno—Merope—
+Electra—Taygeta—and Sterope—
+With Maia—honour’d sisterhood—by Jove
+To rule the seasons plac’d in heaven above.
+Men mark them, rising with the solar ray,
+The harbingers of summer's brighter day—
+Men mark them, rising with Sol's setting light,
+Forerunners of the winter's gloomy night.
+They guide the ploughman to the mellow land—
+The sower casts his seed at their command.
+
+⁠When the mute shell, by cords elastic bound,
+Made vocal warbled forth harmonious sound—
+Jove snatch'd from earth the care-dispelling Lyre—
+The Gods themselves sweet melody admire.
+Before the Labouring Man its place in heaven—
+To smooth toil's rugged brow sweet music given.
+
+⁠Next soars with wings expanding far and wide
+Around the pole in majesty to glide
+Jove's mottled Swan. Th’ adulterous bird, they say,
+That lent his form fair Leda to betray.
+His curving neck around the Lyre he bends—
+To distant sky his diamond head extends—
+Dark and obscure in parts—in others bright
+Studded his wings with numerous gems of light.
+Like to a hovering bird his pinions rest,
+While floating tranquilly he seeks the west.
+Reaches one foot to Cepheus far aloof—
+Touches one wing the flying-horse's hoof.
+
+⁠About this steed extends the Fish's band—
+Upon his mane Aquarius rests his hand.
+
+⁠Before him Capricorn—of monster kind—
+In front a goat—a scaly fish behind.
+Down to his realms each year the Sun descends:
+Returning thence with strength renew'd ascends.
+Hapless the mariners, who rashly brave,
+Or fates compel to tempt, the wintry wave.
+The pallid sun, late rising from the east,
+Looms through the murky cloud, and seeks the west.
+Dark gloomy Night usurps unequal sway,
+Nor deigns to share it with the God of day.
+The long black billows roll—the whirlwinds roar—
+And smokes with shiver'd foam the rocky shore.
+Now headlong in the yawning trough they merge—
+Now rise like cormorants on the crested surge–
+Chills their spray-beaten limbs the icy air—
+Chills their heart's blood of death the instant fear.
+Poor hapless mortals l but a plank of wood
+Twixt them and stygian Pluto's drear abode!
+Sailors, forewarn'd within your ports remain,
+Nor, rashly venturing, loss and ruin gain.
+
+⁠E'en while the sun in Sagittarius lies,
+Trust not the faithless sea and clouldless skies.
+Mark where on zodiac-line the Archer stands,
+With outstretch'd bow and arrow in his hands.
+When from the east his monster form he rears,
+Bright Scorpio's gem Antar aloft appears;
+And high in their meridian glory roll
+Cold Cynosyra's stars around the pole:
+Orion plunges in the western waves,
+And half his body northern Cepheus laves.
+
+⁠There lies an Arrow—from what bow it fell
+Near to the flying Swan, no Poets tell.
+
+⁠Beneath it soars the Royal Bird of Jove,
+Rais'd by his master to these realms above.
+To sailors oft an inauspicious star,
+Rises at dawn of day, the bright Atair.
+
+⁠Where Capricorn his horned forehead rears,
+Not distant far his course the Dolphin steers—
+Obedient fish—that from a distant shore
+His coy reluctant bride to Neptune bore.
+With four fair stars he decks the summer skies,
+Sparkling and soft as maiden's beauteous eyes."</string>
+
+    <string name="AratusPhenomena2">"Now have been sung the various forms that roll
+Their daily orbits round the northern pole;
+And the twelve signs, through which the God of day,
+Varying the seasons, runs his glorious way.
+There yet remain untold those stars which shine
+In realms beyond the equinoctial line.
+
+⁠Athwart the Bull first rise—majestic sight!
+Orion's giant limbs and shoulders bright.
+Who but admires him stalking through the sky,
+With diamond-studded belt, and glittering thigh?
+
+⁠Nor with less ardour, pressing on his back,
+The mottled Hound pursues his fiery track.
+Dark are his lower parts as wintry night—
+His head with burning star intensely bright.
+Men call him Sirius—for his blasting breath
+Dries mortals up in pestilence and death.
+When, following hard upon the God of day,
+He darts through field and grove his parching ray;
+The face of Nature scorch'd and blister'd lies,
+And beauteous Flora withers—pines—and dies.
+But luscious juice the bursting grapes distil;
+And golden stores the reaper's bosom fill.
+
+⁠Up from the east the Hare before him flies—
+Close he pursues her through the southern skies.
+Nearer he cannot reach—farther she cannot strain–
+And close they plunge into the western main.
+
+⁠Near to the quarters of Orion's hound
+Steers through the azure vault her nightly round
+The far-fam'd ship, in which bold Jason's crew
+First dar'd dark ocean's trackless path pursue.
+When a swift vessel ploughs her watery way,
+With forward prow she meets the dashing spray;
+But when deep-laden back from distant land
+She comes, with forward poop a clamorous band
+Of joyous sailors haul her to the strand.
+And thus, with forward poop and prow reverse
+The heavenly Argo steers her westward course.
+O'er half her length a shroud of darkness cast—
+Some splendid stars illume her head and mast.
+
+⁠Mark where the savage Cetus couching eyes
+Andromeda, secure in northern skies.
+The Fish and horned Ram his progress bar,
+Nor dares he pass the track of Phoebus' car.
+The silken bands, that join the Fishes' tails,
+Meet in a star upon the monster's scales.
+
+⁠Beneath Orion's foot Eridanus begins
+His winding course, and reaches Cetus' fins.
+When high-born Phaeton with boyish pride
+Presum’d his father's fiery steeds to guide,
+And, from his shatter'd chariot in the wave
+Hurl'd headlong, to ambition gave
+An awful warning; from his reedy bed
+Rous’d was the river-god—alarm'd he fled
+From his parch'd channel—and in pity Jove
+Gave him a place in the blue vault above.
+
+⁠Where broken Argo ploughs her azure way,
+Where savage Cetus eyes his beauteous prey:
+Between them both, beneath the flying Hare,
+Unnumber'd, small and glittering stars appear.
+Nameless they are—and boundless—unconfin'd
+In fancied forms by human skill design'd.
+
+⁠These heavenly signs some wise and ancient man,
+Skilful and apt the realms of night to scan,
+Devis'd and figur'd: each arrang'd with care—
+Decking with various forms the concave sphere.
+Hopeless the task each separate star to name,
+Many in lustre and in size the same;
+But group'd in constellations they appear
+Though nameless known—though numberless in order clear.
+
+⁠The southern Fish beneath Aquarius glides,
+And upward turns to Cetus scaly sides.
+Rolls from Aquarius' vase a limpid stream,
+Where numerous stars like sparkling bubbles gleam;
+But two alone beyond the others shine:
+This on the Fish's jaw—that on the Monster's spine.
+
+⁠Glitters, the forefeet of the Archer near,
+The southern Crown: its jewels not so fair
+As Ariadne's in the northern sphere.
+
+⁠Where Scorpio to the south his claw expands,
+Burning with constant fire an Altar stands.
+Few are the hours it shines to mortal eye—
+Short is its passage through the wintry sky—
+Long as Arcturus o'er the ocean rides,
+So long the darksome wave the Altar hides.
+Primeval Night, who with the God of day
+O'er earth and ocean holds divided sway,
+Pitying the toils and dangers of the brave
+Adventurous sailor through the pathless wave,
+By certain signs the coming tempest shows,
+While Zephyr breathes, and smoothly ocean flows.
+When thou behold'st the Altar bright and clear,
+While all around is cloud and darkness drear,
+Forewarn'd, take heed—soon loud and fast
+Will Notus drive upon the furious blast.
+The prudent sailor with attentive eye
+Observes this warning beacon plac'd on high:
+Tightens each rope—binds fast the flapping sail
+And rides securely through the threat'ning gale.
+Imprudent mariners these signs despise,
+Nor heed the murmuring wind and lowering skies:
+With sail to shivers torn and broken mast
+Headlong they drive before the furious blast:
+Now frowns with ruin big the mountain wave—
+Now gapes the dark abyss a yawning grave.
+If to their prayer propitious Jove attend,
+And from the north storm-quelling Boreas send;
+Dispers'd the clouds—serene the troubled air–
+And curb'd is Neptune in his mad career.
+But if the Centaur 'twixt the east and west
+Have half his course perform'd, and on his breast
+A cloudy vapour hang—forewarn'd beware—
+For Eurus with his blighting breath is near.
+
+⁠The Centaur next his monster form displays.
+Is he sage Chiron, sung in Homer's lays?
+Above his front, of human form divine,
+The scaled limbs of blazing Scorpio shine.
+Where in a horse his hinder quarters end,
+Above on zodiac line the Claws extend.
+In his right hand some beast he seems to bear—
+They say, an offering for the Altar near.
+
+⁠The Hydra next her giant length extends—
+Around the Centaur's head her tail she bends.
+Above her coiled back the Lion stands—
+Close o'er her glittering head dark Cancer hangs.
+On the mid coil a Goblet rests—below,
+As pecking at her skin, the crafty Crow.
+
+⁠Beneath the Twins the portals of the east
+Dread Procyon bursts—though last, in splendour not the least.
+
+⁠These are the heavenly orbs that ever roll
+In their fix'd circles round the central pole.
+
+⁠Five other stars remain of various size,
+That lawless seem to wander through the skies.
+Hence Planets call'd—yet still they ever run
+Through the twelve signs, the circuit of the sun.
+Thousands of ages come—thousands depart—
+Ere all return and meet where once they start.
+Rash the attempt for artless hand like mine
+To trace their orbits and their bounds define:
+My easier task the circles to rehearse
+Of the fix’d stars, and trace Sol's annual course.
+
+⁠If with admiring ken some cloudless night,
+When no full moon obtrudes her jealous light,
+To the high Heavens thou lift the starry eye,
+A radiant girdle belts the azure sky—
+A pearly pavement softly bright it seems—
+Its silvery whiteness rivals Cynthia's beams—
+The Milky Zone. No other circle given
+Thus visible to mortal eyes in Heaven.
+Four circles trace we on the heavenly sphere
+To mark the course of each revolving year;
+Round the mid heavens the larger two are bound,
+Nearer the poles the lesser two are found.
+
+⁠Upon the northern, dear to sailors, shine
+The brother Twins, of Jove's immortal line.
+With glowing knees Auriga it adorns;
+And close below the Bull expands his horns.
+To Perseus legs and shoulders it extends—
+Andromeda her beauteous arm upon it bends
+Down from the north. The Flying Horse aloof
+Reaches the circle with his prancing hoof.
+Stretches the Swan his neck and head afar,
+Seeking to touch it with his utmost star.
+Near it his shoulders Serpentarius rears,
+And nearer yet the Serpent's head appears.
+Astræa's virgin form below reclines—
+Her angel face on realms more southern shines.
+It runs athwart the Lion's loins and breast—
+Cutting his shaggy mane and tawny chest.
+Hence into Cancer, where its course begun,
+And where in northern Tropic rests the Sun.
+If in eight parts this circle we divide,
+Five rise above—three sink in ocean's tide.
+When Phœbus gains this point, approaching near
+E'en to the forefeet of the greater Bear,
+He checks his steeds, and turns his burning car
+Down from the north to Capricorn afar.
+
+⁠The other corresponding circle lies
+As distant from the pole in southern skies.
+The breast it cuts and loins of Capricorn,
+And both his legs, who holds the Watering Urn.
+Its track on Cetus fishy tail is found—
+Through the swift Hare—and swift pursuing Hound.
+Onward it runs o'er Argo's glittering mast,
+And to the monster Centaur's hairy breast.
+Divides the Scorpion near its fiery sting—
+Cutting the Archer's crooked bow and string.
+His southern limits here the Sun attains,
+When tyrant Winter holds in icy chains
+Our northern realms. Five parts of weary night
+Our hapless lot—and three of solar light.
+
+⁠Betwixt them both a greater circle lies,
+And equally bisects the starry skies.
+When Phœbus cuts this Equinoctial way,
+He gives to man the balanc'd night and day:
+When weeping Autumn mourns the empty fields,
+And when to genial Spring stern Winter yields.
+On it the Ram his golden fleece reclines;
+To it his crooked knees the Bull inclines;
+On it Orion's diamond-studded waist;
+To it the Hydra lifts her coiled breast;
+Onward through Scorpio's outstretch'd Claws its track,
+Cutting the Serpent, and the brawny back
+Of Serpentarius. Closely soars above
+The mighty messenger of thundering Jove.
+Nor distant far the snorting Winged Horse,
+With flowing mane pursues his daily course.
+
+⁠The orbits of three circles we have trac'd,
+Directly round the polar axis plac'd:
+The fourth, obliquely running through the sky
+From lowest Capricorn to Cancer high,
+Touches each Tropic, and unites the twain,
+Twice cutting through the equinoctial line.
+No skilful hand, though Pallas lent her art,
+To orbs such various movements could impart,
+Harmonious all. On the celestial sphere
+Though stars untold, as ocean's sand, appear,
+Each tracks its separate orbit through the skies—
+Fix’d is its place to set—its place to rise.
+But the fourth circle on the ocean's face
+To set and rise has no determin’d place.
+Now mounting high to Cancer's torrid side—
+With Capricorn now sinking in the tide.
+If we this circle measure in the sky,
+Spanning a sixth part with the human eye,
+Two signs of twelve it can at once embrace,
+Thence to the central eye an equal space.
+Through torrid Cancer and the Lion's crest
+This Zodiac runs, and o'er the Virgin's vest:
+Where Scorpio stretches far his glittering Claws,
+And where his arrow Sagittarius draws—
+To Capricornus with his fishy stern,
+And moist Aquarius with his flowing urn–
+To where apart the silvery Fishes glide,
+Their tails by silken band together tied—
+By golden Aries, and the Bull's red eye—
+To where the Twins propitious shine on high.
+Each year this circle tracks the God of day,
+Cheering the earth with his prolific ray.
+Six of its parts in heaven conspicuous ride,
+While six are hid from sight in ocean's tide.
+Deep as it plunges in the southern main,
+So high it mounts upon the starry plain.
+Black dreary Night now holds extended sway,
+Giving to earth the cold contracted day:
+Now triumphs in his turn the God of light,
+Nor deigns to share his power with ancient Night:
+Scarce sinks in western wave his burning car,
+Ere burst his snorting steeds their eastern bar.
+
+⁠Important task to trace its course aright,
+And mark its rising each successive night;
+For always held within this zodiac bound,
+Running his annual course the Sun is found.
+If clouds arise, or mountains intervene,
+And Phœbus' rising chariot is not seen;
+Turn to that part of the horizon's line,
+Where uneclips'd the heavenly beacons shine:
+Some star there mark, which by its setting ray
+Tells of the rising of the God of day.
+
+⁠When Cancer rises from the eastern main,
+Not few the gems that deck the azure plain.
+The diamond Crown, that amorous Bacchus gave
+To Ariadne, in the western wave
+One half is plung'd: the southern Fish descends
+Headlong, his tail upon his back he bends.
+Tir'd Serpentarius dips his heaving breast,
+With his broad shoulders, and the Serpent's crest.
+Arctophylax, insatiable of light,
+Unwilling seeks the dreary realms of night—
+Above the waves his outstretch'd hand remains,
+Through half the night the struggle he maintains.
+Rears to meridian sky Orion bold
+His massy club—beneath his feet is roll’d
+Eridanus—splendid his diamond band,
+And sheath'd in flickering gold his flaming brand.
+
+⁠When rising fiercely from his eastern lair,
+The Lion shakes the dewdrops from his hair,
+Jove's Eagle, scar'd, to western ocean flies,
+Quenching the fiery bolt, and lightning of his eyes.
+Headlong Engonasin—yet still appear
+His knee and foot within the starry sphere.
+The Hydra, fearless of the lordly beast,
+Rises together with him from the east.
+And burning Procyon, and the bright-ey'd Hare,
+And forefeet of the greater Dog appear.
+
+⁠When fair Astræa shows her virgin face,
+Propitious to this earth—her dwelling place
+In times gone by ; then sets the Arcadian Lyre,
+Which skilful Hermes strung for Jove his sire—
+Plunges the Dolphin in his native waves—
+The mottled Swan his plumes in ocean laves—
+Westward Eridanus pours down his tide—
+Merges the Horse his head and winged side.
+Aloft the Hydra lifts his speckled crest,
+Showing the Goblet on his coiled breast.
+All Sirius now emerges from below,
+And glittering Argo with her broken prow.
+
+⁠If few conspicuous stars the Claws can boast,
+And their dim light mid brighter gems is lost;
+Together with them great Bootes rears
+His head, and on his waist Arcturus bears.
+While Argo spreads aloft her spangled sails,
+And Hydra stretches forth her lengthened scales.
+That nameless figure, kneeling in the sky,
+Now lifts to sight his rising leg and thigh—
+Ever he kneels—aloft his arm he flings,
+As if to strike the Lyre's responsive strings.
+Poor Labouring Man—he knows no night of rest–
+Ere all his wearied limbs have gain'd the west
+His morning course begins. Slow to the east
+He lifts his giant form. His heaving breast
+Rises with Scorpio, while his head below
+Advances with the Archer’s outstretch'd bow.
+Lingering he struggles on the ocean's verge,
+And slowly with three signs his limbs emerge.
+Together with the Claws the diamonds bright,
+That deck the northern Crown, arise to sight,
+And sink the Swan and Pegasus in utter night.
+Of Neptune's wrath Andromeda the fair
+No longer mindful dips her golden hair.
+When lo! to western wave the dauntless brute,
+The fishy Cetus rolls, as in pursuit
+Of his lost prey. And in the northern waves
+Cepheus his head, and hand, and shoulder laves.
+
+⁠When Scorpio rises with the bright Antar,
+Orion marks that signal from afar;
+Nor turns to view the monster form again,
+But hastens downward to the western main.
+Pardon, chaste Dian, if I now relate,
+As ancient bards have sung, Orion's fate.
+He rashly dar'd, they say, on Chian strand
+To touch thy virgin vest with impious hand,
+What time invited by Œnopion came
+The giant warrior in pursuit of game;
+And slaughter'd heaps, and vacant forests told
+The skill and vigour of the hunter bold.
+A mightier beast, that could his might withstand,
+From the cleft rock arose at thy command;
+And this huge Scorpion with the hunter's blood
+Aveng'd the harmless tenants of the wood.
+Hence not in heaven unmindful of the fray
+Orion shuns the Scorpion's blasting ray.
+With him Andromeda and Cetus merge
+Their total limbs deep in the briny surge.
+Within the Arctic circle Cepheus glides—
+His glittering girdle night from day divides.
+Each eve his crowned head and breast he laves
+Down to the waist in ocean's cooling waves.
+Behind Andromeda her mother queen
+With head immers'd, and legs aloft is seen,
+A royal matron and a stately dame,
+Like to a tumbler at some rustic game!
+Unsightly posture—Will she now compare
+With graceful Panope and Doris fair?
+While headlong to the west all these descend,
+Up from the east the lower parts ascend
+Of Hydra's snaky length—the crown appears—
+The Centaur's head—and victim which he bears.
+
+⁠When the great Archer Monster from below
+Rising obtrudes his outstretch'd arm and bow;
+Then mounting with him Serpentarius shines—
+Round him its speckled coils the serpent twines.
+Engonasin above revers'd appears—
+First to the sky his feet and legs he rears—
+Sweet soother of his toils the Lyre he brings,
+Harmonious warbling with its golden strings.
+The stars that Sirius and Orion boast
+In deepest night to human ken are lost.
+Auriga stands upon the watery verge–
+Touches his naked feet the rising surge.
+Capella on his shoulder shines afar,
+To sailors oft an unpropitious star.
+Cepheus now rises on the eastern sky,
+And Perseus half is lost to human eye.
+
+⁠When rising next appears with butting horn
+Half goat, half fish, the wintry Capricorn,
+Auriga setting bears his Kids away;
+And ocean quenches Procyon's feverish ray.
+Up from the east the Swan majestic sails—
+Returning light Jove's mighty Eagle hails.
+
+⁠When dripping from his dreary watery bed
+Aquarius lifts his cloud-environ’d head,
+The rising Horse the starry pavement paws
+With panting nostril and extended jaws.
+Night drags the Centaur down to her domain—
+Aloft his head and shoulders broad remain
+
+⁠Till from their native waves the Fishes glide;
+Then the whole monster sinks beneath the tide.
+Andromeda now gladly quits the main,
+Where Neptune and th' offended Nereids reign.
+Long time emerging from the briny waves,
+One fetter'd hand in ocean still she laves.
+
+⁠When rises Aries with his golden head,
+And couching rests as on a flowery bed,
+Quench'd in the ocean sinks the Altar's fire—
+To hapless sailors oft an omen dire.
+And Perseus arm'd emerges from the tide,
+As rushing to defend his captive bride.
+
+⁠When quits the Bull the portals of the east,
+Rises, attendant on the lordly beast,
+Auriga. On him rests Capella bright,
+And rivals Aldebaran's ruby light:
+Not all his limbs the eastern ocean clear
+Till in the heavens the brother Twins appear.
+Now first Bootes sinks into the main,
+Struggling through four long signs the shore to gain
+One hand he keeps above the arctic way,
+As if intent to seize his grisly prey.
+
+⁠Dips Serpentarius both his feet and knees,
+As mount the Twins above the eastern seas;
+And high in their meridian splendour shine
+The numerous stars on Cetus' fin and spine.
+Rising Eridanus the sailors cheers,
+And soon Orion's splendid belt appears:
+By Him the watches of the night they mark,
+Intent on Him they steer the fragile bark.
+The Gods, propitious to man's feeble race,
+These signs in heaven his guides and beacons place."</string>
 
     //Zenodotus' Epitaph to Zeno of Citium
     <string name="ZenodotusEpitaph">"You made contentment the chief rule of life,\n\nDespising haughty wealth, O God-like Zenon.\n\nWith solemn look, and hoary brow serene,\n\nYou taught a manly doctrine; and didst found\n\nBy your deep wisdom, a great novel school,\n\nChaste parent of unfearing liberty.\n\nAnd if your country was Phoenicia,\n\nWhy need we grieve, from that land Cadmus came,\n\nWho gave to Greece her written books of wisdom."</string>

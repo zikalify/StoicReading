@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import app.reading.stoic.stoicreading.AratusDiosemeia.AratusDiosemeia;
 import app.reading.stoic.stoicreading.AratusPhenomena.AratusPhenomenaHome;
 
 public class AratusHome extends AppCompatActivity {
@@ -34,11 +35,24 @@ public class AratusHome extends AppCompatActivity {
                 AratusPhenomenaHome();
             }
         });
+
+        button = findViewById(R.id.aratus_diosemeia);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                AratusDiosemeia();
+            }
+        });
     }
 
     //Activity call methods, called by buttons above
     public void AratusPhenomenaHome() {
         Intent intent = new Intent(this, AratusPhenomenaHome.class);
+        startActivity(intent);
+    }
+
+    public void AratusDiosemeia() {
+        Intent intent = new Intent(this, AratusDiosemeia.class);
         startActivity(intent);
     }
 }

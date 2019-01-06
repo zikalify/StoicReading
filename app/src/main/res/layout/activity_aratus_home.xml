@@ -23,6 +23,16 @@
             tools:layout_editor_absoluteX="4dp"
             tools:layout_editor_absoluteY="5dp" />
 
+        <Button
+            android:id="@+id/aratus_diosemeia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/aratus_phenomena_home"
+            android:layout_centerHorizontal="true"
+            android:text="@string/AratusDiosemeiaTitle"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
     </RelativeLayout>
 
 </ScrollView>

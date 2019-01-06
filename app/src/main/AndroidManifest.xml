@@ -369,7 +369,8 @@
         <activity android:name=".PanaetiusQuotations.PanaetiusQuotations" />
         <activity android:name=".AttalusHome" />
         <activity android:name=".AttalusOnRiches.AttalusOnRiches" />
-        <activity android:name=".AttalusQuotations.AttalusQuotations"></activity>
+        <activity android:name=".AttalusQuotations.AttalusQuotations" />
+        <activity android:name=".AratusDiosemeia.AratusDiosemeia"></activity>
     </application>
 
 </manifest>

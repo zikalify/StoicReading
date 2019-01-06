@@ -177,8 +177,8 @@
     <string name="DidymusEpitome3">"On the soul"</string>
 
     //Phenomena Titles
-    <string name="AratusPhenomenaChapter1">"Part 1 (Lines 0 - 370)"</string>
-    <string name="AratusPhenomenaChapter2">"Part 2 (Lines 371 - 821)"</string>
+    <string name="AratusPhenomenaChapter1">"Part 1"</string>
+    <string name="AratusPhenomenaChapter2">"Part 2"</string>
 
     //Enchiridion Titles
     <string name="EpictetusEncTitle1">"Ch. 1–21. What is up to us and not, and how to deal with external things."</string>

@@ -9,7 +9,7 @@ Text sources are all public domain to the best of my knowledge:
 
 Aratus:
 
-• Phenomena https://web.archive.org/web/20180325010613/http://www.theoi.com/Text/AratusPhaenomena.html
+• Phenomena & Diosemeia https://en.wikisource.org/wiki/The_Phenomena_and_Diosemeia_of_Aratus
 
 Marcus Aurelius:
 

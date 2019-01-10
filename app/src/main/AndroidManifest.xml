@@ -370,7 +370,8 @@
         <activity android:name=".AttalusHome" />
         <activity android:name=".AttalusOnRiches.AttalusOnRiches" />
         <activity android:name=".AttalusQuotations.AttalusQuotations" />
-        <activity android:name=".AratusDiosemeia.AratusDiosemeia"></activity>
+        <activity android:name=".AratusDiosemeia.AratusDiosemeia" />
+        <activity android:name=".RufusFragments.RufusFragments"></activity>
     </application>
 
 </manifest>

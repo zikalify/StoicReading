@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import app.reading.stoic.stoicreading.RufusFragments.RufusFragments;
 import app.reading.stoic.stoicreading.RufusLectures.LecHome;
 
 public class RufusHome extends AppCompatActivity {
@@ -34,11 +35,24 @@ public class RufusHome extends AppCompatActivity {
                 LecHome();
             }
         });
+
+        button = findViewById(R.id.rufus_fragments);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                RufusFragments();
+            }
+        });
     }
 
     //Activity call methods, called by buttons above
     public void LecHome() {
         Intent intent = new Intent(this, LecHome.class);
+        startActivity(intent);
+    }
+
+    public void RufusFragments() {
+        Intent intent = new Intent(this, RufusFragments.class);
         startActivity(intent);
     }
 }

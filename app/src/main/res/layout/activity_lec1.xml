@@ -37,7 +37,7 @@
                 app:fontFamily="sans-serif"
                 android:enabled="true"
                 android:textIsSelectable="true"
-                android:focusable="true"
+                android:focusable="false"
                 android:longClickable="true"/>
         </RelativeLayout>
     </LinearLayout>

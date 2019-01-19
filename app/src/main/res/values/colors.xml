@@ -3,5 +3,7 @@
     <color name="colorPrimary">#333333</color>
     <color name="colorPrimaryDark">#333333</color>
     <color name="colorAccent">#FF9800</color>
-    <color name="blackBackground">#000000</color>
+    <color name="colorPrimary_alt">#FFFFFF</color>
+    <color name="colorPrimaryDark_alt">#FFFFFF</color>
+    <color name="textColorPrimary_alt">#000000</color>
 </resources>

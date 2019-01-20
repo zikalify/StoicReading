@@ -24,6 +24,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
                 android:text="@string/EpictetusDiscoursesBookTwo1Title"
                 tools:layout_editor_absoluteX="4dp"
                 tools:layout_editor_absoluteY="5dp" />
@@ -274,6 +275,7 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/BookTwo_25"
                 android:layout_centerHorizontal="true"
+                android:layout_marginBottom="5dp"
                 android:text="@string/EpictetusDiscoursesBookTwo26Title"
                 tools:layout_editor_absoluteX="219dp"
                 tools:layout_editor_absoluteY="74dp" />

@@ -43,6 +43,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/epitome_universe"
             android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
             android:text="@string/DidymusEpitome3"
             tools:layout_editor_absoluteX="189dp"
             tools:layout_editor_absoluteY="16dp" />

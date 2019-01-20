@@ -215,6 +215,7 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/seneca_on_the_shortness_of_life_chapter_19"
                 android:layout_centerHorizontal="true"
+                android:layout_marginBottom="5dp"
                 android:text="@string/SenecaOnTheShortnessOfLifeTitle20"
                 tools:layout_editor_absoluteX="0dp"
                 tools:layout_editor_absoluteY="33dp" />

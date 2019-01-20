@@ -31,6 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/cleanthes_hymn_to_zeus"
             android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
             android:text="@string/CleanthesQuotationsTitle"
             tools:layout_editor_absoluteX="4dp"
             tools:layout_editor_absoluteY="5dp" />

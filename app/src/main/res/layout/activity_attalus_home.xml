@@ -31,6 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/attalus_on_riches"
             android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
             android:text="@string/AttalusQuotationsTitle"
             tools:layout_editor_absoluteX="4dp"
             tools:layout_editor_absoluteY="5dp" />

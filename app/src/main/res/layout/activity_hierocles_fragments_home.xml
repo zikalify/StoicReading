@@ -85,6 +85,7 @@
                 android:layout_below="@+id/hierocles_fragments_6"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
                 android:text="@string/HieroclesFragmentsTitle7"
                 tools:layout_editor_absoluteX="16dp"
                 tools:layout_editor_absoluteY="146dp" />

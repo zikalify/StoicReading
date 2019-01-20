@@ -113,6 +113,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/zeno_button"
             android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
             android:text="@string/Zenodotus"
             tools:layout_editor_absoluteX="4dp"
             tools:layout_editor_absoluteY="5dp" />

@@ -24,6 +24,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp"
                 android:text="@string/AriusDidymusEpitomeTitle"
                 tools:layout_editor_absoluteX="4dp"
                 tools:layout_editor_absoluteY="5dp" />

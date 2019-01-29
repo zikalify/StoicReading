@@ -11,7 +11,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content">
 
         <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
             xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -24,21 +24,21 @@
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_alignParentLeft="true"
                 android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
                 android:layout_alignParentTop="true"
-                android:layout_marginLeft="0dp"
                 android:layout_marginStart="0dp"
+                android:layout_marginLeft="0dp"
                 android:layout_marginTop="0dp"
+                android:enabled="true"
+                android:focusable="false"
+                android:longClickable="true"
                 android:padding="15dp"
                 android:text="@string/RufusLectures_Lec1"
                 android:textAppearance="@style/TextAppearance.AppCompat"
-                android:textSize="20sp"
-                app:fontFamily="sans-serif"
-                android:enabled="true"
                 android:textIsSelectable="true"
-                android:focusable="false"
-                android:longClickable="true"/>
+                android:textSize="20sp"
+                app:fontFamily="sans-serif" />
         </RelativeLayout>
     </LinearLayout>
 

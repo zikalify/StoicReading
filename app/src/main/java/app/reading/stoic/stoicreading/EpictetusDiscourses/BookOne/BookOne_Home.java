@@ -2,15 +2,13 @@ package app.reading.stoic.stoicreading.EpictetusDiscourses.BookOne;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 
 import app.reading.stoic.stoicreading.R;
 
 public class BookOne_Home extends AppCompatActivity {
-    private Button button;
     private static final String PREFS_NAME = "prefs";
     private static final String PREF_DARK_THEME = "dark_theme";
 
@@ -27,245 +25,95 @@ public class BookOne_Home extends AppCompatActivity {
         setTitle(this.getString(R.string.EpictetusDiscoursesBookOneTitle));
 
         //Call each activity when click corresponding button
-        button = findViewById(R.id.BookOne_1);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_1();
-            }
-        });
+        Button button = findViewById(R.id.BookOne_1);
+        button.setOnClickListener(v -> BookOne_1());
 
         button = findViewById(R.id.BookOne_2);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_2();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_2());
 
         button = findViewById(R.id.BookOne_3);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_3();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_3());
 
         button = findViewById(R.id.BookOne_4);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_4();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_4());
 
         button = findViewById(R.id.BookOne_5);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_5();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_5());
 
         button = findViewById(R.id.BookOne_6);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_6();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_6());
 
         button = findViewById(R.id.BookOne_7);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_7();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_7());
 
         button = findViewById(R.id.BookOne_8);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_8();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_8());
 
         button = findViewById(R.id.BookOne_9);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_9();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_9());
 
         button = findViewById(R.id.BookOne_10);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_10();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_10());
 
         button = findViewById(R.id.BookOne_11);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_11();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_11());
 
         button = findViewById(R.id.BookOne_12);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_12();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_12());
 
         button = findViewById(R.id.BookOne_13);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_13();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_13());
 
         button = findViewById(R.id.BookOne_14);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_14();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_14());
 
         button = findViewById(R.id.BookOne_15);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_15();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_15());
 
         button = findViewById(R.id.BookOne_16);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_16();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_16());
 
         button = findViewById(R.id.BookOne_17);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_17();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_17());
 
         button = findViewById(R.id.BookOne_18);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_18();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_18());
 
         button = findViewById(R.id.BookOne_19);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_19();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_19());
 
         button = findViewById(R.id.BookOne_20);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_20();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_20());
 
         button = findViewById(R.id.BookOne_21);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_21();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_21());
 
         button = findViewById(R.id.BookOne_22);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_22();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_22());
 
         button = findViewById(R.id.BookOne_23);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_23();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_23());
 
         button = findViewById(R.id.BookOne_24);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_24();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_24());
 
         button = findViewById(R.id.BookOne_25);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_25();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_25());
 
         button = findViewById(R.id.BookOne_26);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_26();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_26());
 
         button = findViewById(R.id.BookOne_27);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_27();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_27());
 
         button = findViewById(R.id.BookOne_28);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_28();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_28());
 
         button = findViewById(R.id.BookOne_29);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_29();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_29());
 
         button = findViewById(R.id.BookOne_30);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BookOne_30();
-            }
-        });
+        button.setOnClickListener(v -> BookOne_30());
     }
 
     //Activity call methods, called by buttons above

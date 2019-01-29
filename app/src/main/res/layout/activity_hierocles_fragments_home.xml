@@ -10,10 +10,9 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content">
 
         <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-            xmlns:app="http://schemas.android.com/apk/res-auto"
             xmlns:tools="http://schemas.android.com/tools"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -21,9 +20,9 @@
 
             <Button
                 android:id="@+id/hierocles_fragments_1"
-                android:layout_centerHorizontal="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
                 android:layout_marginTop="5dp"
                 android:text="@string/HieroclesFragmentsTitle1"
                 tools:layout_editor_absoluteX="4dp"
@@ -31,60 +30,60 @@
 
             <Button
                 android:id="@+id/hierocles_fragments_2"
-                android:layout_centerHorizontal="true"
-                android:layout_below="@+id/hierocles_fragments_1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@+id/hierocles_fragments_1"
+                android:layout_centerHorizontal="true"
                 android:text="@string/HieroclesFragmentsTitle2"
                 tools:layout_editor_absoluteX="0dp"
                 tools:layout_editor_absoluteY="33dp" />
 
             <Button
                 android:id="@+id/hierocles_fragments_3"
-                android:layout_centerHorizontal="true"
-                android:layout_below="@+id/hierocles_fragments_2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@+id/hierocles_fragments_2"
+                android:layout_centerHorizontal="true"
                 android:text="@string/HieroclesFragmentsTitle3"
                 tools:layout_editor_absoluteX="189dp"
                 tools:layout_editor_absoluteY="16dp" />
 
             <Button
                 android:id="@+id/hierocles_fragments_4"
-                android:layout_centerHorizontal="true"
-                android:layout_below="@+id/hierocles_fragments_3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@+id/hierocles_fragments_3"
+                android:layout_centerHorizontal="true"
                 android:text="@string/HieroclesFragmentsTitle4"
                 tools:layout_editor_absoluteX="16dp"
                 tools:layout_editor_absoluteY="74dp" />
 
             <Button
                 android:id="@+id/hierocles_fragments_5"
-                android:layout_centerHorizontal="true"
-                android:layout_below="@+id/hierocles_fragments_4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@+id/hierocles_fragments_4"
+                android:layout_centerHorizontal="true"
                 android:text="@string/HieroclesFragmentsTitle5"
                 tools:layout_editor_absoluteX="119dp"
                 tools:layout_editor_absoluteY="74dp" />
 
             <Button
                 android:id="@+id/hierocles_fragments_6"
-                android:layout_centerHorizontal="true"
-                android:layout_below="@+id/hierocles_fragments_5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@+id/hierocles_fragments_5"
+                android:layout_centerHorizontal="true"
                 android:text="@string/HieroclesFragmentsTitle6"
                 tools:layout_editor_absoluteX="219dp"
                 tools:layout_editor_absoluteY="74dp" />
 
             <Button
                 android:id="@+id/hierocles_fragments_7"
-                android:layout_centerHorizontal="true"
-                android:layout_below="@+id/hierocles_fragments_6"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_below="@+id/hierocles_fragments_6"
+                android:layout_centerHorizontal="true"
                 android:layout_marginBottom="5dp"
                 android:text="@string/HieroclesFragmentsTitle7"
                 tools:layout_editor_absoluteX="16dp"

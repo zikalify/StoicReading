@@ -1,12 +1,12 @@
 package app.reading.stoic.stoicreading.RufusLectures;
 
 import android.content.SharedPreferences;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 import app.reading.stoic.stoicreading.R;
 
-public class Lec18 extends AppCompatActivity {
+public class Lec18A extends AppCompatActivity {
     private static final String PREFS_NAME = "prefs";
     private static final String PREF_DARK_THEME = "dark_theme";
 
@@ -19,7 +19,7 @@ public class Lec18 extends AppCompatActivity {
             setTheme(R.style.AppThemeDark);
         }
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_lec18);
+        setContentView(R.layout.activity_lec18_a);
         setTitle(this.getString(R.string.RufusLecturesTitle18A));
     }
 }

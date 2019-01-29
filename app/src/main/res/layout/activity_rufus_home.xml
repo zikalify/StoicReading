@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/scroll"
     android:layout_width="match_parent"
@@ -14,7 +13,6 @@
         android:layout_height="match_parent">
 
         <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-            xmlns:app="http://schemas.android.com/apk/res-auto"
             xmlns:tools="http://schemas.android.com/tools"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -22,9 +20,9 @@
 
             <Button
                 android:id="@+id/rufus_lec_home"
-                android:layout_centerHorizontal="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
                 android:layout_marginTop="5dp"
                 android:text="@string/RufusLecTitle"
                 tools:layout_editor_absoluteX="4dp"
@@ -32,10 +30,10 @@
 
             <Button
                 android:id="@+id/rufus_fragments"
-                android:layout_centerHorizontal="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/rufus_lec_home"
+                android:layout_centerHorizontal="true"
                 android:layout_marginBottom="5dp"
                 android:text="@string/RufusFragTitle"
                 tools:layout_editor_absoluteX="4dp"

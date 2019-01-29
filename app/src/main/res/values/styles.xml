@@ -9,7 +9,7 @@
         <item name="android:textColorPrimary">@color/textColorPrimary_alt</item>
     </style>
 
-    <style name="AppThemeDark" parent="ThemeOverlay.AppCompat.Dark.ActionBar" >
+    <style name="AppThemeDark" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
         <item name="android:textColorPrimary">@android:color/white</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="colorPrimary">@color/colorPrimary</item>

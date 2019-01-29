@@ -2,15 +2,13 @@ package app.reading.stoic.stoicreading.HieroclesFragments;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 
 import app.reading.stoic.stoicreading.R;
 
 public class HieroclesFragmentsHome extends AppCompatActivity {
-    private Button button;
     private static final String PREFS_NAME = "prefs";
     private static final String PREF_DARK_THEME = "dark_theme";
 
@@ -27,61 +25,26 @@ public class HieroclesFragmentsHome extends AppCompatActivity {
         setTitle(this.getString(R.string.HieroclesFragmentsTitle));
 
         //Call each activity when click corresponding button
-        button = findViewById(R.id.hierocles_fragments_1);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                HieroclesFrag1();
-            }
-        });
+        Button button = findViewById(R.id.hierocles_fragments_1);
+        button.setOnClickListener(v -> HieroclesFrag1());
 
         button = findViewById(R.id.hierocles_fragments_2);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                HieroclesFrag2();
-            }
-        });
+        button.setOnClickListener(v -> HieroclesFrag2());
 
         button = findViewById(R.id.hierocles_fragments_3);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                HieroclesFrag3();
-            }
-        });
+        button.setOnClickListener(v -> HieroclesFrag3());
 
         button = findViewById(R.id.hierocles_fragments_4);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                HieroclesFrag4();
-            }
-        });
+        button.setOnClickListener(v -> HieroclesFrag4());
 
         button = findViewById(R.id.hierocles_fragments_5);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                HieroclesFrag5();
-            }
-        });
+        button.setOnClickListener(v -> HieroclesFrag5());
 
         button = findViewById(R.id.hierocles_fragments_6);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                HieroclesFrag6();
-            }
-        });
+        button.setOnClickListener(v -> HieroclesFrag6());
 
         button = findViewById(R.id.hierocles_fragments_7);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                HieroclesFrag7();
-            }
-        });
+        button.setOnClickListener(v -> HieroclesFrag7());
     }
 
     //Activity call methods, called by buttons above

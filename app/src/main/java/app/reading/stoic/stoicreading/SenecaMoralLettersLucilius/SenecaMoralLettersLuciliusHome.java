@@ -2,16 +2,13 @@ package app.reading.stoic.stoicreading.SenecaMoralLettersLucilius;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 
 import app.reading.stoic.stoicreading.R;
-import app.reading.stoic.stoicreading.SenecaOfProvidence.SenecaOfProvidence_1;
 
 public class SenecaMoralLettersLuciliusHome extends AppCompatActivity {
-    private Button button;
     private static final String PREFS_NAME = "prefs";
     private static final String PREF_DARK_THEME = "dark_theme";
 
@@ -28,997 +25,377 @@ public class SenecaMoralLettersLuciliusHome extends AppCompatActivity {
         setTitle(this.getString(R.string.SenecaMoralLettersToLuciliusTitle));
 
         //Call each activity when click corresponding button
-        button = findViewById(R.id.seneca_letter_001);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter001();
-            }
-        });
+        Button button = findViewById(R.id.seneca_letter_001);
+        button.setOnClickListener(v -> SenecaLetter001());
 
         button = findViewById(R.id.seneca_letter_002);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter002();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter002());
 
         button = findViewById(R.id.seneca_letter_003);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter003();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter003());
 
         button = findViewById(R.id.seneca_letter_004);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter004();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter004());
 
         button = findViewById(R.id.seneca_letter_005);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter005();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter005());
 
         button = findViewById(R.id.seneca_letter_006);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter006();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter006());
 
         button = findViewById(R.id.seneca_letter_007);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter007();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter007());
 
         button = findViewById(R.id.seneca_letter_008);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter008();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter008());
 
         button = findViewById(R.id.seneca_letter_009);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter009();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter009());
 
         button = findViewById(R.id.seneca_letter_010);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter010();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter010());
 
         button = findViewById(R.id.seneca_letter_011);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter011();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter011());
 
         button = findViewById(R.id.seneca_letter_012);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter012();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter012());
 
         button = findViewById(R.id.seneca_letter_013);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter013();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter013());
 
         button = findViewById(R.id.seneca_letter_014);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter014();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter014());
 
         button = findViewById(R.id.seneca_letter_015);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter015();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter015());
 
         button = findViewById(R.id.seneca_letter_016);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter016();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter016());
 
         button = findViewById(R.id.seneca_letter_017);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter017();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter017());
 
         button = findViewById(R.id.seneca_letter_018);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter018();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter018());
 
         button = findViewById(R.id.seneca_letter_019);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter019();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter019());
 
         button = findViewById(R.id.seneca_letter_020);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter020();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter020());
 
         button = findViewById(R.id.seneca_letter_021);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter021();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter021());
 
         button = findViewById(R.id.seneca_letter_022);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter022();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter022());
 
         button = findViewById(R.id.seneca_letter_023);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter023();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter023());
 
         button = findViewById(R.id.seneca_letter_024);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter024();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter024());
 
         button = findViewById(R.id.seneca_letter_025);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter025();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter025());
 
         button = findViewById(R.id.seneca_letter_026);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter026();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter026());
 
         button = findViewById(R.id.seneca_letter_027);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter027();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter027());
 
         button = findViewById(R.id.seneca_letter_028);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter028();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter028());
 
         button = findViewById(R.id.seneca_letter_029);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter029();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter029());
 
         button = findViewById(R.id.seneca_letter_030);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter030();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter030());
 
         button = findViewById(R.id.seneca_letter_031);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter031();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter031());
 
         button = findViewById(R.id.seneca_letter_032);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter032();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter032());
 
         button = findViewById(R.id.seneca_letter_033);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter033();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter033());
 
         button = findViewById(R.id.seneca_letter_034);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter034();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter034());
 
         button = findViewById(R.id.seneca_letter_035);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter035();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter035());
 
         button = findViewById(R.id.seneca_letter_036);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter036();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter036());
 
         button = findViewById(R.id.seneca_letter_037);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter037();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter037());
 
         button = findViewById(R.id.seneca_letter_038);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter038();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter038());
 
         button = findViewById(R.id.seneca_letter_039);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter039();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter039());
 
         button = findViewById(R.id.seneca_letter_040);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter040();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter040());
 
         button = findViewById(R.id.seneca_letter_041);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter041();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter041());
 
         button = findViewById(R.id.seneca_letter_042);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter042();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter042());
 
         button = findViewById(R.id.seneca_letter_043);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter043();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter043());
 
         button = findViewById(R.id.seneca_letter_044);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter044();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter044());
 
         button = findViewById(R.id.seneca_letter_045);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter045();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter045());
 
         button = findViewById(R.id.seneca_letter_046);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter046();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter046());
 
         button = findViewById(R.id.seneca_letter_047);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter047();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter047());
 
         button = findViewById(R.id.seneca_letter_048);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter048();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter048());
 
         button = findViewById(R.id.seneca_letter_049);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter049();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter049());
 
         button = findViewById(R.id.seneca_letter_050);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter050();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter050());
 
         button = findViewById(R.id.seneca_letter_051);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter051();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter051());
 
         button = findViewById(R.id.seneca_letter_052);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter052();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter052());
 
         button = findViewById(R.id.seneca_letter_053);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter053();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter053());
 
         button = findViewById(R.id.seneca_letter_054);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter054();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter054());
 
         button = findViewById(R.id.seneca_letter_055);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter055();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter055());
 
         button = findViewById(R.id.seneca_letter_056);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter056();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter056());
 
         button = findViewById(R.id.seneca_letter_057);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter057();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter057());
 
         button = findViewById(R.id.seneca_letter_058);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter058();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter058());
 
         button = findViewById(R.id.seneca_letter_059);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter059();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter059());
 
         button = findViewById(R.id.seneca_letter_060);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter060();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter060());
 
         button = findViewById(R.id.seneca_letter_061);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter061();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter061());
 
         button = findViewById(R.id.seneca_letter_062);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter062();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter062());
 
         button = findViewById(R.id.seneca_letter_063);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter063();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter063());
 
         button = findViewById(R.id.seneca_letter_064);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter064();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter064());
 
         button = findViewById(R.id.seneca_letter_065);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter065();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter065());
 
         button = findViewById(R.id.seneca_letter_066);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter066();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter066());
 
         button = findViewById(R.id.seneca_letter_067);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter067();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter067());
 
         button = findViewById(R.id.seneca_letter_068);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter068();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter068());
 
         button = findViewById(R.id.seneca_letter_069);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter069();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter069());
 
         button = findViewById(R.id.seneca_letter_070);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter070();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter070());
 
         button = findViewById(R.id.seneca_letter_071);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter071();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter071());
 
         button = findViewById(R.id.seneca_letter_072);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter072();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter072());
 
         button = findViewById(R.id.seneca_letter_073);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter073();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter073());
 
         button = findViewById(R.id.seneca_letter_074);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter074();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter074());
 
         button = findViewById(R.id.seneca_letter_075);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter075();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter075());
 
         button = findViewById(R.id.seneca_letter_076);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter076();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter076());
 
         button = findViewById(R.id.seneca_letter_077);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter077();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter077());
 
         button = findViewById(R.id.seneca_letter_078);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter078();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter078());
 
         button = findViewById(R.id.seneca_letter_079);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter079();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter079());
 
         button = findViewById(R.id.seneca_letter_080);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter080();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter080());
 
         button = findViewById(R.id.seneca_letter_081);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter081();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter081());
 
         button = findViewById(R.id.seneca_letter_082);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter082();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter082());
 
         button = findViewById(R.id.seneca_letter_083);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter083();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter083());
 
         button = findViewById(R.id.seneca_letter_084);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter084();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter084());
 
         button = findViewById(R.id.seneca_letter_085);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter085();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter085());
 
         button = findViewById(R.id.seneca_letter_086);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter086();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter086());
 
         button = findViewById(R.id.seneca_letter_087);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter087();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter087());
 
         button = findViewById(R.id.seneca_letter_088);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter088();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter088());
 
         button = findViewById(R.id.seneca_letter_089);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter089();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter089());
 
         button = findViewById(R.id.seneca_letter_090);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter090();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter090());
 
         button = findViewById(R.id.seneca_letter_091);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter091();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter091());
 
         button = findViewById(R.id.seneca_letter_092);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter092();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter092());
 
         button = findViewById(R.id.seneca_letter_093);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter093();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter093());
 
         button = findViewById(R.id.seneca_letter_094);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter094();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter094());
 
         button = findViewById(R.id.seneca_letter_095);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter095();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter095());
 
         button = findViewById(R.id.seneca_letter_096);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter096();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter096());
 
         button = findViewById(R.id.seneca_letter_097);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter097();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter097());
 
         button = findViewById(R.id.seneca_letter_098);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter098();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter098());
 
         button = findViewById(R.id.seneca_letter_099);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter099();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter099());
 
         button = findViewById(R.id.seneca_letter_100);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter100();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter100());
 
         button = findViewById(R.id.seneca_letter_101);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter101();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter101());
 
         button = findViewById(R.id.seneca_letter_102);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter102();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter102());
 
         button = findViewById(R.id.seneca_letter_103);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter103();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter103());
 
         button = findViewById(R.id.seneca_letter_104);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter104();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter104());
 
         button = findViewById(R.id.seneca_letter_105);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter105();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter105());
 
         button = findViewById(R.id.seneca_letter_106);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter106();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter106());
 
         button = findViewById(R.id.seneca_letter_107);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter107();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter107());
 
         button = findViewById(R.id.seneca_letter_108);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter108();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter108());
 
         button = findViewById(R.id.seneca_letter_109);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter109();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter109());
 
         button = findViewById(R.id.seneca_letter_110);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter110();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter110());
 
         button = findViewById(R.id.seneca_letter_111);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter111();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter111());
 
         button = findViewById(R.id.seneca_letter_112);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter112();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter112());
 
         button = findViewById(R.id.seneca_letter_113);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter113();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter113());
 
         button = findViewById(R.id.seneca_letter_114);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter114();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter114());
 
         button = findViewById(R.id.seneca_letter_115);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter115();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter115());
 
         button = findViewById(R.id.seneca_letter_116);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter116();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter116());
 
         button = findViewById(R.id.seneca_letter_117);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter117();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter117());
 
         button = findViewById(R.id.seneca_letter_118);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter118();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter118());
 
         button = findViewById(R.id.seneca_letter_119);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter119();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter119());
 
         button = findViewById(R.id.seneca_letter_120);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter120();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter120());
 
         button = findViewById(R.id.seneca_letter_121);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter121();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter121());
 
         button = findViewById(R.id.seneca_letter_122);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter122();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter122());
 
         button = findViewById(R.id.seneca_letter_123);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter123();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter123());
 
         button = findViewById(R.id.seneca_letter_124);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaLetter124();
-            }
-        });
+        button.setOnClickListener(v -> SenecaLetter124());
 
     }
 

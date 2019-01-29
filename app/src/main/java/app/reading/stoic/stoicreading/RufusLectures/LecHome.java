@@ -2,15 +2,13 @@ package app.reading.stoic.stoicreading.RufusLectures;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 
 import app.reading.stoic.stoicreading.R;
 
 public class LecHome extends AppCompatActivity {
-    private Button button;
     private static final String PREFS_NAME = "prefs";
     private static final String PREF_DARK_THEME = "dark_theme";
 
@@ -27,189 +25,74 @@ public class LecHome extends AppCompatActivity {
         setTitle(this.getString(R.string.RufusLecTitle));
 
         //Call each activity when click corresponding button
-        button = findViewById(R.id.rufus_lec_1);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec1();
-            }
-        });
+        Button button = findViewById(R.id.rufus_lec_1);
+        button.setOnClickListener(v -> Lec1());
 
         button = findViewById(R.id.rufus_lec_2);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec2();
-            }
-        });
+        button.setOnClickListener(v -> Lec2());
 
         button = findViewById(R.id.rufus_lec_3);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec3();
-            }
-        });
+        button.setOnClickListener(v -> Lec3());
 
         button = findViewById(R.id.rufus_lec_4);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec4();
-            }
-        });
+        button.setOnClickListener(v -> Lec4());
 
         button = findViewById(R.id.rufus_lec_5);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec5();
-            }
-        });
+        button.setOnClickListener(v -> Lec5());
 
         button = findViewById(R.id.rufus_lec_6);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec6();
-            }
-        });
+        button.setOnClickListener(v -> Lec6());
 
         button = findViewById(R.id.rufus_lec_7);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec7();
-            }
-        });
+        button.setOnClickListener(v -> Lec7());
 
         button = findViewById(R.id.rufus_lec_8);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec8();
-            }
-        });
+        button.setOnClickListener(v -> Lec8());
 
         button = findViewById(R.id.rufus_lec_9);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec9();
-            }
-        });
+        button.setOnClickListener(v -> Lec9());
 
         button = findViewById(R.id.rufus_lec_10);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec10();
-            }
-        });
+        button.setOnClickListener(v -> Lec10());
 
         button = findViewById(R.id.rufus_lec_11);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec11();
-            }
-        });
+        button.setOnClickListener(v -> Lec11());
 
         button = findViewById(R.id.rufus_lec_12);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec12();
-            }
-        });
+        button.setOnClickListener(v -> Lec12());
 
         button = findViewById(R.id.rufus_lec_13A);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec13A();
-            }
-        });
+        button.setOnClickListener(v -> Lec13A());
 
         button = findViewById(R.id.rufus_lec_13B);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec13B();
-            }
-        });
+        button.setOnClickListener(v -> Lec13B());
 
         button = findViewById(R.id.rufus_lec_14);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec14();
-            }
-        });
+        button.setOnClickListener(v -> Lec14());
 
         button = findViewById(R.id.rufus_lec_15);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec15();
-            }
-        });
+        button.setOnClickListener(v -> Lec15());
 
         button = findViewById(R.id.rufus_lec_16);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec16();
-            }
-        });
+        button.setOnClickListener(v -> Lec16());
 
         button = findViewById(R.id.rufus_lec_17);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec17();
-            }
-        });
+        button.setOnClickListener(v -> Lec17());
 
         button = findViewById(R.id.rufus_lec_18A);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec18A();
-            }
-        });
+        button.setOnClickListener(v -> Lec18A());
 
         button = findViewById(R.id.rufus_lec_18B);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec18B();
-            }
-        });
+        button.setOnClickListener(v -> Lec18B());
 
         button = findViewById(R.id.rufus_lec_19);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec19();
-            }
-        });
+        button.setOnClickListener(v -> Lec19());
 
         button = findViewById(R.id.rufus_lec_20);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec20();
-            }
-        });
+        button.setOnClickListener(v -> Lec20());
 
         button = findViewById(R.id.rufus_lec_21);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Lec21();
-            }
-        });
+        button.setOnClickListener(v -> Lec21());
 
     }
 
@@ -275,7 +158,7 @@ public class LecHome extends AppCompatActivity {
     }
 
     public void Lec13A() {
-        Intent intent = new Intent(this, Lec13.class);
+        Intent intent = new Intent(this, Lec13A.class);
         startActivity(intent);
     }
 
@@ -305,7 +188,7 @@ public class LecHome extends AppCompatActivity {
     }
 
     public void Lec18A() {
-        Intent intent = new Intent(this, Lec18.class);
+        Intent intent = new Intent(this, Lec18A.class);
         startActivity(intent);
     }
 

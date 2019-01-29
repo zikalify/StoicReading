@@ -2,16 +2,13 @@ package app.reading.stoic.stoicreading;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
-import android.widget.CompoundButton;
 import android.widget.Switch;
 
 
 public class MainActivity extends AppCompatActivity {
-    private Button button;
     private static final String PREFS_NAME = "prefs";
     private static final String PREF_DARK_THEME = "dark_theme";
 
@@ -30,125 +27,50 @@ public class MainActivity extends AppCompatActivity {
         Switch toggle = findViewById(R.id.toggle_dark_theme);
         toggle.setChecked(useDarkTheme);
 
-        toggle.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
-            @Override
-            public void onCheckedChanged(CompoundButton view, boolean isChecked) {
-                toggleTheme(isChecked);
-            }
-        });
+        toggle.setOnCheckedChangeListener((view, isChecked) -> toggleTheme(isChecked));
 
         //Call each activity when click corresponding button
-        button = findViewById(R.id.rufus_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                rufusHome();
-            }
-        });
+        Button button = findViewById(R.id.rufus_button);
+        button.setOnClickListener(v -> rufusHome());
 
         button = findViewById(R.id.epictetus_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                epictetusHome();
-            }
-        });
+        button.setOnClickListener(v -> epictetusHome());
 
         button = findViewById(R.id.hierocles_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                hieroclesHome();
-            }
-        });
+        button.setOnClickListener(v -> hieroclesHome());
 
         button = findViewById(R.id.seneca_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                senecaHome();
-            }
-        });
+        button.setOnClickListener(v -> senecaHome());
 
         button = findViewById(R.id.aurelius_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                aureliusHome();
-            }
-        });
+        button.setOnClickListener(v -> aureliusHome());
 
         button = findViewById(R.id.zeno_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                zenoHome();
-            }
-        });
+        button.setOnClickListener(v -> zenoHome());
 
         button = findViewById(R.id.cleanthes_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                cleanthesHome();
-            }
-        });
+        button.setOnClickListener(v -> cleanthesHome());
 
         button = findViewById(R.id.chrysippus_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                chrysippusHome();
-            }
-        });
+        button.setOnClickListener(v -> chrysippusHome());
 
         button = findViewById(R.id.zenodotus_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                zenodotusHome();
-            }
-        });
+        button.setOnClickListener(v -> zenodotusHome());
 
         button = findViewById(R.id.aratus_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                aratusHome();
-            }
-        });
+        button.setOnClickListener(v -> aratusHome());
 
         button = findViewById(R.id.didymus_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                didymusHome();
-            }
-        });
+        button.setOnClickListener(v -> didymusHome());
 
         button = findViewById(R.id.posidonius_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                posidoniusHome();
-            }
-        });
+        button.setOnClickListener(v -> posidoniusHome());
 
         button = findViewById(R.id.panaetius_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                panaetiusHome();
-            }
-        });
+        button.setOnClickListener(v -> panaetiusHome());
 
         button = findViewById(R.id.attalus_button);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                attalusHome();
-            }
-        });
+        button.setOnClickListener(v -> attalusHome());
     }
 
     //Activity call methods, called by buttons above

@@ -2,9 +2,8 @@ package app.reading.stoic.stoicreading;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 
 import app.reading.stoic.stoicreading.SenecaMoralLettersLucilius.SenecaMoralLettersLuciliusHome;
@@ -13,7 +12,6 @@ import app.reading.stoic.stoicreading.SenecaOnTheFirmnessOfTheWiseMan.SenecaOnTh
 import app.reading.stoic.stoicreading.SenecaOnTheShortnessOfLife.SenecaOnTheShortnessOfLifeHome;
 
 public class SenecaHome extends AppCompatActivity {
-    private Button button;
     private static final String PREFS_NAME = "prefs";
     private static final String PREF_DARK_THEME = "dark_theme";
 
@@ -30,37 +28,17 @@ public class SenecaHome extends AppCompatActivity {
         setTitle(this.getString(R.string.Seneca));
 
         //Call each activity when click corresponding button
-        button = findViewById(R.id.seneca_of_providence);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaOfProvidenceHome();
-            }
-        });
+        Button button = findViewById(R.id.seneca_of_providence);
+        button.setOnClickListener(v -> SenecaOfProvidenceHome());
 
         button = findViewById(R.id.seneca_on_the_firmness_of_the_wise_man);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaOnTheFirmnessOfTheWiseManHome();
-            }
-        });
+        button.setOnClickListener(v -> SenecaOnTheFirmnessOfTheWiseManHome());
 
         button = findViewById(R.id.seneca_on_the_shortness_of_life);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaOnTheShortnessOfLifeHome();
-            }
-        });
+        button.setOnClickListener(v -> SenecaOnTheShortnessOfLifeHome());
 
         button = findViewById(R.id.seneca_moral_letters_lucilius);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SenecaMoralLettersLuciliusHome();
-            }
-        });
+        button.setOnClickListener(v -> SenecaMoralLettersLuciliusHome());
     }
 
     //Activity call methods, called by buttons above

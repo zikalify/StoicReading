@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Stoic Reading</string>
     <string name="action_settings">Settings</string>
-    <string name="toggle_dark_theme">"Toggle Dark Theme   "</string>
+    <string name="toggle_dark_theme">Toggle dark theme</string>
 
-    //Stoic philosophers names
+    <!-- Stoic philosophers names -->
     <string name="Musonius_Rufus">"Gaius Musonius Rufus"</string>
     <string name="Hierocles">"Hierocles"</string>
     <string name="Marcus_Aurelius">"Marcus Aurelius"</string>

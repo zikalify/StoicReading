@@ -34,12 +34,12 @@
         <activity android:name=".RufusLectures.Lec10" />
         <activity android:name=".RufusLectures.Lec11" />
         <activity android:name=".RufusLectures.Lec12" />
-        <activity android:name=".RufusLectures.Lec13" />
+        <activity android:name=".RufusLectures.Lec13A" />
         <activity android:name=".RufusLectures.Lec14" />
         <activity android:name=".RufusLectures.Lec15" />
         <activity android:name=".RufusLectures.Lec16" />
         <activity android:name=".RufusLectures.Lec17" />
-        <activity android:name=".RufusLectures.Lec18" />
+        <activity android:name=".RufusLectures.Lec18A" />
         <activity android:name=".RufusLectures.Lec19" />
         <activity android:name=".RufusLectures.Lec20" />
         <activity android:name=".RufusLectures.Lec21" />
@@ -371,7 +371,7 @@
         <activity android:name=".AttalusOnRiches.AttalusOnRiches" />
         <activity android:name=".AttalusQuotations.AttalusQuotations" />
         <activity android:name=".AratusDiosemeia.AratusDiosemeia" />
-        <activity android:name=".RufusFragments.RufusFragments"></activity>
+        <activity android:name=".RufusFragments.RufusFragments" />
     </application>
 
 </manifest>

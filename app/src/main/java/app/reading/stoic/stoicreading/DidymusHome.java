@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.WindowManager;
 import android.widget.Button;
 
 import app.reading.stoic.stoicreading.DidymusEpitome.EpitomeHome;
@@ -22,6 +23,7 @@ public class DidymusHome extends AppCompatActivity {
         }
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_didymus_home);
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         setTitle(this.getString(R.string.Arius_Didymus));
 
         //Call each activity when click corresponding button

@@ -3,6 +3,7 @@ package app.reading.stoic.stoicreading.SenecaOnTheFirmnessOfTheWiseMan;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.WindowManager;
 
 import app.reading.stoic.stoicreading.R;
 
@@ -20,6 +21,7 @@ public class SenecaOnTheFirmnessOfTheWiseMan_7 extends AppCompatActivity {
         }
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_seneca_on_the_firmness_of_the_wise_man_7);
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         setTitle(this.getString(R.string.SenecaOnTheFirmnessOfTheWiseManTitle7));
     }
 }

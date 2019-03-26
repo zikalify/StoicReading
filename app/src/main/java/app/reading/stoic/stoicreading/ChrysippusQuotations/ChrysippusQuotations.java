@@ -3,6 +3,7 @@ package app.reading.stoic.stoicreading.ChrysippusQuotations;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.WindowManager;
 
 import app.reading.stoic.stoicreading.R;
 
@@ -20,6 +21,7 @@ public class ChrysippusQuotations extends AppCompatActivity {
         }
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_chrysippus_quotations);
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         setTitle(this.getString(R.string.ChrysippusQuotationsTitle));
     }
 }

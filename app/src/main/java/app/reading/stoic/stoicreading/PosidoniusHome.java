@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.WindowManager;
 import android.widget.Button;
 
 import app.reading.stoic.stoicreading.PosidoniusQuotations.PosidoniusQuotations;
@@ -22,6 +23,7 @@ public class PosidoniusHome extends AppCompatActivity {
         }
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_posidonius_home);
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         setTitle(this.getString(R.string.Posidonius));
 
         //Call each activity when click corresponding button

@@ -3,6 +3,7 @@ package app.reading.stoic.stoicreading.EpictetusDiscourses.BookFour;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.WindowManager;
 
 import app.reading.stoic.stoicreading.R;
 
@@ -20,6 +21,7 @@ public class BookFour_10 extends AppCompatActivity {
         }
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_book_four_10);
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         setTitle(this.getString(R.string.EpictetusDiscoursesBookFour10Title));
     }
 }

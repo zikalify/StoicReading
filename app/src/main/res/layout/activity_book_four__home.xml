@@ -8,10 +8,6 @@
     android:stackFromBottom="true"
     android:transcriptMode="alwaysScroll">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
         <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
             xmlns:tools="http://schemas.android.com/tools"
             android:layout_width="match_parent"
@@ -149,6 +145,5 @@
                 tools:layout_editor_absoluteX="16dp"
                 tools:layout_editor_absoluteY="146dp" />
         </RelativeLayout>
-    </LinearLayout>
 
 </ScrollView>

@@ -64,6 +64,8 @@ Lucius Annaeus Seneca:
 
 • On the Firmness of the Wise Man https://en.wikisource.org/wiki/On_the_Firmness_of_the_Wise_Man
 
+• Of Anger https://en.wikisource.org/wiki/Of_Anger
+
 • On the Shortness of Life https://en.wikisource.org/wiki/On_the_shortness_of_life
 
 Zeno of Citium:

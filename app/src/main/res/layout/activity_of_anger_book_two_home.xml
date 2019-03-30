@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:stackFromBottom="true"
+    android:transcriptMode="alwaysScroll">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".SenecaOfAnger.BookTwo.OfAngerBookTwo_home">
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:text="@string/SenecaOfAngerBookTwoTitle1"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_1"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle2"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_2"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle3"
+            tools:layout_editor_absoluteX="189dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_3"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle4"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_4"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle5"
+            tools:layout_editor_absoluteX="119dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_5"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle6"
+            tools:layout_editor_absoluteX="219dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_6"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle7"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_7"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle8"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_8"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle9"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_9"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle10"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_10"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle11"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_11"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle12"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_12"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle13"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_13"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle14"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_14"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle15"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_15"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle16"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_16"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle17"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_17"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle18"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_18"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle19"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_19"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle20"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_20"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle21"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_21"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle22"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_22"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle23"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_23"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle24"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_24"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle25"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_25"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle26"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_26"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle27"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_27"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle28"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_29"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_28"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle29"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_29"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle30"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_31"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_30"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle31"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_31"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle32"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_32"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle33"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_34"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_33"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle34"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_35"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_34"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle35"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfAngerBookTwo_36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfAngerBookTwo_35"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfAngerBookTwoTitle36"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+    </RelativeLayout>
+
+</ScrollView>

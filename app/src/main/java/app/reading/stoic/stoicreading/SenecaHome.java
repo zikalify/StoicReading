@@ -7,6 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.WindowManager;
 import android.widget.Button;
 
+import app.reading.stoic.stoicreading.SenecaMarcia.SenecaMarciaHome;
 import app.reading.stoic.stoicreading.SenecaMoralLettersLucilius.SenecaMoralLettersLuciliusHome;
 import app.reading.stoic.stoicreading.SenecaOfAnger.SenecaOfAngerHome;
 import app.reading.stoic.stoicreading.SenecaOfProvidence.SenecaOfProvidenceHome;
@@ -45,6 +46,9 @@ public class SenecaHome extends AppCompatActivity {
 
         button = findViewById(R.id.seneca_of_anger);
         button.setOnClickListener(v -> SenecaOfAngerHome());
+
+        button = findViewById(R.id.seneca_marcia);
+        button.setOnClickListener(v -> SenecaMarciaHome());
     }
 
     //Activity call methods, called by buttons above
@@ -70,6 +74,11 @@ public class SenecaHome extends AppCompatActivity {
 
     public void SenecaOfAngerHome() {
         Intent intent = new Intent(this, SenecaOfAngerHome.class);
+        startActivity(intent);
+    }
+
+    public void SenecaMarciaHome() {
+        Intent intent = new Intent(this, SenecaMarciaHome.class);
         startActivity(intent);
     }
 }

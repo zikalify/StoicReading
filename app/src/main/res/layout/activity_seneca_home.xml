@@ -36,17 +36,6 @@
             tools:layout_editor_absoluteY="5dp" />
 
         <Button
-            android:id="@+id/seneca_on_the_shortness_of_life"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/seneca_of_anger"
-            android:layout_centerHorizontal="true"
-            android:layout_marginBottom="5dp"
-            android:text="@string/SenecaOnTheShortnessOfLifeTitle"
-            tools:layout_editor_absoluteX="4dp"
-            tools:layout_editor_absoluteY="5dp" />
-
-        <Button
             android:id="@+id/seneca_on_the_firmness_of_the_wise_man"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -63,6 +52,27 @@
             android:layout_below="@+id/seneca_on_the_firmness_of_the_wise_man"
             android:layout_centerHorizontal="true"
             android:text="@string/SenecaOfAngerTitle"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/seneca_marcia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_of_anger"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/seneca_on_the_shortness_of_life"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_marcia"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:text="@string/SenecaOnTheShortnessOfLifeTitle"
             tools:layout_editor_absoluteX="4dp"
             tools:layout_editor_absoluteY="5dp" />
 

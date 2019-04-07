@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:stackFromBottom="true"
+    android:transcriptMode="alwaysScroll">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".SenecaMarcia.SenecaMarciaHome">
+
+        <Button
+            android:id="@+id/Marcia_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:text="@string/SenecaMarciaTitle1"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/Marcia_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_1"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle2"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/Marcia_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_2"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle3"
+            tools:layout_editor_absoluteX="189dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <Button
+            android:id="@+id/Marcia_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_3"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle4"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/Marcia_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_4"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle5"
+            tools:layout_editor_absoluteX="119dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/Marcia_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_5"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle6"
+            tools:layout_editor_absoluteX="219dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/Marcia_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_6"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle7"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_7"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle8"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_8"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle9"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_9"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle10"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_10"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle11"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_11"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle12"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_12"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle13"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_13"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle14"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_14"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle15"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_15"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle16"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_16"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle17"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_17"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle18"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_18"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle19"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_19"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle20"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Marcia_21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_20"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle21"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/Marcia_22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_21"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle22"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/Marcia_23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_22"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle23"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/Marcia_24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_23"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle24"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/Marcia_25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_24"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaMarciaTitle25"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/Marcia_26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Marcia_25"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:text="@string/SenecaMarciaTitle26"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+    </RelativeLayout>
+
+</ScrollView>

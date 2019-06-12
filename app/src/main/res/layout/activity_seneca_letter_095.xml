@@ -9,14 +9,13 @@
     android:stackFromBottom="true"
     android:transcriptMode="alwaysScroll">
 
-    <android.support.design.widget.BottomNavigationView
-        xmlns:android="http://schemas.android.com/apk/res/android"
+    <android.support.design.widget.BottomNavigationView xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:id="@+id/navigation"
         android:layout_width="match_parent"
         android:layout_height="10dp"
         android:layout_alignParentBottom="true"
-        android:background="@drawable/gradient"/>
+        android:background="@drawable/gradient" />
 
     <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -25,45 +24,51 @@
         android:layout_height="wrap_content"
         tools:context=".SenecaMoralLettersLucilius.SenecaLetter_095">
 
-        <TextView
-            android:id="@+id/textView2"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_alignParentStart="true"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentTop="true"
-            android:layout_marginStart="0dp"
-            android:layout_marginLeft="0dp"
-            android:layout_marginTop="0dp"
-            android:enabled="true"
-            android:focusable="false"
-            android:longClickable="true"
-            android:padding="15dp"
-            android:text="@string/SenecaLetters095a"
-            android:textAppearance="@style/TextAppearance.AppCompat"
-            android:textIsSelectable="true"
-            android:textSize="20sp"
-            app:fontFamily="sans-serif" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
 
-        <TextView
-            android:id="@+id/textView3"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_below="@+id/textView2"
-            android:layout_alignParentStart="true"
-            android:layout_alignParentLeft="true"
-            android:layout_marginStart="0dp"
-            android:layout_marginLeft="0dp"
-            android:layout_marginTop="-10dp"
-            android:enabled="true"
-            android:focusable="false"
-            android:longClickable="true"
-            android:padding="15dp"
-            android:text="@string/SenecaLetters095b"
-            android:textAppearance="@style/TextAppearance.AppCompat"
-            android:textIsSelectable="true"
-            android:textSize="20sp"
-            app:fontFamily="sans-serif" />
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="0dp"
+                android:enabled="true"
+                android:focusable="false"
+                android:longClickable="true"
+                android:padding="15dp"
+                android:text="@string/SenecaLetters095a"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textIsSelectable="true"
+                android:textSize="20sp"
+                app:fontFamily="sans-serif" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/textView2"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_marginStart="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="-10dp"
+                android:enabled="true"
+                android:focusable="false"
+                android:longClickable="true"
+                android:padding="15dp"
+                android:text="@string/SenecaLetters095b"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textIsSelectable="true"
+                android:textSize="20sp"
+                app:fontFamily="sans-serif" />
+        </LinearLayout>
     </ScrollView>
 
 </RelativeLayout>

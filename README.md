@@ -21,7 +21,7 @@ Marcus Aurelius:
 
 Chrysippus of Soli:
 
-• Quotations https://en.wikiquote.org/wiki/Chrysippus - https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII - https://archive.org/details/stoicandepicurea00colluoft/
+• Quotations https://en.wikiquote.org/wiki/Chrysippus - https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII - https://archive.org/details/stoicandepicurea00colluoft/ - https://www.gutenberg.org/files/14988/14988-h/14988-h.htm
 
 Cleanthes of Assos:
 
@@ -67,6 +67,8 @@ Lucius Annaeus Seneca:
 • Of Anger https://en.wikisource.org/wiki/Of_Anger
 
 • On the Shortness of Life https://en.wikisource.org/wiki/On_the_shortness_of_life
+
+• Of Consolation: To Marcia https://en.wikisource.org/wiki/Of_Consolation:_To_Marcia
 
 Zeno of Citium:
 

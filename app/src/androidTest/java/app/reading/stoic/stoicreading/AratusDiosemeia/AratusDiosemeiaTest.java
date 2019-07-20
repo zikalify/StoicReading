@@ -32,11 +32,27 @@ public class AratusDiosemeiaTest {
         assertNotNull(view);
     }
 
+    //What I want the string to be. Checks if it's correct in Strings.xml
     @Test
-    public void testTitle(){
-        String title = "Diosemeia";
-        String string1 = AratusDiosemeia.getResources().getString(R.string.AratusDiosemeiaTitle);
-        assertEquals(title, string1);
+    public void testTitleValue(){
+        String titleExpected = "Diosemeia";
+        String titleActual = AratusDiosemeia.getResources().getString(R.string.AratusDiosemeiaTitle);
+        assertEquals(titleExpected, titleActual);
+    }
+
+    //Test to see if the correct value is pulled in from Strings.xml
+    @Test
+    public void testTitleDisplayed(){
+        String titleExpected = AratusDiosemeia.getResources().getString(R.string.AratusDiosemeiaTitle);;
+        String titleActual = String.valueOf(AratusDiosemeia.getTitle());
+        assertEquals(titleExpected, titleActual);
+    }
+
+    @Test
+    public void testStringTooLarge(){
+        String tooLarge = "STRING_TOO_LARGE";
+        String textActual = AratusDiosemeia.getResources().getString(R.string.AratusDiosemeia);
+        assertNotEquals(tooLarge, textActual);
     }
 
     @After

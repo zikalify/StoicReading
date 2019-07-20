@@ -1,5 +1,7 @@
 package app.reading.stoic.stoicreading.AratusDiosemeia;
 
+import android.content.Context;
+import android.content.res.Resources;
 import android.support.test.rule.ActivityTestRule;
 import android.view.View;
 
@@ -21,24 +23,24 @@ public class AratusDiosemeiaTest {
 
     @Before
     public void setUp() throws Exception {
-
         AratusDiosemeia = AratusDiosemeiaTestRule.getActivity();
-
     }
 
     @Test
     public void testLaunch(){
-
         View view = AratusDiosemeia.findViewById(R.id.textView2);
-
         assertNotNull(view);
+    }
 
+    @Test
+    public void testTitle(){
+        String title = "Diosemeia";
+        String string1 = AratusDiosemeia.getResources().getString(R.string.AratusDiosemeiaTitle);
+        assertEquals(title, string1);
     }
 
     @After
     public void tearDown() throws Exception {
-
         AratusDiosemeia = null;
-
     }
 }

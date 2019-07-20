@@ -2,6 +2,7 @@ package app.reading.stoic.stoicreading.AratusPhenomena;
 
 import android.support.test.rule.ActivityTestRule;
 import android.view.View;
+import android.widget.TextView;
 
 import org.junit.After;
 import org.junit.Before;
@@ -51,6 +52,15 @@ public class AratusPhenomenaChapter2Test {
         String tooLarge = "STRING_TOO_LARGE";
         String textActual = AratusPhenomenaChapter2.getResources().getString(R.string.AratusPhenomena2);
         assertNotEquals(tooLarge, textActual);
+    }
+
+    //Test to see if correct text is displayed
+    @Test
+    public void testCorrectTextDisplayed(){
+        String expected = AratusPhenomenaChapter2.getResources().getString(R.string.AratusPhenomena2);
+        TextView actualTextView = (TextView) AratusPhenomenaChapter2.findViewById(R.id.textView2);
+        String actual = actualTextView.getText().toString();
+        assertEquals(expected, actual);
     }
 
     @After

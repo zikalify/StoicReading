@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.res.Resources;
 import android.support.test.rule.ActivityTestRule;
 import android.view.View;
+import android.widget.TextView;
 
 import org.junit.After;
 import org.junit.Before;
@@ -53,6 +54,15 @@ public class AratusDiosemeiaTest {
         String tooLarge = "STRING_TOO_LARGE";
         String textActual = AratusDiosemeia.getResources().getString(R.string.AratusDiosemeia);
         assertNotEquals(tooLarge, textActual);
+    }
+
+    //Test to see if correct text is displayed
+    @Test
+    public void testCorrectTextDisplayed(){
+        String expected = AratusDiosemeia.getResources().getString(R.string.AratusDiosemeia);
+        TextView actualTextView = (TextView) AratusDiosemeia.findViewById(R.id.textView2);
+        String actual = actualTextView.getText().toString();
+        assertEquals(expected, actual);
     }
 
     @After

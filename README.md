@@ -26,7 +26,8 @@ Chrysippus of Soli:
 Cleanthes of Assos:
 
 • Hymn to Zeus https://en.wikisource.org/wiki/Hymn_to_Zeus
-• Quotations https://archive.org/details/stoicandepicurea00colluoft/ - https://archive.org/details/selectproverbsa00wadegoog
+
+• Quotations https://archive.org/details/stoicandepicurea00colluoft/ & https://archive.org/details/selectproverbsa00wadegoog
 
 Arius Didymus:
 
@@ -69,6 +70,8 @@ Lucius Annaeus Seneca:
 • On the Shortness of Life https://en.wikisource.org/wiki/On_the_shortness_of_life
 
 • Of Consolation: To Marcia https://en.wikisource.org/wiki/Of_Consolation:_To_Marcia
+
+• On the Happy Life https://en.wikisource.org/wiki/Of_a_Happy_Life
 
 Zeno of Citium:
 

@@ -1,0 +1,298 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:stackFromBottom="true"
+    android:transcriptMode="alwaysScroll">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".SenecaHappyLife.SenecaHappyLifeHome">
+
+        <Button
+            android:id="@+id/HappyLife_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:text="@string/SenecaHappyLifeTitle1"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_1"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle2"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_2"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle3"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_3"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle4"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_4"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle5"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_5"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle6"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_6"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle7"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_7"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle8"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_8"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle9"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_9"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle10"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_10"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle11"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_11"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle12"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_12"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle13"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_13"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle14"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_14"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle15"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_15"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle16"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_16"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle17"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_17"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle18"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_18"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle19"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_19"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle20"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_20"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle21"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_21"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle22"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_22"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle23"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_23"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle24"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_24"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle25"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_25"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle26"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_26"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle27"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/HappyLife_28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/HappyLife_27"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaHappyLifeTitle28"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+    </RelativeLayout>
+
+</ScrollView>

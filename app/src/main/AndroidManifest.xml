@@ -2,7 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="app.reading.stoic.stoicreading">
 
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,7 +9,36 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SenecaMarcia.SenecaMarcia_25"></activity>
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_28"></activity>
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_27" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_26" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_25" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_24" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_23" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_22" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_21" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_20" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_19" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_18" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_17" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_16" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_15" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_14" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_13" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_12" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_11" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_10" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_9" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_8" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_7" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_6" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_5" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_4" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_3" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_2" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLife_1" />
+        <activity android:name=".SenecaHappyLife.SenecaHappyLifeHome" />
+        <activity android:name=".SenecaMarcia.SenecaMarcia_25" />
         <activity android:name=".SenecaMarcia.SenecaMarcia_24" />
         <activity android:name=".SenecaMarcia.SenecaMarcia_26" />
         <activity android:name=".SenecaMarcia.SenecaMarcia_23" />

@@ -59,7 +59,7 @@ Gaius Musonius Rufus:
 
 Lucius Annaeus Seneca:
 
-• Letters https://en.wikisource.org/wiki/Moral_letters_to_Lucilius
+• Moral Letters to Lucilius https://en.wikisource.org/wiki/Moral_letters_to_Lucilius
 
 • Of Providence https://en.wikisource.org/wiki/Of_Providence
 
@@ -67,11 +67,11 @@ Lucius Annaeus Seneca:
 
 • Of Anger https://en.wikisource.org/wiki/Of_Anger
 
-• On the Shortness of Life https://en.wikisource.org/wiki/On_the_shortness_of_life
-
 • Of Consolation: To Marcia https://en.wikisource.org/wiki/Of_Consolation:_To_Marcia
 
 • On the Happy Life https://en.wikisource.org/wiki/Of_a_Happy_Life
+
+• On the Shortness of Life https://en.wikisource.org/wiki/On_the_shortness_of_life
 
 Zeno of Citium:
 

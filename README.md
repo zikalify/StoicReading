@@ -77,7 +77,7 @@ Zeno of Citium:
 
 • Quotations https://en.wikiquote.org/wiki/Zeno_of_Citium
 
-• Several quotes from Seneca's letters
+• Several quotes from Seneca's letters & essays
 
 Zenodotus:
 

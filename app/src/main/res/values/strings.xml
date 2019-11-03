@@ -49,7 +49,7 @@
     //Seneca On the Happy Life
     <string name="SenecaHappyLifeTitle">"On the Happy Life"</string>
     //Seneca Of Leisure
-    <string name ="SenecaOfLeisure">"Of Leisure"</string>
+    <string name="SenecaOfLeisureTitle">"Of Leisure"</string>
     //Zeno Quotations string
     <string name="ZenoQuotationsTitle">"Quotations"</string>
     //Cleanthes Hymn to Zeus

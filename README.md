@@ -71,6 +71,10 @@ Lucius Annaeus Seneca:
 
 • On the Happy Life https://en.wikisource.org/wiki/Of_a_Happy_Life
 
+• Of Leisure https://en.wikisource.org/wiki/Of_Leisure
+
+• Of Peace Of Mind https://en.wikisource.org/wiki/Of_Peace_of_Mind
+
 • On the Shortness of Life https://en.wikisource.org/wiki/On_the_shortness_of_life
 
 Zeno of Citium:

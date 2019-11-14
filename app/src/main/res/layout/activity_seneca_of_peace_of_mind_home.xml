@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:stackFromBottom="true"
+    android:transcriptMode="alwaysScroll">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".SenecaOfPeaceOfMind.SenecaOfPeaceOfMindHome">
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:text="@string/SenecaOfPeaceOfMindTitle1"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_1"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle2"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_2"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle3"
+            tools:layout_editor_absoluteX="189dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_3"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle4"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_4"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle5"
+            tools:layout_editor_absoluteX="119dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_5"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle6"
+            tools:layout_editor_absoluteX="219dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_6"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle7"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_7"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle8"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_8"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle9"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_9"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle10"
+            tools:layout_editor_absoluteX="189dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_10"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle11"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_11"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle12"
+            tools:layout_editor_absoluteX="119dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_12"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle13"
+            tools:layout_editor_absoluteX="219dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_13"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle14"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_14"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle15"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_15"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfPeaceOfMindTitle16"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfPeaceOfMind_17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfPeaceOfMind_16"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:text="@string/SenecaOfPeaceOfMindTitle17"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+    </RelativeLayout>
+
+</ScrollView>

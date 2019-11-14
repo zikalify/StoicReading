@@ -18,7 +18,10 @@
     <string name="Posidonius">"Posidonius of Apameia"</string>
     <string name="Panaetius">"Panaetius of Rhodes"</string>
     <string name="Attalus">"Attalus"</string>
+    <string name="Asclepiodotus_Tacticus">"Asclepiodotus Tacticus"</string>
 
+    //Asclepiodotus Tactics
+    <string name="AsclepiodotusTacticsTitle">"Tactics"</string>
     //Rufus Lectures and Fragments string
     <string name="RufusLecTitle">"Lectures"</string>
     <string name="RufusFragTitle">"Fragments"</string>
@@ -76,6 +79,20 @@
     <string name="AttalusQuotationsTitle">"Quotations"</string>
     //Attalus On Riches
     <string name="AttalusOnRichesTitle">"On Riches"</string>
+
+    //Asclepiodotus Tactics Titles
+    <string name="AsclepiodotusTacticsTitle1">"1. The different Branches of the Army"</string>
+    <string name="AsclepiodotusTacticsTitle2">"2. The Strength and the Names of the Subdivisions of the Hoplite-Phalanx"</string>
+    <string name="AsclepiodotusTacticsTitle3">"3. The Disposition of the Men both in the entire Army and in its Subdivisions"</string>
+    <string name="AsclepiodotusTacticsTitle4">"4. The Intervals between the Soldiers"</string>
+    <string name="AsclepiodotusTacticsTitle5">"5. The appropriate Size and Character of the Arms"</string>
+    <string name="AsclepiodotusTacticsTitle6">"6. The Phalanx of the light Infantry and of the Targeteers, and the Disposition and Names of its Subdivisions"</string>
+    <string name="AsclepiodotusTacticsTitle7">"7. The Phalanx of the Cavalry, and the Names of the whole Body as well as of its Subdivisions"</string>
+    <string name="AsclepiodotusTacticsTitle8">"8. Chariots"</string>
+    <string name="AsclepiodotusTacticsTitle9">"9. Elephants"</string>
+    <string name="AsclepiodotusTacticsTitle10">"10. The Terms in common Use for military Evolutions"</string>
+    <string name="AsclepiodotusTacticsTitle11">"11. The various Arrangements of the Divisions of the Army on the March"</string>
+    <string name="AsclepiodotusTacticsTitle12">"12. The Commands used in Military Evolutions"</string>
 
     //Epictetus Discourses Book 1 Titles
     <string name="EpictetusDiscoursesBookOne1Title">"1. Of the things which are under our control and not under our control."</string>

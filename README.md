@@ -15,6 +15,14 @@ Aratus:
 
 • Phenomena & Diosemeia https://en.wikisource.org/wiki/The_Phenomena_and_Diosemeia_of_Aratus
 
+Asclepiodotus:
+
+• Tactics http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Asclepiodotus/home.html
+
+Attalus:
+
+• Quotes taken from Seneca's works
+
 Marcus Aurelius:
 
 • Meditations https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus

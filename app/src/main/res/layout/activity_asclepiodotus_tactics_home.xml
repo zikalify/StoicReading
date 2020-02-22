@@ -32,7 +32,6 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/asclepiodotus_tactics_1"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="5dp"
             android:text="@string/AsclepiodotusTacticsTitle2"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="33dp" />
@@ -43,7 +42,6 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/asclepiodotus_tactics_2"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="5dp"
             android:text="@string/AsclepiodotusTacticsTitle3"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="33dp" />
@@ -54,7 +52,6 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/asclepiodotus_tactics_3"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="5dp"
             android:text="@string/AsclepiodotusTacticsTitle4"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="33dp" />
@@ -65,7 +62,6 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/asclepiodotus_tactics_4"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="5dp"
             android:text="@string/AsclepiodotusTacticsTitle5"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="33dp" />
@@ -76,7 +72,6 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/asclepiodotus_tactics_5"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="5dp"
             android:text="@string/AsclepiodotusTacticsTitle6"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="33dp" />
@@ -87,7 +82,6 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/asclepiodotus_tactics_6"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="5dp"
             android:text="@string/AsclepiodotusTacticsTitle7"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="33dp" />
@@ -98,7 +92,6 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/asclepiodotus_tactics_7"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="5dp"
             android:text="@string/AsclepiodotusTacticsTitle8"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="33dp" />
@@ -109,7 +102,6 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/asclepiodotus_tactics_8"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="5dp"
             android:text="@string/AsclepiodotusTacticsTitle9"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="33dp" />
@@ -120,7 +112,6 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/asclepiodotus_tactics_9"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="5dp"
             android:text="@string/AsclepiodotusTacticsTitle10"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="33dp" />
@@ -131,7 +122,6 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/asclepiodotus_tactics_10"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="5dp"
             android:text="@string/AsclepiodotusTacticsTitle11"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="33dp" />

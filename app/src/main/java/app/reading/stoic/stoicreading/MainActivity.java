@@ -6,7 +6,9 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.WindowManager;
 import android.widget.Button;
-import android.widget.Switch;
+import android.widget.CheckBox;
+
+import app.reading.stoic.stoicreading.AsclepiodotusTactics.AsclepiodotusTacticsHome;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -26,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 
-        Switch toggle = findViewById(R.id.toggle_dark_theme);
+        CheckBox toggle = findViewById(R.id.toggle_dark_theme);
         toggle.setChecked(useDarkTheme);
 
         toggle.setOnCheckedChangeListener((view, isChecked) -> toggleTheme(isChecked));
@@ -73,6 +75,9 @@ public class MainActivity extends AppCompatActivity {
 
         button = findViewById(R.id.attalus_button);
         button.setOnClickListener(v -> attalusHome());
+
+        button = findViewById(R.id.asclepiodotus_button);
+        button.setOnClickListener(v -> asclepiodotusHome());
     }
 
     //Activity call methods, called by buttons above
@@ -143,6 +148,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void attalusHome() {
         Intent intent = new Intent(this, AttalusHome.class);
+        startActivity(intent);
+    }
+
+    public void asclepiodotusHome() {
+        Intent intent = new Intent(this, AsclepiodotusHome.class);
         startActivity(intent);
     }
 

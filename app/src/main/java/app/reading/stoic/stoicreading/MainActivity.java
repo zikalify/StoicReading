@@ -3,12 +3,10 @@ package app.reading.stoic.stoicreading;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.CheckBox;
-
-import app.reading.stoic.stoicreading.AsclepiodotusTactics.AsclepiodotusTacticsHome;
 
 
 public class MainActivity extends AppCompatActivity {

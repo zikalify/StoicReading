@@ -1,8 +1,6 @@
 package app.reading.stoic.stoicreading.AratusDiosemeia;
 
-import android.content.Context;
-import android.content.res.Resources;
-import android.support.test.rule.ActivityTestRule;
+import androidx.test.rule.ActivityTestRule;
 import android.view.View;
 import android.widget.TextView;
 

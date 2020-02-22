@@ -1,6 +1,6 @@
 package app.reading.stoic.stoicreading.SenecaOfPeaceOfMind;
 
-import android.support.test.rule.ActivityTestRule;
+import androidx.test.rule.ActivityTestRule;
 import android.view.View;
 import android.widget.TextView;
 

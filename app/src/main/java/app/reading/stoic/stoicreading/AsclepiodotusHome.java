@@ -2,12 +2,11 @@ package app.reading.stoic.stoicreading;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.WindowManager;
 import android.widget.Button;
 
-import app.reading.stoic.stoicreading.AsclepiodotusTactics.AsclepiodotusTactics1;
 import app.reading.stoic.stoicreading.AsclepiodotusTactics.AsclepiodotusTacticsHome;
 
 public class AsclepiodotusHome extends AppCompatActivity {

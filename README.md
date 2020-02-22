@@ -85,6 +85,8 @@ Lucius Annaeus Seneca:
 
 • On the Shortness of Life https://en.wikisource.org/wiki/On_the_shortness_of_life
 
+• Of Consolation: To Polybius https://en.wikisource.org/wiki/Of_Consolation:_To_Polybius
+
 Zeno of Citium:
 
 • Quotations https://en.wikiquote.org/wiki/Zeno_of_Citium

@@ -53,9 +53,9 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/ch2imA"
+                android:src="drawable/ch2imA"
                 android:id="@+id/ch2imA"
-                android:layout_centerVertical="true" />
+                />
 
             <TextView
                 android:id="@+id/textView3"

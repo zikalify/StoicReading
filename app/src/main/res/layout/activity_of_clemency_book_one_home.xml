@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:stackFromBottom="true"
+    android:transcriptMode="alwaysScroll">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".SenecaOfClemency.BookOne.OfClemencyBookOne_home">
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:text="@string/SenecaOfClemencyBookOneTitle1"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_1"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle2"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_2"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle3"
+            tools:layout_editor_absoluteX="189dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_3"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle4"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_4"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle5"
+            tools:layout_editor_absoluteX="119dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_5"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle6"
+            tools:layout_editor_absoluteX="219dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_6"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle7"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_7"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle8"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_8"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle9"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_9"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle10"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_10"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle11"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_11"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle12"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_12"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle13"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_13"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle14"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_14"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle15"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_15"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle16"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_16"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle17"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_17"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle18"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_18"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle19"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_19"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle20"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_20"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle21"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_21"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle22"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_22"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle23"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_23"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle24"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_24"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaOfClemencyBookOneTitle25"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/OfClemencyBookOne_26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/OfClemencyBookOne_25"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:text="@string/SenecaOfClemencyBookOneTitle26"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+    </RelativeLayout>
+
+</ScrollView>

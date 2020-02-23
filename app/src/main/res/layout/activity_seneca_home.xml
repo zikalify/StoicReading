@@ -121,8 +121,18 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/seneca_polybius"
             android:layout_centerHorizontal="true"
-            android:layout_marginBottom="5dp"
             android:text="@string/SenecaHelviaTitle"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/seneca_of_clemency"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/seneca_helvia"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:text="@string/SenecaOfClemencyTitle"
             tools:layout_editor_absoluteX="4dp"
             tools:layout_editor_absoluteY="5dp" />
 

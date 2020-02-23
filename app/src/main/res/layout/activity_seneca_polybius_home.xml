@@ -1,9 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SenecaPolybius.SenecaPolybiusHome">
+    android:fillViewport="true"
+    android:stackFromBottom="true"
+    android:transcriptMode="alwaysScroll">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".SenecaPolybius.SenecaPolybiusHome">
+
+        <Button
+            android:id="@+id/Polybius1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:text="@string/SenecaPolybiusTitle1"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <Button
+            android:id="@+id/Polybius2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius1"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle2"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+        <Button
+            android:id="@+id/Polybius3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius2"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle3"
+            tools:layout_editor_absoluteX="189dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <Button
+            android:id="@+id/Polybius4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius3"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle4"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/Polybius5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius4"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle5"
+            tools:layout_editor_absoluteX="119dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/Polybius6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius5"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle6"
+            tools:layout_editor_absoluteX="219dp"
+            tools:layout_editor_absoluteY="74dp" />
+
+        <Button
+            android:id="@+id/Polybius7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius6"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle7"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Polybius8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius7"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle8"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Polybius9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius8"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle9"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Polybius10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius9"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle10"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Polybius11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius10"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle11"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Polybius12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius11"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle12"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Polybius13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius12"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle13"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Polybius14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius13"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle14"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Polybius15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius14"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle15"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Polybius16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius15"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle16"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Polybius17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius16"
+            android:layout_centerHorizontal="true"
+            android:text="@string/SenecaPolybiusTitle17"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+
+        <Button
+            android:id="@+id/Polybius18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Polybius17"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:text="@string/SenecaPolybiusTitle18"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="146dp" />
+    </RelativeLayout>
+
+</ScrollView>

@@ -16,6 +16,7 @@ import app.reading.stoic.stoicreading.SenecaOfPeaceOfMind.SenecaOfPeaceOfMindHom
 import app.reading.stoic.stoicreading.SenecaOfProvidence.SenecaOfProvidenceHome;
 import app.reading.stoic.stoicreading.SenecaOnTheFirmnessOfTheWiseMan.SenecaOnTheFirmnessOfTheWiseManHome;
 import app.reading.stoic.stoicreading.SenecaOnTheShortnessOfLife.SenecaOnTheShortnessOfLifeHome;
+import app.reading.stoic.stoicreading.SenecaPolybius.SenecaPolybiusHome;
 
 public class SenecaHome extends AppCompatActivity {
     private static final String PREFS_NAME = "prefs";
@@ -61,6 +62,9 @@ public class SenecaHome extends AppCompatActivity {
 
         button = findViewById(R.id.seneca_of_peace_of_mind);
         button.setOnClickListener(v -> SenecaOfPeaceOfMindHome());
+
+        button = findViewById(R.id.seneca_polybius);
+        button.setOnClickListener(v -> SenecaPolybiusHome());
     }
 
     //Activity call methods, called by buttons above
@@ -106,6 +110,11 @@ public class SenecaHome extends AppCompatActivity {
 
     public void SenecaOfPeaceOfMindHome() {
         Intent intent = new Intent(this, SenecaOfPeaceOfMindHome.class);
+        startActivity(intent);
+    }
+
+    public void SenecaPolybiusHome() {
+        Intent intent = new Intent(this, SenecaPolybiusHome.class);
         startActivity(intent);
     }
 }

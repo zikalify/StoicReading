@@ -87,6 +87,8 @@ Lucius Annaeus Seneca:
 
 • Of Consolation: To Polybius https://en.wikisource.org/wiki/Of_Consolation:_To_Polybius
 
+• Of Consolation: To Helvia https://en.wikisource.org/wiki/Of_Consolation:_To_Helvia
+
 Zeno of Citium:
 
 • Quotations https://en.wikiquote.org/wiki/Zeno_of_Citium

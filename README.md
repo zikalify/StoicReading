@@ -89,6 +89,8 @@ Lucius Annaeus Seneca:
 
 • Of Consolation: To Helvia https://en.wikisource.org/wiki/Of_Consolation:_To_Helvia
 
+• Of Clemency: https://en.wikisource.org/wiki/Of_Clemency
+
 Zeno of Citium:
 
 • Quotations https://en.wikiquote.org/wiki/Zeno_of_Citium

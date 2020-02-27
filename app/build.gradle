@@ -8,8 +8,8 @@ android {
         applicationId "app.reading.stoic.stoicreading"
         minSdkVersion 15
         targetSdkVersion 29
-        versionCode 60
-        versionName "1.7.4"
+        versionCode 61
+        versionName "1.7.5"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

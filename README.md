@@ -2,8 +2,9 @@ Stoic Reading
 =============
 
 
-<!-- Auto width -->
-<button class="btn"><i class="fa fa-download"></i> Download</button>
+[<img src="https://i.imgur.com/pX0xAHv.png"
+    alt="Download the app"
+    height="80">](https://github.com/zikalify/StoicReading/releases/download/1.7.6/Stoic.Reading.1.7.6.apk)
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
     alt="Get it on F-Droid"

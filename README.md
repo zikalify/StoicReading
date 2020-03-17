@@ -2,11 +2,13 @@ Stoic Reading
 =============
 
 Latest version:
+
 [<img src="https://i.imgur.com/pX0xAHv.png"
     alt="Download the app"
-    height="60">](https://github.com/zikalify/StoicReading/releases/download/1.7.6/Stoic.Reading.1.7.6.apk)
+    height="40">](https://github.com/zikalify/StoicReading/releases/download/1.7.6/Stoic.Reading.1.7.6.apk)
 
 Out of date:
+
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
     alt="Get it on F-Droid"
     height="80">](https://f-droid.org/packages/app.reading.stoic.stoicreading/)

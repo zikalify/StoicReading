@@ -1,6 +1,10 @@
 Stoic Reading
 =============
 
+
+<!-- Auto width -->
+<button class="btn"><i class="fa fa-download"></i> Download</button>
+
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
     alt="Get it on F-Droid"
     height="80">](https://f-droid.org/packages/app.reading.stoic.stoicreading/)

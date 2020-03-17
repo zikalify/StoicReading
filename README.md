@@ -5,7 +5,7 @@ Latest version:
 
 [<img src="https://i.imgur.com/pX0xAHv.png"
     alt="Download the app"
-    height="40">](https://github.com/zikalify/StoicReading/releases/download/1.7.6/Stoic.Reading.1.7.6.apk)
+    height="60">](https://github.com/zikalify/StoicReading/releases/download/1.7.6/Stoic.Reading.1.7.6.apk)
 
 Out of date:
 

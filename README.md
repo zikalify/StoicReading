@@ -1,6 +1,10 @@
 Stoic Reading
 =============
 
+<img align="right" img src="https://raw.githubusercontent.com/zikalify/StoicReading/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" 
+    alt="Stoic Reading logo"
+    height="100">
+
 Latest version:
 
 [<img src="https://i.imgur.com/pX0xAHv.png"

@@ -13,5 +13,10 @@
     <color name="MyCheckBoxStyle">#e2e2e2</color>
     <color name="colorPrimary">#333333</color>
     <color name="colorPrimaryDark">#333333</color>
-
+    <color name="textColorPrimarySepia">#645032</color>
+    <color name="textColorPrimaryScrollSepia">#1A645032</color>
+    <color name="colorPrimarySepia">#ece1ca</color>
+    <color name="colorPrimaryDarkSepia">#ece1ca</color>
+    <color name="windowBackgroundSepia">#ece1ca</color>
+    <color name="buttonColorSepia">#CEC3AC</color>
 </resources>

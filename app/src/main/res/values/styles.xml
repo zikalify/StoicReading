@@ -28,4 +28,15 @@
         <item name="android:scrollbarSize">4dp</item>
     </style>
 
+    <style name="AppThemeSepia" parent="Theme.AppCompat.DayNight">
+        <item name="android:textColorPrimary">@color/textColorPrimarySepia</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorPrimarySepia</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSepia</item>
+        <item name="android:windowBackground">@color/windowBackgroundSepia</item>
+        <item name="colorButtonNormal">@color/buttonColorSepia</item>
+        <item name="android:scrollbarThumbVertical">@color/textColorPrimaryScrollSepia</item>
+        <item name="android:scrollbarSize">4dp</item>
+    </style>
+
 </resources>

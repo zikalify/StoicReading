@@ -7,7 +7,7 @@ Stoic Reading
 
 [<img src="https://i.imgur.com/pX0xAHv.png"
     alt="Download the app"
-    height="60">](https://github.com/zikalify/StoicReading/releases/download/1.7.7/stoic_reading_1_7_7.apk)
+    height="60">](https://github.com/zikalify/StoicReading/releases/download/1.7.8/stoic_reading_1_7_8.apk)
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
     alt="Get it on F-Droid"

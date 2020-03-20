@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#333333</color>
-    <color name="colorPrimaryDark">#333333</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#FF9800</color>
     <color name="colorPrimary_alt">#FFFFFF</color>
-    <color name="colorPrimaryDark_alt">#FFFFFF</color>
+    <color name="colorPrimaryDark_alt">#000000</color>
     <color name="textColorPrimary_alt">#000000</color>
+    <color name="textColorPrimary">#e2e2e2</color>
+    <color name="textColorPrimaryScroll">#1AE2E2E2</color>
+    <color name="windowBackground">#000000</color>
+    <color name="buttonColor">#252525</color>
+    <color name="MyCheckBoxStyle">#e2e2e2</color>
+    <color name="colorPrimary_oldDark">#333333</color>
+    <color name="colorPrimaryDark_oldDark">#333333</color>
+
 </resources>

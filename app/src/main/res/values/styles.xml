@@ -4,16 +4,28 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary_alt</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_alt</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:textColorPrimary">@color/textColorPrimary_alt</item>
     </style>
 
-    <style name="AppThemeDark" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
-        <item name="android:textColorPrimary">@android:color/white</item>
+<!--    old dark theme-->
+<!--    <style name="AppThemeDark" parent="ThemeOverlay.AppCompat.Dark.ActionBar">-->
+<!--        <item name="android:textColorPrimary">@android:color/white</item>-->
+<!--        <item name="colorAccent">@color/colorAccent</item>-->
+<!--        <item name="colorPrimary">@color/colorPrimary_oldDark</item>-->
+<!--        <item name="colorPrimaryDark">@color/colorPrimaryDark_oldDark</item>-->
+<!--    </style>-->
+
+    <style name="AppThemeDark" parent="Theme.AppCompat.DayNight">
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="colorButtonNormal">@color/buttonColor</item>
+        <item name="android:scrollbarThumbVertical">@color/textColorPrimaryScroll</item>
+        <item name="android:scrollbarSize">4dp</item>
     </style>
 
 </resources>

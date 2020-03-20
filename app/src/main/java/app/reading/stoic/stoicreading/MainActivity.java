@@ -2,6 +2,7 @@ package app.reading.stoic.stoicreading;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Color;
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.WindowManager;
@@ -30,6 +31,10 @@ public class MainActivity extends AppCompatActivity {
         toggle.setChecked(useDarkTheme);
 
         toggle.setOnCheckedChangeListener((view, isChecked) -> toggleTheme(isChecked));
+
+        if(toggle.isChecked()){
+            toggle.setTextColor(Color.parseColor("#e2e2e2"));
+        }
 
         //Call each activity when click corresponding button
         Button button = findViewById(R.id.rufus_button);

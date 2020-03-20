@@ -10,8 +10,7 @@
     android:stackFromBottom="true"
     android:transcriptMode="alwaysScroll">
 
-    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:context=".MainActivity">
@@ -22,6 +21,7 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="5dp"
+            android:overScrollMode="ifContentScrolls"
             android:text="@string/toggle_dark_theme"
             android:textSize="18sp"
             tools:layout_editor_absoluteX="4dp"

@@ -42,7 +42,7 @@
             android:text="@string/EpictetusDiscoursesBookThree9"
             android:textAppearance="@style/TextAppearance.AppCompat"
             android:textIsSelectable="true"
-            android:textSize="20sp"
+            android:textSize="18sp"
             app:fontFamily="sans-serif" />
     </ScrollView>
 

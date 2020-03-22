@@ -18,9 +18,7 @@
         android:layout_alignParentBottom="true"
         android:background="@drawable/gradient"/>
 
-        <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-            xmlns:app="http://schemas.android.com/apk/res-auto"
-            xmlns:tools="http://schemas.android.com/tools"
+        <ScrollView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             tools:context=".HieroclesFragments.HieroclesFragments7">
@@ -42,7 +40,7 @@
                 android:text="@string/HieroclesFragments_7"
                 android:textAppearance="@style/TextAppearance.AppCompat"
                 android:textIsSelectable="true"
-                android:textSize="20sp"
+                android:textSize="18sp"
                 app:fontFamily="sans-serif" />
         </ScrollView>
 

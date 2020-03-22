@@ -9,9 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        android:theme="@style/AppThemeSepia">
-        android:theme="@style/AppThemeDark">
-        android:theme="@style/AppThemeNight">
         <activity android:name=".SenecaOfClemency.BookOne.OfClemencyBookOne_26"></activity>
         <activity android:name=".SenecaOfClemency.BookOne.OfClemencyBookOne_25" />
         <activity android:name=".SenecaOfClemency.BookOne.OfClemencyBookOne_24" />

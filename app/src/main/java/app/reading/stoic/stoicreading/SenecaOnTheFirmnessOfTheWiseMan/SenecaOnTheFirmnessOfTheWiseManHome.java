@@ -22,6 +22,7 @@ public class SenecaOnTheFirmnessOfTheWiseManHome extends AppCompatActivity {
             setTheme(R.style.AppThemeDark);
         }
         super.onCreate(savedInstanceState);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE,WindowManager.LayoutParams.FLAG_SECURE);
         setContentView(R.layout.activity_seneca_on_the_firmness_of_the_wise_man_home);
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         setTitle(this.getString(R.string.SenecaOnTheFirmnessOfTheWiseManTitle));

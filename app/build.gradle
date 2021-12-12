@@ -5,7 +5,7 @@ android {
     buildToolsVersion '30.0.3'
 
     defaultConfig {
-        applicationId "app.reading.stoic.stoicreading"
+        applicationId "app.reading.stoic.stoicreading2"
         minSdkVersion 15
         targetSdkVersion 31
         versionCode 71

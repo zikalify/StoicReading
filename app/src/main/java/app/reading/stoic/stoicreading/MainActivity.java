@@ -38,10 +38,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         //Call each activity when click corresponding button
-        Button button = findViewById(R.id.rufus_button);
-        button.setOnClickListener(v -> rufusHome());
-
-        button = findViewById(R.id.epictetus_button);
+        Button button = findViewById(R.id.epictetus_button);
         button.setOnClickListener(v -> epictetusHome());
 
         button = findViewById(R.id.hierocles_button);

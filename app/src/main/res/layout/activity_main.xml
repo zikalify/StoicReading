@@ -28,16 +28,6 @@
             tools:layout_editor_absoluteY="5dp" />
 
         <Button
-            android:id="@+id/rufus_button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/posidonius_button"
-            android:layout_centerHorizontal="true"
-            android:text="@string/Musonius_Rufus"
-            tools:layout_editor_absoluteX="4dp"
-            tools:layout_editor_absoluteY="5dp" />
-
-        <Button
             android:id="@+id/hierocles_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -61,7 +51,7 @@
             android:id="@+id/seneca_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/rufus_button"
+            android:layout_below="@+id/posidonius_button"
             android:layout_centerHorizontal="true"
             android:text="@string/Seneca"
             tools:layout_editor_absoluteX="4dp"

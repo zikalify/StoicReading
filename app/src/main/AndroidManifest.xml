@@ -286,7 +286,8 @@
         <activity android:name=".SenecaOfAnger.BookOne.OfAngerBookOne_1" />
         <activity android:name=".SenecaOfAnger.BookOne.OfAngerBookOne_home" />
         <activity android:name=".SenecaOfAnger.SenecaOfAngerHome" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"
+            android:exported="false">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

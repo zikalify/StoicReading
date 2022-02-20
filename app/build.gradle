@@ -8,8 +8,8 @@ android {
         applicationId "app.reading.stoic.stoicreading2"
         minSdkVersion 15
         targetSdkVersion 31
-        versionCode 73
-        versionName "1.8.4"
+        versionCode 74
+        versionName "1.8.5"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -28,10 +28,10 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-
-    lintOptions {
+    lint {
         disable 'GoogleAppIndexingWarning'
     }
+
 }
 
 dependencies {
